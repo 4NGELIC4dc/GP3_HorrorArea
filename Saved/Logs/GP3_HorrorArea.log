@@ -2457,3 +2457,1086 @@ FPackageName: Skipped package /Game/StarterContent/Audio/Steam01_Cue has a valid
 [2025.05.05-12.43.20:371][405]LogOnline: OSS: Created online subsystem instance for: :Context_18
 [2025.05.05-12.43.20:398][405]PIE: Server logged in
 [2025.05.05-12.43.20:400][405]PIE: Play in editor total start time 0.148 seconds.
+[2025.05.05-12.45.02:484][172]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2025.05.05-12.45.02:501][172]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.05-12.45.02:596][172]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.05.05-12.45.02:620][172]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2025.05.05-12.45.02:645][172]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.05.05-12.45.02:662][172]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Z7/W1SXRCM1KAKBJOIZDLHZ47
+[2025.05.05-12.45.02:663][172]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/W1SXRCM1KAKBJOIZDLHZ478D37366B4BD3841AB88F3DB87461E2B8.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Z7/W1SXRCM1KAKBJOIZDLHZ47.uasset'
+[2025.05.05-12.45.02:666][172]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/MS/3FT95FNSZM5DL36VJ6U1BG
+[2025.05.05-12.45.02:666][172]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/3FT95FNSZM5DL36VJ6U1BGCC4639FA4BBE29545FCCB8BE34A539F9.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/MS/3FT95FNSZM5DL36VJ6U1BG.uasset'
+[2025.05.05-12.45.02:670][172]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPersonArms/Animations/FirstPerson_AnimBP] ([2] browsable assets)...
+[2025.05.05-12.45.02:757][172]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/FirstPersonArms/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP]
+[2025.05.05-12.45.02:757][172]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonArms/Animations/FirstPerson_AnimBP]
+[2025.05.05-12.45.02:805][172]LogSavePackage: Moving output files for package: /Game/FirstPersonArms/Animations/FirstPerson_AnimBP
+[2025.05.05-12.45.02:806][172]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/FirstPerson_AnimBP472ACA444611F5B10C1C9A99187AC466.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Content/FirstPersonArms/Animations/FirstPerson_AnimBP.uasset'
+[2025.05.05-12.45.02:808][172]LogFileHelpers: InternalPromptForCheckoutAndSave took 306.601 ms (total: 1.14 sec)
+[2025.05.05-12.45.02:822][172]LogContentValidation: Display: Starting to validate 3 assets
+[2025.05.05-12.45.02:822][172]LogContentValidation: Enabled validators:
+[2025.05.05-12.45.02:822][172]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.05-12.45.02:822][172]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.05-12.45.02:822][172]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.05-12.45.02:822][172]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.05-12.45.02:822][172]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.05-12.45.02:822][172]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.05-12.45.02:857][172]AssetCheck: /Game/FirstPerson/Maps/FirstPersonMap Validating asset
+[2025.05.05-12.45.02:857][172]AssetCheck: /Game/FirstPersonArms/Animations/FirstPerson_AnimBP Validating asset
+[2025.05.05-12.46.02:688][770]LogContentBrowser: Attempting asset rename: Wall_400x400 -> Wall_400x400
+[2025.05.05-12.47.31:702][649]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.05-12.47.31:702][649]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.05.05-12.47.31:702][649]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.05.05-12.47.31:703][649]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.05-12.47.31:703][649]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap
+[2025.05.05-12.47.31:785][649]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.05-12.47.31:793][649]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.05-12.47.31:825][649]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.05-12.47.31:825][649]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.05.05-12.47.31:825][649]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.05.05-12.47.31:828][649]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.05.05-12.47.31:834][649]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.05-12.47.31:838][649]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2025.05.05-12.47.32:487][650]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2025.05.05-12.47.39:661][744]Cmd: DELETE
+[2025.05.05-12.47.39:661][744]Cmd: ACTOR DELETE
+[2025.05.05-12.47.39:727][744]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.05-12.47.39:782][744]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2025.05.05-12.47.39:785][744]LogEditorActor: Deleted 1 Actors (0.124 secs)
+[2025.05.05-12.47.52:848][ 11]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_0.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=30.000 Y=35.000 Z=0.000
+[2025.05.05-12.47.52:848][ 11]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_0.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=30.000 Y=35.000 Z=0.000
+[2025.05.05-12.47.56:771][105]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_0.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=30.000 Y=30.000 Z=0.000
+[2025.05.05-12.47.56:771][105]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_0.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=30.000 Y=30.000 Z=0.000
+[2025.05.05-12.48.03:774][265]Cmd: TRANSACTION UNDO
+[2025.05.05-12.48.03:837][265]LogEditorTransaction: Undo Clicking on Elements
+[2025.05.05-12.48.04:244][265]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.05.05-12.48.04:788][267]Cmd: TRANSACTION UNDO
+[2025.05.05-12.48.04:788][267]LogEditorTransaction: Undo Set Scale
+[2025.05.05-12.48.04:822][267]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_0.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=30.000 Y=35.000 Z=0.000
+[2025.05.05-12.48.05:096][267]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.05.05-12.48.06:321][294]Cmd: TRANSACTION UNDO
+[2025.05.05-12.48.06:321][294]LogEditorTransaction: Undo Set Scale
+[2025.05.05-12.48.06:675][294]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.05.05-12.48.40:710][ 21]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2056.111328
+[2025.05.05-12.48.41:090][ 30]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.05-12.48.41:090][ 30]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2056.447754, Update Interval: 330.383606
+[2025.05.05-12.50.41:009][616]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.05-12.50.41:016][616]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.05.05-12.50.41:016][616]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2025.05.05-12.50.41:019][616]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 2.725 ms (total: 56.601 ms)
+[2025.05.05-12.50.41:019][616]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.05-12.50.41:019][616]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.05.05-12.50.41:022][616]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003687s)
+[2025.05.05-12.50.41:022][616]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.003741s)
+[2025.05.05-12.50.41:057][616]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2025.05.05-12.50.41:059][616]LogChaosDD: Creating Chaos Debug Draw Scene for world FirstPersonMap
+[2025.05.05-12.50.41:061][616]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.05.05-12.50.41:061][616]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.05.05-12.50.41:062][616]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.05.05-12.50.41:062][616]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.05.05-12.50.41:063][616]LogWorldPartition: Display: WorldPartition initialize took 1.188 ms (total: 703.914 ms)
+[2025.05.05-12.50.41:063][616]LogPlayLevel: PIE: World Init took: (0.003594s)
+[2025.05.05-12.50.41:064][616]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.05.05-12.50.41:064][616]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.05-12.50.41:064][616]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.05-12.50.41:064][616]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.05-12.50.41:064][616]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.05-12.50.41:064][616]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.05.05-12.50.41:064][616]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.05-12.50.41:064][616]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.05.05-12.50.41:064][616]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.05-12.50.41:064][616]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.05-12.50.41:064][616]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.05-12.50.41:064][616]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.05-12.50.41:067][616]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.05-12.50.41:091][616]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- High Definition Audio Device)
+[2025.05.05-12.50.41:092][616]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.05-12.50.41:092][616]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.05-12.50.41:092][616]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.05-12.50.41:093][616]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.05.05-12.50.41:093][616]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2025.05.05-12.50.41:096][616]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.05.05-12.50.41:096][616]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2025.05.05-12.50.41:096][616]LogInit: FAudioDevice initialized with ID 4.
+[2025.05.05-12.50.41:096][616]LogAudio: Display: Audio Device (ID: 4) registered with world 'FirstPersonMap'.
+[2025.05.05-12.50.41:096][616]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2025.05.05-12.50.41:100][616]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.05.05-12.50.41:101][616]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 60) at 2025.05.05-20.50.41
+[2025.05.05-12.50.41:102][616]LogWorld: Bringing up level for play took: 0.001138
+[2025.05.05-12.50.41:104][616]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2025.05.05-12.50.41:109][616]PIE: Server logged in
+[2025.05.05-12.50.41:110][616]PIE: Play in editor total start time 0.095 seconds.
+[2025.05.05-12.51.12:282][208]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.05-12.51.12:283][208]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.05.05-12.51.12:283][208]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.05.05-12.51.12:283][208]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.05-12.51.12:283][208]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap
+[2025.05.05-12.51.12:333][208]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.05-12.51.12:339][208]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.05-12.51.12:370][208]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.05-12.51.12:371][208]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2025.05.05-12.51.12:371][208]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.05.05-12.51.12:374][208]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.05.05-12.51.12:381][208]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.05-12.51.12:385][208]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2025.05.05-12.51.12:742][209]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2025.05.05-12.51.30:677][576]LogStreaming: Display: FlushAsyncLoading(680): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.05-12.51.30:888][576]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200
+[2025.05.05-12.51.30:888][576]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200
+[2025.05.05-12.51.30:888][576]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_5
+[2025.05.05-12.51.31:532][577]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2025.05.05-12.51.31:534][577]LogEditorActor: Deleted 0 Actors (0.031 secs)
+[2025.05.05-12.51.31:552][577]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200
+[2025.05.05-12.51.31:553][577]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200
+[2025.05.05-12.51.31:557][577]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_2CFDA1419EE2836502_1748158208
+[2025.05.05-12.53.50:604][533]LogStreaming: Display: FlushAsyncLoading(681): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.05-12.53.51:297][539]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300
+[2025.05.05-12.53.51:297][539]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300
+[2025.05.05-12.53.51:297][539]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_6
+[2025.05.05-12.53.53:598][588]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.05.05-12.53.53:601][588]LogEditorActor: Deleted 0 Actors (0.035 secs)
+[2025.05.05-12.53.53:611][588]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300
+[2025.05.05-12.53.53:611][588]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300
+[2025.05.05-12.53.53:614][588]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_2CFDA1419EE2836502_1890217209
+[2025.05.05-12.54.44:650][661]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2420.055420
+[2025.05.05-12.54.45:014][668]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.05-12.54.45:014][668]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2420.376221, Update Interval: 318.263489
+[2025.05.05-12.57.32:784][310]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.05.05-12.57.32:789][310]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/AJ/2XZ3RUK0LFB63FVNQE7P5R_Auto3
+[2025.05.05-12.57.32:789][310]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/2XZ3RUK0LFB63FVNQE7P5R_Auto3B9AC5DF9486D7F026F61A99ACDA7DCC0.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/AJ/2XZ3RUK0LFB63FVNQE7P5R_Auto3.uasset'
+[2025.05.05-12.57.32:792][310]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/L5/1ZJ54FMA0DAL3I2Q8RFAIB_Auto3
+[2025.05.05-12.57.32:792][310]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/1ZJ54FMA0DAL3I2Q8RFAIB_Auto37C1F04574F4B5E3C00C10A82EEFCF4F4.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/L5/1ZJ54FMA0DAL3I2Q8RFAIB_Auto3.uasset'
+[2025.05.05-12.57.32:799][310]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/XJ/HL558UUAGCS9HVVOI0S7PX_Auto3
+[2025.05.05-12.57.32:799][310]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/HL558UUAGCS9HVVOI0S7PX_Auto3420DB5744EAB362CA8852398A7F8B3A5.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/XJ/HL558UUAGCS9HVVOI0S7PX_Auto3.uasset'
+[2025.05.05-12.57.32:799][310]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/UE/YUZ9741T50O1SYRX90OB0S_Auto3
+[2025.05.05-12.57.32:799][310]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/YUZ9741T50O1SYRX90OB0S_Auto31957D6BD4A4FD11F6EBFEDA8EB953676.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/UE/YUZ9741T50O1SYRX90OB0S_Auto3.uasset'
+[2025.05.05-12.57.32:804][310]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/BX/RA6NRY28VRUSR54N0JRTV2_Auto3
+[2025.05.05-12.57.32:804][310]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/RA6NRY28VRUSR54N0JRTV2_Auto3CE25E57040793996F6522BAF4AC67703.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/BX/RA6NRY28VRUSR54N0JRTV2_Auto3.uasset'
+[2025.05.05-12.57.32:805][310]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/MS/UB6SL4DM4510O1E9DFQ6D0_Auto3
+[2025.05.05-12.57.32:805][310]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/UB6SL4DM4510O1E9DFQ6D0_Auto379C5E5FC452318AF7AE2ACBB005E7178.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/MS/UB6SL4DM4510O1E9DFQ6D0_Auto3.uasset'
+[2025.05.05-12.57.32:807][310]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.051
+[2025.05.05-12.57.32:807][310]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.051
+[2025.05.05-12.57.32:808][310]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FPWeapon/Mesh/SK_FPGun_Auto3
+[2025.05.05-12.57.32:808][310]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/SK_FPGun_Auto33EDD9C3D4EED36049CFF4581AAF4BB34.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/FPWeapon/Mesh/SK_FPGun_Auto3.uasset'
+[2025.05.05-12.57.32:809][310]LogFileHelpers: Auto-saving content packages took 0.002
+[2025.05.05-12.58.10:951][118]Cmd: TRANSACTION UNDO
+[2025.05.05-12.58.10:951][118]LogEditorTransaction: Undo Move Elements
+[2025.05.05-12.58.11:323][118]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.05.05-12.58.16:094][224]Cmd: EDIT COPY
+[2025.05.05-12.58.16:622][235]Cmd: EDIT PASTE
+[2025.05.05-12.58.30:914][535]Cmd: TRANSACTION UNDO
+[2025.05.05-12.58.30:914][535]LogEditorTransaction: Undo Move Elements
+[2025.05.05-12.58.31:282][535]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.05.05-12.58.31:657][535]Cmd: TRANSACTION UNDO
+[2025.05.05-12.58.31:657][535]LogEditorTransaction: Undo Move Elements
+[2025.05.05-12.58.31:942][535]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.05.05-12.58.31:947][535]Cmd: TRANSACTION UNDO
+[2025.05.05-12.58.31:947][535]LogEditorTransaction: Undo Paste
+[2025.05.05-12.58.32:397][535]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.05.05-12.58.32:402][535]Cmd: TRANSACTION UNDO
+[2025.05.05-12.58.32:402][535]LogEditorTransaction: Undo Set Scale
+[2025.05.05-12.58.32:715][535]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.05.05-12.59.07:675][270]Cmd: DELETE
+[2025.05.05-12.59.07:675][270]Cmd: ACTOR DELETE
+[2025.05.05-12.59.07:678][270]LogEditorActor: Deleted Actor: TextRenderActor
+[2025.05.05-12.59.07:710][270]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_2CFDA1419EE2846502_1079566386 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/42/Z2LU9BUJUAPZKST480LFCN.PackageMetaData in its package
+[2025.05.05-12.59.07:779][270]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2025.05.05-12.59.07:782][270]LogEditorActor: Deleted 1 Actors (0.107 secs)
+[2025.05.05-12.59.07:817][270]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2025.05.05-12.59.19:386][520]Cmd: EDIT COPY
+[2025.05.05-12.59.20:339][541]Cmd: EDIT PASTE
+[2025.05.05-13.00.35:800][128]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2771.202881
+[2025.05.05-13.00.36:175][136]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.05-13.00.36:175][136]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2771.532715, Update Interval: 349.819031
+[2025.05.05-13.00.36:826][150]Cmd: EDIT COPY
+[2025.05.05-13.00.37:095][156]Cmd: EDIT PASTE
+[2025.05.05-13.02.56:303][198]Cmd: DELETE
+[2025.05.05-13.02.56:303][198]Cmd: ACTOR DELETE
+[2025.05.05-13.02.56:305][198]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.05-13.02.56:351][198]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2025.05.05-13.02.56:355][198]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2025.05.05-13.02.58:259][234]Cmd: DELETE
+[2025.05.05-13.02.58:259][234]Cmd: ACTOR DELETE
+[2025.05.05-13.02.58:260][234]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.05-13.02.58:288][234]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.05.05-13.02.58:290][234]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2025.05.05-13.03.15:923][607]Cmd: EDIT COPY
+[2025.05.05-13.03.17:314][639]Cmd: EDIT PASTE
+[2025.05.05-13.04.33:310][261]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.05-13.04.33:315][261]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.05.05-13.04.33:315][261]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2025.05.05-13.04.33:317][261]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 2.455 ms (total: 59.057 ms)
+[2025.05.05-13.04.33:317][261]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.05-13.04.33:318][261]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.05.05-13.04.33:321][261]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003730s)
+[2025.05.05-13.04.33:322][261]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.003775s)
+[2025.05.05-13.04.33:353][261]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2025.05.05-13.04.33:356][261]LogChaosDD: Creating Chaos Debug Draw Scene for world FirstPersonMap
+[2025.05.05-13.04.33:359][261]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.05.05-13.04.33:359][261]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.05.05-13.04.33:359][261]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.05.05-13.04.33:359][261]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.05.05-13.04.33:360][261]LogWorldPartition: Display: WorldPartition initialize took 1.395 ms (total: 705.309 ms)
+[2025.05.05-13.04.33:361][261]LogPlayLevel: PIE: World Init took: (0.004255s)
+[2025.05.05-13.04.33:362][261]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2025.05.05-13.04.33:362][261]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.05-13.04.33:362][261]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.05-13.04.33:362][261]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.05-13.04.33:362][261]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.05-13.04.33:362][261]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.05.05-13.04.33:362][261]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.05-13.04.33:362][261]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.05.05-13.04.33:362][261]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.05-13.04.33:362][261]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.05-13.04.33:362][261]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.05-13.04.33:363][261]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.05-13.04.33:366][261]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.05-13.04.33:391][261]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- High Definition Audio Device)
+[2025.05.05-13.04.33:392][261]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.05-13.04.33:392][261]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.05-13.04.33:392][261]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.05-13.04.33:393][261]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2025.05.05-13.04.33:393][261]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2025.05.05-13.04.33:395][261]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2025.05.05-13.04.33:396][261]LogInit: FAudioDevice initialized with ID 5.
+[2025.05.05-13.04.33:396][261]LogAudio: Display: Audio Device (ID: 5) registered with world 'FirstPersonMap'.
+[2025.05.05-13.04.33:396][261]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2025.05.05-13.04.33:396][261]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2025.05.05-13.04.33:399][261]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.05.05-13.04.33:400][261]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 60) at 2025.05.05-21.04.33
+[2025.05.05-13.04.33:400][261]LogWorld: Bringing up level for play took: 0.001251
+[2025.05.05-13.04.33:403][261]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2025.05.05-13.04.33:408][261]PIE: Server logged in
+[2025.05.05-13.04.33:409][261]PIE: Play in editor total start time 0.094 seconds.
+[2025.05.05-13.05.10:261][ 43]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.05-13.05.10:261][ 43]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.05.05-13.05.10:261][ 43]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.05.05-13.05.10:261][ 43]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.05-13.05.10:261][ 43]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap
+[2025.05.05-13.05.10:317][ 43]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.05-13.05.10:323][ 43]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.05-13.05.10:354][ 43]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.05-13.05.10:354][ 43]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2025.05.05-13.05.10:354][ 43]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.05.05-13.05.10:357][ 43]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.05.05-13.05.10:366][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2025.05.05-13.05.10:696][ 44]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2025.05.05-13.05.32:030][402]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.05.05-13.05.36:339][489]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.05.05-13.06.02:547][ 65]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.05.05-13.06.11:062][239]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.05.05-13.06.16:693][356]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.05.05-13.07.02:586][389]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3158.003662
+[2025.05.05-13.07.02:949][397]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.05-13.07.02:949][397]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3158.320312, Update Interval: 345.263214
+[2025.05.05-13.08.06:006][740]Cmd: EDIT COPY
+[2025.05.05-13.08.06:448][750]Cmd: EDIT PASTE
+[2025.05.05-13.08.57:540][833]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2025.05.05-13.08.57:544][833]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/AJ/2XZ3RUK0LFB63FVNQE7P5R_Auto4
+[2025.05.05-13.08.57:544][833]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/2XZ3RUK0LFB63FVNQE7P5R_Auto4C3E6E17148B906B6D6647A90F9BE47BF.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/AJ/2XZ3RUK0LFB63FVNQE7P5R_Auto4.uasset'
+[2025.05.05-13.08.57:547][833]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/L5/1ZJ54FMA0DAL3I2Q8RFAIB_Auto4
+[2025.05.05-13.08.57:547][833]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/1ZJ54FMA0DAL3I2Q8RFAIB_Auto4BCB56EF74E9D01C22330838650010885.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/L5/1ZJ54FMA0DAL3I2Q8RFAIB_Auto4.uasset'
+[2025.05.05-13.08.57:550][833]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Z7/W1SXRCM1KAKBJOIZDLHZ47_Auto4
+[2025.05.05-13.08.57:550][833]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/W1SXRCM1KAKBJOIZDLHZ47_Auto4BB1703114DE6423D2F6C9F992FF10A93.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Z7/W1SXRCM1KAKBJOIZDLHZ47_Auto4.uasset'
+[2025.05.05-13.08.57:553][833]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/XJ/HL558UUAGCS9HVVOI0S7PX_Auto4
+[2025.05.05-13.08.57:553][833]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/HL558UUAGCS9HVVOI0S7PX_Auto4361E2CA947910F72B9D7DE9FB750A29A.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/XJ/HL558UUAGCS9HVVOI0S7PX_Auto4.uasset'
+[2025.05.05-13.08.57:555][833]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/UE/YUZ9741T50O1SYRX90OB0S_Auto4
+[2025.05.05-13.08.57:555][833]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/YUZ9741T50O1SYRX90OB0S_Auto405B83ECC47D3CD40F488819DDD81F898.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/UE/YUZ9741T50O1SYRX90OB0S_Auto4.uasset'
+[2025.05.05-13.08.57:558][833]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/MS/UB6SL4DM4510O1E9DFQ6D0_Auto4
+[2025.05.05-13.08.57:558][833]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/UB6SL4DM4510O1E9DFQ6D0_Auto4BB18FCE34BC90B5CC34248B95B0CBF4E.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/MS/UB6SL4DM4510O1E9DFQ6D0_Auto4.uasset'
+[2025.05.05-13.08.57:562][833]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/FY/PSDST6633SFUI8406COGOM_Auto4
+[2025.05.05-13.08.57:562][833]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/PSDST6633SFUI8406COGOM_Auto4051D8DD349AB29A69E1070AFC7082631.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/FY/PSDST6633SFUI8406COGOM_Auto4.uasset'
+[2025.05.05-13.08.57:565][833]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/DC/20BAP8B797VXIFI1QRY9AO_Auto4
+[2025.05.05-13.08.57:565][833]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/20BAP8B797VXIFI1QRY9AO_Auto4B9383EE5435D8841FCF1E48A6A55D000.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/DC/20BAP8B797VXIFI1QRY9AO_Auto4.uasset'
+[2025.05.05-13.08.57:568][833]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/MV/JEI02V2HJBQQQOTDTTXSBU_Auto4
+[2025.05.05-13.08.57:568][833]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/JEI02V2HJBQQQOTDTTXSBU_Auto483FE38DE459653108722C0A76B84810A.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/MV/JEI02V2HJBQQQOTDTTXSBU_Auto4.uasset'
+[2025.05.05-13.08.57:570][833]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.062
+[2025.05.05-13.08.57:570][833]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.062
+[2025.05.05-13.08.57:571][833]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FPWeapon/Mesh/SK_FPGun_Auto4
+[2025.05.05-13.08.57:571][833]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/SK_FPGun_Auto449738F064CEA665C4B1BB1B9D89EEFE2.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/FPWeapon/Mesh/SK_FPGun_Auto4.uasset'
+[2025.05.05-13.08.57:572][833]LogFileHelpers: Auto-saving content packages took 0.003
+[2025.05.05-13.09.39:002][731]Cmd: EDIT COPY
+[2025.05.05-13.09.39:819][749]Cmd: EDIT PASTE
+[2025.05.05-13.11.21:751][942]Cmd: EDIT COPY
+[2025.05.05-13.11.22:615][961]Cmd: EDIT PASTE
+[2025.05.05-13.12.35:863][493]Cmd: EDIT COPY
+[2025.05.05-13.12.36:413][505]Cmd: EDIT PASTE
+[2025.05.05-13.13.26:996][597]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3542.407227
+[2025.05.05-13.13.27:706][605]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.05-13.13.27:707][605]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3542.971924, Update Interval: 356.669220
+[2025.05.05-13.14.31:302][981]Cmd: EDIT COPY
+[2025.05.05-13.14.31:616][988]Cmd: EDIT PASTE
+[2025.05.05-13.15.19:870][ 31]LogDerivedDataCache: C:/Users/Cheska/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.05.05-13.15.22:407][ 86]Cmd: EDIT COPY
+[2025.05.05-13.15.23:046][100]Cmd: EDIT PASTE
+[2025.05.05-13.16.50:427][925]Cmd: EDIT COPY
+[2025.05.05-13.16.50:918][936]Cmd: EDIT PASTE
+[2025.05.05-13.18.23:893][965]Cmd: EDIT COPY
+[2025.05.05-13.18.24:120][970]Cmd: EDIT PASTE
+[2025.05.05-13.19.51:676][814]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2025.05.05-13.19.51:683][814]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/MV/JEI02V2HJBQQQOTDTTXSBU_Auto5
+[2025.05.05-13.19.51:683][814]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/JEI02V2HJBQQQOTDTTXSBU_Auto5ED3EBE274DF0D4C9FC3F47823DD654ED.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/MV/JEI02V2HJBQQQOTDTTXSBU_Auto5.uasset'
+[2025.05.05-13.19.51:687][814]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/S2/9UNA0DT68Y1HWZ1T9XSUM5_Auto5
+[2025.05.05-13.19.51:687][814]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/9UNA0DT68Y1HWZ1T9XSUM5_Auto507ECD8D84682E23241E9F08433A4332D.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/S2/9UNA0DT68Y1HWZ1T9XSUM5_Auto5.uasset'
+[2025.05.05-13.19.51:690][814]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/JD/S84ZT29GB4TG1Z8GLEEZAL_Auto5
+[2025.05.05-13.19.51:690][814]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/S84ZT29GB4TG1Z8GLEEZAL_Auto5EC4D437845F47101A688969D23C3FFBC.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/JD/S84ZT29GB4TG1Z8GLEEZAL_Auto5.uasset'
+[2025.05.05-13.19.51:695][814]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/QS/U2I7OPLSED4HSV44AD7WRI_Auto5
+[2025.05.05-13.19.51:696][814]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/U2I7OPLSED4HSV44AD7WRI_Auto5D4C897944401C54BCBF138B5BAC94618.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/QS/U2I7OPLSED4HSV44AD7WRI_Auto5.uasset'
+[2025.05.05-13.19.51:699][814]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/JQ/B1FTD92NDPJ2I171AFU2OD_Auto5
+[2025.05.05-13.19.51:699][814]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/B1FTD92NDPJ2I171AFU2OD_Auto5E59C95BB4A28FEEEC30A51B1B23BD5F6.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/JQ/B1FTD92NDPJ2I171AFU2OD_Auto5.uasset'
+[2025.05.05-13.19.51:704][814]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/IL/3BAAQUC8RK2SGZU21H8VP0_Auto5
+[2025.05.05-13.19.51:704][814]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/3BAAQUC8RK2SGZU21H8VP0_Auto56BAC161A4605AF5D571FCB8819673C0D.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/IL/3BAAQUC8RK2SGZU21H8VP0_Auto5.uasset'
+[2025.05.05-13.19.51:710][814]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/Z6/NQUC4ZL65LJKHK874C6KKK_Auto5
+[2025.05.05-13.19.51:710][814]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/NQUC4ZL65LJKHK874C6KKK_Auto5CD43BA9147FCEA68E120299DD5CEC1C5.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/Z6/NQUC4ZL65LJKHK874C6KKK_Auto5.uasset'
+[2025.05.05-13.19.51:718][814]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/FD/UWRL9JBLS2KY23GK0B7VFQ_Auto5
+[2025.05.05-13.19.51:719][814]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/UWRL9JBLS2KY23GK0B7VFQ_Auto5D73045C246DB5559B1B6F58EF11B3862.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/FD/UWRL9JBLS2KY23GK0B7VFQ_Auto5.uasset'
+[2025.05.05-13.19.51:724][814]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/LJ/RTDXPUA54BPECASV4QX0K8_Auto5
+[2025.05.05-13.19.51:724][814]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/RTDXPUA54BPECASV4QX0K8_Auto5843128CF4A0133B2EA933E9FD9BCB165.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/LJ/RTDXPUA54BPECASV4QX0K8_Auto5.uasset'
+[2025.05.05-13.19.51:726][814]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.082
+[2025.05.05-13.19.51:726][814]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.082
+[2025.05.05-13.20.12:922][282]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3948.345947
+[2025.05.05-13.20.13:276][289]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.05-13.20.13:276][289]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3948.655029, Update Interval: 341.513123
+[2025.05.05-13.21.09:216][518]Cmd: EDIT COPY
+[2025.05.05-13.21.10:106][538]Cmd: EDIT PASTE
+[2025.05.05-13.21.50:587][417]Cmd: TRANSACTION UNDO
+[2025.05.05-13.21.50:587][417]LogEditorTransaction: Undo Clicking on Elements
+[2025.05.05-13.21.50:984][417]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.05.05-13.21.51:588][422]Cmd: TRANSACTION UNDO
+[2025.05.05-13.21.51:588][422]LogEditorTransaction: Undo Set Scale
+[2025.05.05-13.21.51:925][422]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.05.05-13.23.50:173][951]Cmd: TRANSACTION UNDO
+[2025.05.05-13.23.50:173][951]LogEditorTransaction: Undo Move Elements
+[2025.05.05-13.23.50:460][951]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.05.05-13.23.51:965][978]Cmd: EDIT COPY
+[2025.05.05-13.23.52:192][983]Cmd: EDIT PASTE
+[2025.05.05-13.24.02:880][192]Cmd: EDIT COPY
+[2025.05.05-13.24.03:060][196]Cmd: EDIT PASTE
+[2025.05.05-13.24.17:874][491]Cmd: EDIT COPY
+[2025.05.05-13.24.17:874][491]LogConsoleManager: Warning: Performance warning: Many (31) failed FindConsoleObject() for 'EDIT'. 
+[2025.05.05-13.24.18:055][495]Cmd: EDIT PASTE
+[2025.05.05-13.24.29:323][718]Cmd: EDIT COPY
+[2025.05.05-13.24.29:504][719]Cmd: EDIT PASTE
+[2025.05.05-13.25.20:018][811]Cmd: DELETE
+[2025.05.05-13.25.20:018][811]Cmd: ACTOR DELETE
+[2025.05.05-13.25.20:021][811]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.05-13.25.20:066][811]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2025.05.05-13.25.20:070][811]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2025.05.05-13.25.22:566][862]Cmd: EDIT COPY
+[2025.05.05-13.25.22:796][867]Cmd: EDIT PASTE
+[2025.05.05-13.25.33:991][ 95]Cmd: DELETE
+[2025.05.05-13.25.33:991][ 95]Cmd: ACTOR DELETE
+[2025.05.05-13.25.33:993][ 95]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.05-13.25.34:031][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2025.05.05-13.25.34:033][ 95]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2025.05.05-13.25.48:886][410]Cmd: TRANSACTION UNDO
+[2025.05.05-13.25.48:886][410]LogEditorTransaction: Undo Clicking on Elements
+[2025.05.05-13.25.49:284][410]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.05.05-13.25.49:872][413]Cmd: TRANSACTION UNDO
+[2025.05.05-13.25.49:872][413]LogEditorTransaction: Undo Set Scale
+[2025.05.05-13.25.50:160][413]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.05.05-13.25.50:668][419]Cmd: TRANSACTION UNDO
+[2025.05.05-13.25.50:668][419]LogEditorTransaction: Undo Clicking on Elements
+[2025.05.05-13.25.50:951][419]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.05.05-13.25.58:182][562]Cmd: TRANSACTION UNDO
+[2025.05.05-13.25.58:182][562]LogEditorTransaction: Undo Clicking on Elements
+[2025.05.05-13.25.58:575][562]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.05.05-13.25.58:743][563]Cmd: TRANSACTION UNDO
+[2025.05.05-13.25.58:743][563]LogEditorTransaction: Undo Set Scale
+[2025.05.05-13.25.59:049][563]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.05.05-13.26.09:307][754]Cmd: EDIT COPY
+[2025.05.05-13.26.11:176][794]Cmd: EDIT PASTE
+[2025.05.05-13.26.44:224][439]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4339.636719
+[2025.05.05-13.26.44:614][446]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.05-13.26.44:614][446]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4339.966797, Update Interval: 343.281952
+[2025.05.05-13.29.28:949][  7]Cmd: EDIT COPY
+[2025.05.05-13.29.29:136][ 11]Cmd: EDIT PASTE
+[2025.05.05-13.31.09:547][ 76]Cmd: DELETE
+[2025.05.05-13.31.09:547][ 76]Cmd: ACTOR DELETE
+[2025.05.05-13.31.09:549][ 76]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.05-13.31.09:594][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2025.05.05-13.31.09:599][ 76]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2025.05.05-13.31.27:535][460]Cmd: DELETE
+[2025.05.05-13.31.27:535][460]Cmd: ACTOR DELETE
+[2025.05.05-13.31.27:537][460]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.05-13.31.27:571][460]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.05.05-13.31.27:574][460]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2025.05.05-13.32.32:816][847]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.05-13.32.33:366][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.05.05-13.32.33:395][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.05.05-13.32.33:423][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.05.05-13.32.33:440][847]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/AJ/2XZ3RUK0LFB63FVNQE7P5R
+[2025.05.05-13.32.33:441][847]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/2XZ3RUK0LFB63FVNQE7P5REC6EA704461F5BE5F9B3F193D4D152BE.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/AJ/2XZ3RUK0LFB63FVNQE7P5R.uasset'
+[2025.05.05-13.32.33:444][847]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/L5/1ZJ54FMA0DAL3I2Q8RFAIB
+[2025.05.05-13.32.33:445][847]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/1ZJ54FMA0DAL3I2Q8RFAIB97FB13D8479CC5322790089A755C5FCF.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/L5/1ZJ54FMA0DAL3I2Q8RFAIB.uasset'
+[2025.05.05-13.32.33:448][847]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Z7/W1SXRCM1KAKBJOIZDLHZ47
+[2025.05.05-13.32.33:448][847]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/W1SXRCM1KAKBJOIZDLHZ473F5889974D67F559D25DB091A30C2FB7.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Z7/W1SXRCM1KAKBJOIZDLHZ47.uasset'
+[2025.05.05-13.32.33:451][847]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/XJ/HL558UUAGCS9HVVOI0S7PX
+[2025.05.05-13.32.33:456][847]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/HL558UUAGCS9HVVOI0S7PX70D19912485D485A0368348F1DC97FB6.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/XJ/HL558UUAGCS9HVVOI0S7PX.uasset'
+[2025.05.05-13.32.33:456][847]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/UE/YUZ9741T50O1SYRX90OB0S
+[2025.05.05-13.32.33:456][847]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/YUZ9741T50O1SYRX90OB0SCE82313B44E687175E63928D964420B6.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/UE/YUZ9741T50O1SYRX90OB0S.uasset'
+[2025.05.05-13.32.33:458][847]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/MS/UB6SL4DM4510O1E9DFQ6D0
+[2025.05.05-13.32.33:458][847]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/UB6SL4DM4510O1E9DFQ6D055B61E17467B8C6FBA7B448EC9FC4FE1.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/MS/UB6SL4DM4510O1E9DFQ6D0.uasset'
+[2025.05.05-13.32.33:462][847]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/FY/PSDST6633SFUI8406COGOM
+[2025.05.05-13.32.33:462][847]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/PSDST6633SFUI8406COGOMFE90287A4E537FAF810BE788949A9C2F.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/FY/PSDST6633SFUI8406COGOM.uasset'
+[2025.05.05-13.32.33:466][847]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/DC/20BAP8B797VXIFI1QRY9AO
+[2025.05.05-13.32.33:466][847]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/20BAP8B797VXIFI1QRY9AOB3E4DB55446117B507B82D8CD113EDAC.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/DC/20BAP8B797VXIFI1QRY9AO.uasset'
+[2025.05.05-13.32.33:474][847]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/JD/S84ZT29GB4TG1Z8GLEEZAL
+[2025.05.05-13.32.33:474][847]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/S84ZT29GB4TG1Z8GLEEZALA6D2C0014BCAEFA14EE8929A60AA6FD1.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/JD/S84ZT29GB4TG1Z8GLEEZAL.uasset'
+[2025.05.05-13.32.33:474][847]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/QS/U2I7OPLSED4HSV44AD7WRI
+[2025.05.05-13.32.33:475][847]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/U2I7OPLSED4HSV44AD7WRI124E5E1A410648302AD55F9BAE242230.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/QS/U2I7OPLSED4HSV44AD7WRI.uasset'
+[2025.05.05-13.32.33:478][847]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/IL/3BAAQUC8RK2SGZU21H8VP0
+[2025.05.05-13.32.33:479][847]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/3BAAQUC8RK2SGZU21H8VP0F3AE5163446BB1B3F3BB5F93777E0199.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/IL/3BAAQUC8RK2SGZU21H8VP0.uasset'
+[2025.05.05-13.32.33:482][847]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/Z6/NQUC4ZL65LJKHK874C6KKK
+[2025.05.05-13.32.33:482][847]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/NQUC4ZL65LJKHK874C6KKKACD3CF62469E3E629DAE1481BC4559F4.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/Z6/NQUC4ZL65LJKHK874C6KKK.uasset'
+[2025.05.05-13.32.33:487][847]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/LJ/RTDXPUA54BPECASV4QX0K8
+[2025.05.05-13.32.33:487][847]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/RTDXPUA54BPECASV4QX0K85940A09644C2E03FB28F2F8EE41A0FEF.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/LJ/RTDXPUA54BPECASV4QX0K8.uasset'
+[2025.05.05-13.32.33:491][847]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/PK/3DUHFKCE19T2ANH6QKWU3L
+[2025.05.05-13.32.33:491][847]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/3DUHFKCE19T2ANH6QKWU3LEAB220924D0A487AF48C519E20CCB380.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/PK/3DUHFKCE19T2ANH6QKWU3L.uasset'
+[2025.05.05-13.32.33:495][847]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/BT/RLHTOCEZDI9K2ZFQY1OY4L
+[2025.05.05-13.32.33:495][847]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/RLHTOCEZDI9K2ZFQY1OY4L9AD285FA4F03AD3A79C847B4DF7A829B.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/BT/RLHTOCEZDI9K2ZFQY1OY4L.uasset'
+[2025.05.05-13.32.33:499][847]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/33/18N6LFW33C0OIUDV1G318O
+[2025.05.05-13.32.33:499][847]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/18N6LFW33C0OIUDV1G318O2F5D0A0344BF4CB5BE3D018A08E7052F.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/33/18N6LFW33C0OIUDV1G318O.uasset'
+[2025.05.05-13.32.33:503][847]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/CC/M3BGSJ2W9DHX9AJ2KMIB36
+[2025.05.05-13.32.33:503][847]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/M3BGSJ2W9DHX9AJ2KMIB36C523D9E149863102479ABCA99442E030.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/CC/M3BGSJ2W9DHX9AJ2KMIB36.uasset'
+[2025.05.05-13.32.33:509][847]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/R1/3T4KVSFQH4VH0MOMUQ58UJ
+[2025.05.05-13.32.33:509][847]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/3T4KVSFQH4VH0MOMUQ58UJ91AC70274DA68010F397D88955ABDE51.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/R1/3T4KVSFQH4VH0MOMUQ58UJ.uasset'
+[2025.05.05-13.32.33:515][847]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/89/24MPN7N4MORFU3S2Z43QKB
+[2025.05.05-13.32.33:515][847]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/24MPN7N4MORFU3S2Z43QKBEBA82F0A44DBB00C0128E7BBA2848249.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/89/24MPN7N4MORFU3S2Z43QKB.uasset'
+[2025.05.05-13.32.33:519][847]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/X2/WPRB9EM4KO1ILAM73LXSVX
+[2025.05.05-13.32.33:519][847]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/WPRB9EM4KO1ILAM73LXSVXF5104F96428F4EA4E8A011995D1AB6AF.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/X2/WPRB9EM4KO1ILAM73LXSVX.uasset'
+[2025.05.05-13.32.33:523][847]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/F/46/QZE7HEESZB1NUYF82GZGYN
+[2025.05.05-13.32.33:523][847]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/QZE7HEESZB1NUYF82GZGYN499BB35340A96A1FC64D50A64BA9DE0B.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/F/46/QZE7HEESZB1NUYF82GZGYN.uasset'
+[2025.05.05-13.32.33:579][847]LogFileHelpers: InternalPromptForCheckoutAndSave took 762.482 ms (total: 1.90 sec)
+[2025.05.05-13.32.33:677][847]LogContentValidation: Display: Starting to validate 21 assets
+[2025.05.05-13.32.33:677][847]LogContentValidation: Enabled validators:
+[2025.05.05-13.32.33:677][847]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.05-13.32.33:678][847]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.05-13.32.33:678][847]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.05-13.32.33:678][847]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.05-13.32.33:678][847]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.05-13.32.33:678][847]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.05-13.32.33:678][847]AssetCheck: /Game/FirstPerson/Maps/FirstPersonMap Validating asset
+[2025.05.05-13.33.01:010][173]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4716.406250
+[2025.05.05-13.33.01:381][181]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.05-13.33.01:381][181]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4716.731934, Update Interval: 327.915283
+[2025.05.05-13.33.10:964][371]LogSlate: Took 0.009047 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.05.05-13.33.30:311][721]LogStreaming: Display: FlushAsyncLoading(682): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.05-13.34.06:961][416]LogStreaming: Display: FlushAsyncLoading(683): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.05-13.34.59:117][380]LogStreaming: Display: FlushAsyncLoading(684): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.05-13.35.07:661][542]Cmd: TRANSACTION UNDO
+[2025.05.05-13.35.07:661][542]LogEditorTransaction: Undo Replace component used material
+[2025.05.05-13.35.08:034][542]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.05.05-13.35.27:282][915]LogStreaming: Display: FlushAsyncLoading(685): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.05-13.35.38:435][115]LogStreaming: Display: FlushAsyncLoading(686): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.05-13.35.47:975][309]LogShaderCompilers: Display: ================================================
+[2025.05.05-13.35.47:975][309]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.05.05-13.35.47:975][309]LogShaderCompilers: Display: Total job queries 1,678, among them cache hits 266 (15.85%), DDC hits 1,332 (79.38%), Duplicates 4 (0.24%)
+[2025.05.05-13.35.47:975][309]LogShaderCompilers: Display: Tracking 1,408 distinct input hashes that result in 1,025 distinct outputs (72.80%)
+[2025.05.05-13.35.47:975][309]LogShaderCompilers: Display: RAM used: 619.49 KiB of 819.20 MiB budget. Usage: 0.07%
+[2025.05.05-13.35.47:975][309]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.05.05-13.35.47:975][309]LogShaderCompilers: Display: Shaders Compiled: 76
+[2025.05.05-13.35.47:975][309]LogShaderCompilers: Display: Jobs assigned 76, completed 76 (100%)
+[2025.05.05-13.35.47:975][309]LogShaderCompilers: Display: Average time worker was idle: 180.43 s
+[2025.05.05-13.35.47:975][309]LogShaderCompilers: Display: Time job spent in pending queue: average 0.31 s, longest 3.80 s
+[2025.05.05-13.35.47:975][309]LogShaderCompilers: Display: Job execution time: average 0.95 s, max 3.91 s
+[2025.05.05-13.35.47:975][309]LogShaderCompilers: Display: Job life time (pending + execution): average 1.26 s, max 4.41
+[2025.05.05-13.35.47:975][309]LogShaderCompilers: Display: Shader code size: average 6.944 KiB, min 2.691 KiB, max 12.379 KiB
+[2025.05.05-13.35.47:975][309]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 33.51 s
+[2025.05.05-13.35.47:975][309]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.05.05-13.35.47:975][309]LogShaderCompilers: Display: Jobs were issued in 76 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.05.05-13.35.47:975][309]LogShaderCompilers: Display: Average processing rate: 2.27 jobs/sec
+[2025.05.05-13.35.47:975][309]LogShaderCompilers: Display: Total thread time: 48.997 s
+[2025.05.05-13.35.47:975][309]LogShaderCompilers: Display: Total thread preprocess time: 25.707 s
+[2025.05.05-13.35.47:975][309]LogShaderCompilers: Display: Percentage time preprocessing: 52.47%
+[2025.05.05-13.35.47:975][309]LogShaderCompilers: Display: Effective parallelization: 1.46 (times faster than compiling all shaders on one thread). Compare with number of workers: 3
+[2025.05.05-13.35.47:975][309]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.05.05-13.35.47:975][309]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   18 times, average 0.82 sec, max 0.97 sec, min 0.72 sec)
+[2025.05.05-13.35.47:975][309]LogShaderCompilers: Display:                                                  FHitProxyPS (compiled    1 times, average 0.70 sec, max 0.70 sec, min 0.70 sec)
+[2025.05.05-13.35.47:975][309]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    1 times, average 0.67 sec, max 0.67 sec, min 0.67 sec)
+[2025.05.05-13.35.47:975][309]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    1 times, average 0.65 sec, max 0.65 sec, min 0.65 sec)
+[2025.05.05-13.35.47:975][309]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    2 times, average 0.63 sec, max 0.64 sec, min 0.63 sec)
+[2025.05.05-13.35.47:975][309]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.05.05-13.35.47:975][309]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 30.06% of total time (compiled   18 times, average 0.82 sec, max 0.97 sec, min 0.72 sec)
+[2025.05.05-13.35.47:975][309]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 21.77% of total time (compiled   18 times, average 0.59 sec, max 0.71 sec, min 0.53 sec)
+[2025.05.05-13.35.47:975][309]LogShaderCompilers: Display:                                                 FLumenCardPS - 18.42% of total time (compiled   16 times, average 0.56 sec, max 0.81 sec, min 0.47 sec)
+[2025.05.05-13.35.47:975][309]LogShaderCompilers: Display:                                                 FLumenCardVS - 16.72% of total time (compiled   15 times, average 0.55 sec, max 0.66 sec, min 0.47 sec)
+[2025.05.05-13.35.47:975][309]LogShaderCompilers: Display:                                                  FVelocityPS - 2.59% of total time (compiled    2 times, average 0.63 sec, max 0.64 sec, min 0.63 sec)
+[2025.05.05-13.35.47:975][309]LogShaderCompilers: Display: === Material stats ===
+[2025.05.05-13.35.47:975][309]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.05.05-13.35.47:975][309]LogShaderCompilers: Display: Materials Translated:    193
+[2025.05.05-13.35.47:975][309]LogShaderCompilers: Display: Material Total Translate Time: 1.28 s
+[2025.05.05-13.35.47:975][309]LogShaderCompilers: Display: Material Translation Only: 0.17 s (13%)
+[2025.05.05-13.35.47:975][309]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.05.05-13.35.47:975][309]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2025.05.05-13.35.47:975][309]LogShaderCompilers: Display: ================================================
+[2025.05.05-13.36.53:528][569]LogStreaming: Display: FlushAsyncLoading(687): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.05-13.37.51:585][671]LogStreaming: Display: FlushAsyncLoading(688): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.05-13.38.24:234][305]Cmd: TRANSACTION UNDO
+[2025.05.05-13.38.24:234][305]LogEditorTransaction: Undo Clicking on Elements
+[2025.05.05-13.38.24:595][305]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.05.05-13.38.25:693][323]Cmd: TRANSACTION UNDO
+[2025.05.05-13.38.25:693][323]LogEditorTransaction: Undo Clicking on Elements
+[2025.05.05-13.38.26:052][323]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.05.05-13.38.27:391][342]Cmd: TRANSACTION UNDO
+[2025.05.05-13.38.27:391][342]LogEditorTransaction: Undo Clicking on Elements
+[2025.05.05-13.38.27:743][342]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.05.05-13.38.29:277][370]Cmd: TRANSACTION UNDO
+[2025.05.05-13.38.29:277][370]LogEditorTransaction: Undo Replace component used material
+[2025.05.05-13.38.29:662][370]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.05.05-13.38.36:105][482]LogPSOHitching: Encountered 50 PSO creation hitches so far (47 graphics, 3 compute). 0 of them were precached.
+[2025.05.05-13.38.42:411][608]LogStreaming: Display: FlushAsyncLoading(689): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.05-13.38.48:010][703]LogShaderCompilers: Display: ================================================
+[2025.05.05-13.38.48:010][703]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.05.05-13.38.48:010][703]LogShaderCompilers: Display: Total job queries 1,798, among them cache hits 271 (15.07%), DDC hits 1,356 (75.42%), Duplicates 4 (0.22%)
+[2025.05.05-13.38.48:010][703]LogShaderCompilers: Display: Tracking 1,523 distinct input hashes that result in 1,081 distinct outputs (70.98%)
+[2025.05.05-13.38.48:010][703]LogShaderCompilers: Display: RAM used: 639.63 KiB of 819.20 MiB budget. Usage: 0.08%
+[2025.05.05-13.38.48:010][703]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.05.05-13.38.48:010][703]LogShaderCompilers: Display: Shaders Compiled: 167
+[2025.05.05-13.38.48:010][703]LogShaderCompilers: Display: Jobs assigned 167, completed 167 (100%)
+[2025.05.05-13.38.48:011][703]LogShaderCompilers: Display: Average time worker was idle: 83.95 s
+[2025.05.05-13.38.48:011][703]LogShaderCompilers: Display: Time job spent in pending queue: average 0.54 s, longest 4.80 s
+[2025.05.05-13.38.48:011][703]LogShaderCompilers: Display: Job execution time: average 0.88 s, max 3.91 s
+[2025.05.05-13.38.48:011][703]LogShaderCompilers: Display: Job life time (pending + execution): average 1.43 s, max 5.52
+[2025.05.05-13.38.48:011][703]LogShaderCompilers: Display: Shader code size: average 6.976 KiB, min 2.691 KiB, max 12.812 KiB
+[2025.05.05-13.38.48:011][703]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 66.69 s
+[2025.05.05-13.38.48:011][703]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.05.05-13.38.48:011][703]LogShaderCompilers: Display: Jobs were issued in 167 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.05.05-13.38.48:011][703]LogShaderCompilers: Display: Average processing rate: 2.50 jobs/sec
+[2025.05.05-13.38.48:011][703]LogShaderCompilers: Display: Total thread time: 113.366 s
+[2025.05.05-13.38.48:011][703]LogShaderCompilers: Display: Total thread preprocess time: 28.149 s
+[2025.05.05-13.38.48:011][703]LogShaderCompilers: Display: Percentage time preprocessing: 24.83%
+[2025.05.05-13.38.48:011][703]LogShaderCompilers: Display: Effective parallelization: 1.70 (times faster than compiling all shaders on one thread). Compare with number of workers: 3
+[2025.05.05-13.38.48:011][703]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.05.05-13.38.48:011][703]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   37 times, average 0.82 sec, max 1.00 sec, min 0.72 sec)
+[2025.05.05-13.38.48:011][703]LogShaderCompilers: Display:                                                  FHitProxyPS (compiled    1 times, average 0.70 sec, max 0.70 sec, min 0.70 sec)
+[2025.05.05-13.38.48:011][703]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    1 times, average 0.67 sec, max 0.67 sec, min 0.67 sec)
+[2025.05.05-13.38.48:011][703]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    5 times, average 0.62 sec, max 0.72 sec, min 0.55 sec)
+[2025.05.05-13.38.48:011][703]LogShaderCompilers: Display:                                                  FVelocityVS (compiled   11 times, average 0.61 sec, max 0.82 sec, min 0.55 sec)
+[2025.05.05-13.38.48:011][703]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.05.05-13.38.48:011][703]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 26.67% of total time (compiled   37 times, average 0.82 sec, max 1.00 sec, min 0.72 sec)
+[2025.05.05-13.38.48:011][703]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 18.98% of total time (compiled   37 times, average 0.58 sec, max 0.71 sec, min 0.52 sec)
+[2025.05.05-13.38.48:011][703]LogShaderCompilers: Display:                                                 FLumenCardPS - 15.99% of total time (compiled   32 times, average 0.57 sec, max 0.81 sec, min 0.47 sec)
+[2025.05.05-13.38.48:011][703]LogShaderCompilers: Display:                                                 FLumenCardVS - 14.66% of total time (compiled   31 times, average 0.54 sec, max 0.66 sec, min 0.46 sec)
+[2025.05.05-13.38.48:011][703]LogShaderCompilers: Display:                                                  FVelocityVS - 5.94% of total time (compiled   11 times, average 0.61 sec, max 0.82 sec, min 0.55 sec)
+[2025.05.05-13.38.48:011][703]LogShaderCompilers: Display: === Material stats ===
+[2025.05.05-13.38.48:011][703]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.05.05-13.38.48:011][703]LogShaderCompilers: Display: Materials Translated:    196
+[2025.05.05-13.38.48:011][703]LogShaderCompilers: Display: Material Total Translate Time: 1.69 s
+[2025.05.05-13.38.48:011][703]LogShaderCompilers: Display: Material Translation Only: 0.17 s (10%)
+[2025.05.05-13.38.48:011][703]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.05.05-13.38.48:011][703]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2025.05.05-13.38.48:011][703]LogShaderCompilers: Display: ================================================
+[2025.05.05-13.39.09:519][116]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5084.914062
+[2025.05.05-13.39.09:930][125]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.05-13.39.09:930][125]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5085.270996, Update Interval: 315.167084
+[2025.05.05-13.39.25:897][402]LogStreaming: Display: FlushAsyncLoading(690): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.05-13.39.30:624][491]Cmd: TRANSACTION UNDO
+[2025.05.05-13.39.30:625][491]LogEditorTransaction: Undo Replace component used material
+[2025.05.05-13.39.30:995][491]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.05.05-13.40.44:467][493]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2025.05.05-13.40.44:475][493]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/AJ/2XZ3RUK0LFB63FVNQE7P5R_Auto6
+[2025.05.05-13.40.44:476][493]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/2XZ3RUK0LFB63FVNQE7P5R_Auto6FC43B7BA4F51AF99DD664CA739A96BEC.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/AJ/2XZ3RUK0LFB63FVNQE7P5R_Auto6.uasset'
+[2025.05.05-13.40.44:478][493]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/L5/1ZJ54FMA0DAL3I2Q8RFAIB_Auto6
+[2025.05.05-13.40.44:479][493]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/1ZJ54FMA0DAL3I2Q8RFAIB_Auto6A3C1650C4FBABCBFFB33699735BABA8C.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/L5/1ZJ54FMA0DAL3I2Q8RFAIB_Auto6.uasset'
+[2025.05.05-13.40.44:483][493]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/XJ/HL558UUAGCS9HVVOI0S7PX_Auto6
+[2025.05.05-13.40.44:483][493]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/HL558UUAGCS9HVVOI0S7PX_Auto6ECD832C642002DCC463717A38E474482.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/XJ/HL558UUAGCS9HVVOI0S7PX_Auto6.uasset'
+[2025.05.05-13.40.44:488][493]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/AI/0XWE3RNM2XQC0ST1KXG02O_Auto6
+[2025.05.05-13.40.44:488][493]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/0XWE3RNM2XQC0ST1KXG02O_Auto65B62468842DE5E58F7E20181436CFC2F.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/AI/0XWE3RNM2XQC0ST1KXG02O_Auto6.uasset'
+[2025.05.05-13.40.44:491][493]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/UE/YUZ9741T50O1SYRX90OB0S_Auto6
+[2025.05.05-13.40.44:491][493]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/YUZ9741T50O1SYRX90OB0S_Auto6A182A7F146E18958DA2034A1DECA4BD1.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/UE/YUZ9741T50O1SYRX90OB0S_Auto6.uasset'
+[2025.05.05-13.40.44:494][493]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/MS/UB6SL4DM4510O1E9DFQ6D0_Auto6
+[2025.05.05-13.40.44:494][493]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/UB6SL4DM4510O1E9DFQ6D0_Auto656D92F4042EDC8B183439B917B0923CB.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/MS/UB6SL4DM4510O1E9DFQ6D0_Auto6.uasset'
+[2025.05.05-13.40.44:495][493]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/FY/PSDST6633SFUI8406COGOM_Auto6
+[2025.05.05-13.40.44:495][493]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/PSDST6633SFUI8406COGOM_Auto6951F30854DBED442FEBB7CA3F1540D65.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/FY/PSDST6633SFUI8406COGOM_Auto6.uasset'
+[2025.05.05-13.40.44:498][493]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/DC/20BAP8B797VXIFI1QRY9AO_Auto6
+[2025.05.05-13.40.44:499][493]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/20BAP8B797VXIFI1QRY9AO_Auto6BCCE979B4C581897837272A29A33C2B0.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/DC/20BAP8B797VXIFI1QRY9AO_Auto6.uasset'
+[2025.05.05-13.40.44:505][493]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/JD/S84ZT29GB4TG1Z8GLEEZAL_Auto6
+[2025.05.05-13.40.44:505][493]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/S84ZT29GB4TG1Z8GLEEZAL_Auto628C50E51472E0A8EE42AB9A5608D1A10.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/JD/S84ZT29GB4TG1Z8GLEEZAL_Auto6.uasset'
+[2025.05.05-13.40.44:506][493]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/QS/U2I7OPLSED4HSV44AD7WRI_Auto6
+[2025.05.05-13.40.44:506][493]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/U2I7OPLSED4HSV44AD7WRI_Auto6FCEBFA4A4ABFBE4EF82D0A934A508B34.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/QS/U2I7OPLSED4HSV44AD7WRI_Auto6.uasset'
+[2025.05.05-13.40.44:511][493]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/IL/3BAAQUC8RK2SGZU21H8VP0_Auto6
+[2025.05.05-13.40.44:512][493]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/3BAAQUC8RK2SGZU21H8VP0_Auto6FD946DC14A8028B279181295F90D571E.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/IL/3BAAQUC8RK2SGZU21H8VP0_Auto6.uasset'
+[2025.05.05-13.40.44:512][493]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/Z6/NQUC4ZL65LJKHK874C6KKK_Auto6
+[2025.05.05-13.40.44:512][493]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/NQUC4ZL65LJKHK874C6KKK_Auto65E5826C7490023A7C8CC90AD893235E9.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/Z6/NQUC4ZL65LJKHK874C6KKK_Auto6.uasset'
+[2025.05.05-13.40.44:516][493]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/LJ/RTDXPUA54BPECASV4QX0K8_Auto6
+[2025.05.05-13.40.44:517][493]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/RTDXPUA54BPECASV4QX0K8_Auto62143A4574C50A8328117349A87EA4943.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/LJ/RTDXPUA54BPECASV4QX0K8_Auto6.uasset'
+[2025.05.05-13.40.44:518][493]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/PK/3DUHFKCE19T2ANH6QKWU3L_Auto6
+[2025.05.05-13.40.44:518][493]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/3DUHFKCE19T2ANH6QKWU3L_Auto6EB85017D4B453D22DF21CC9E9AE7B5C6.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/PK/3DUHFKCE19T2ANH6QKWU3L_Auto6.uasset'
+[2025.05.05-13.40.44:529][493]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/BT/RLHTOCEZDI9K2ZFQY1OY4L_Auto6
+[2025.05.05-13.40.44:529][493]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/RLHTOCEZDI9K2ZFQY1OY4L_Auto65AA951F34596E872AE5BEB990050EBBC.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/BT/RLHTOCEZDI9K2ZFQY1OY4L_Auto6.uasset'
+[2025.05.05-13.40.44:529][493]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/33/18N6LFW33C0OIUDV1G318O_Auto6
+[2025.05.05-13.40.44:529][493]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/18N6LFW33C0OIUDV1G318O_Auto6B1220B5948348C5E65E4939AED9CC10C.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/33/18N6LFW33C0OIUDV1G318O_Auto6.uasset'
+[2025.05.05-13.40.44:529][493]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/CC/M3BGSJ2W9DHX9AJ2KMIB36_Auto6
+[2025.05.05-13.40.44:529][493]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/M3BGSJ2W9DHX9AJ2KMIB36_Auto634734C7D4DB0244D020A0A963EBB86D4.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/CC/M3BGSJ2W9DHX9AJ2KMIB36_Auto6.uasset'
+[2025.05.05-13.40.44:532][493]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/R1/3T4KVSFQH4VH0MOMUQ58UJ_Auto6
+[2025.05.05-13.40.44:532][493]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/3T4KVSFQH4VH0MOMUQ58UJ_Auto601FF6A76472386933101878ED836940C.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/R1/3T4KVSFQH4VH0MOMUQ58UJ_Auto6.uasset'
+[2025.05.05-13.40.44:536][493]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/89/24MPN7N4MORFU3S2Z43QKB_Auto6
+[2025.05.05-13.40.44:537][493]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/24MPN7N4MORFU3S2Z43QKB_Auto65950C8264576E175BCD418A35C83B16F.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/89/24MPN7N4MORFU3S2Z43QKB_Auto6.uasset'
+[2025.05.05-13.40.44:540][493]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/X2/WPRB9EM4KO1ILAM73LXSVX_Auto6
+[2025.05.05-13.40.44:540][493]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/WPRB9EM4KO1ILAM73LXSVX_Auto6E2579DD9481F09C54DCBAF9B62AA6DBD.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/X2/WPRB9EM4KO1ILAM73LXSVX_Auto6.uasset'
+[2025.05.05-13.40.44:545][493]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/F/46/QZE7HEESZB1NUYF82GZGYN_Auto6
+[2025.05.05-13.40.44:545][493]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/QZE7HEESZB1NUYF82GZGYN_Auto6DBFC62ED459D20D4697F239F87F28415.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/F/46/QZE7HEESZB1NUYF82GZGYN_Auto6.uasset'
+[2025.05.05-13.40.44:545][493]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.121
+[2025.05.05-13.40.44:545][493]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.121
+[2025.05.05-13.40.44:545][493]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FPWeapon/Mesh/SK_FPGun_Auto6
+[2025.05.05-13.40.44:545][493]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/SK_FPGun_Auto69826E9D34A41AE1CE9D8A882EAC35E1F.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/FPWeapon/Mesh/SK_FPGun_Auto6.uasset'
+[2025.05.05-13.40.44:546][493]LogFileHelpers: Auto-saving content packages took 0.002
+[2025.05.05-13.41.48:308][685]LogShaderCompilers: Display: ================================================
+[2025.05.05-13.41.48:308][685]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.05.05-13.41.48:308][685]LogShaderCompilers: Display: Total job queries 1,804, among them cache hits 271 (15.02%), DDC hits 1,360 (75.39%), Duplicates 4 (0.22%)
+[2025.05.05-13.41.48:308][685]LogShaderCompilers: Display: Tracking 1,529 distinct input hashes that result in 1,083 distinct outputs (70.83%)
+[2025.05.05-13.41.48:308][685]LogShaderCompilers: Display: RAM used: 640.25 KiB of 819.20 MiB budget. Usage: 0.08%
+[2025.05.05-13.41.48:308][685]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.05.05-13.41.48:308][685]LogShaderCompilers: Display: Shaders Compiled: 169
+[2025.05.05-13.41.48:308][685]LogShaderCompilers: Display: Jobs assigned 169, completed 169 (100%)
+[2025.05.05-13.41.48:308][685]LogShaderCompilers: Display: Average time worker was idle: 83.62 s
+[2025.05.05-13.41.48:308][685]LogShaderCompilers: Display: Time job spent in pending queue: average 0.54 s, longest 4.80 s
+[2025.05.05-13.41.48:308][685]LogShaderCompilers: Display: Job execution time: average 0.89 s, max 3.91 s
+[2025.05.05-13.41.48:308][685]LogShaderCompilers: Display: Job life time (pending + execution): average 1.42 s, max 5.52
+[2025.05.05-13.41.48:309][685]LogShaderCompilers: Display: Shader code size: average 6.957 KiB, min 2.691 KiB, max 12.812 KiB
+[2025.05.05-13.41.48:309][685]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 67.75 s
+[2025.05.05-13.41.48:309][685]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.05.05-13.41.48:309][685]LogShaderCompilers: Display: Jobs were issued in 169 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.05.05-13.41.48:309][685]LogShaderCompilers: Display: Average processing rate: 2.49 jobs/sec
+[2025.05.05-13.41.48:309][685]LogShaderCompilers: Display: Total thread time: 114.372 s
+[2025.05.05-13.41.48:309][685]LogShaderCompilers: Display: Total thread preprocess time: 28.287 s
+[2025.05.05-13.41.48:309][685]LogShaderCompilers: Display: Percentage time preprocessing: 24.73%
+[2025.05.05-13.41.48:309][685]LogShaderCompilers: Display: Effective parallelization: 1.69 (times faster than compiling all shaders on one thread). Compare with number of workers: 3
+[2025.05.05-13.41.48:309][685]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.05.05-13.41.48:309][685]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   37 times, average 0.82 sec, max 1.00 sec, min 0.72 sec)
+[2025.05.05-13.41.48:309][685]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    5 times, average 0.62 sec, max 0.72 sec, min 0.55 sec)
+[2025.05.05-13.41.48:309][685]LogShaderCompilers: Display:                                                  FVelocityVS (compiled   11 times, average 0.61 sec, max 0.82 sec, min 0.55 sec)
+[2025.05.05-13.41.48:309][685]LogShaderCompilers: Display:                                                  FHitProxyPS (compiled    2 times, average 0.61 sec, max 0.70 sec, min 0.52 sec)
+[2025.05.05-13.41.48:309][685]LogShaderCompilers: Display:                                                  FVelocityPS (compiled   11 times, average 0.61 sec, max 0.73 sec, min 0.56 sec)
+[2025.05.05-13.41.48:309][685]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.05.05-13.41.48:309][685]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 26.44% of total time (compiled   37 times, average 0.82 sec, max 1.00 sec, min 0.72 sec)
+[2025.05.05-13.41.48:309][685]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 18.82% of total time (compiled   37 times, average 0.58 sec, max 0.71 sec, min 0.52 sec)
+[2025.05.05-13.41.48:309][685]LogShaderCompilers: Display:                                                 FLumenCardPS - 15.85% of total time (compiled   32 times, average 0.57 sec, max 0.81 sec, min 0.47 sec)
+[2025.05.05-13.41.48:309][685]LogShaderCompilers: Display:                                                 FLumenCardVS - 14.53% of total time (compiled   31 times, average 0.54 sec, max 0.66 sec, min 0.46 sec)
+[2025.05.05-13.41.48:309][685]LogShaderCompilers: Display:                                                  FVelocityVS - 5.89% of total time (compiled   11 times, average 0.61 sec, max 0.82 sec, min 0.55 sec)
+[2025.05.05-13.41.48:309][685]LogShaderCompilers: Display: === Material stats ===
+[2025.05.05-13.41.48:309][685]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.05.05-13.41.48:309][685]LogShaderCompilers: Display: Materials Translated:    197
+[2025.05.05-13.41.48:309][685]LogShaderCompilers: Display: Material Total Translate Time: 1.69 s
+[2025.05.05-13.41.48:309][685]LogShaderCompilers: Display: Material Translation Only: 0.17 s (10%)
+[2025.05.05-13.41.48:309][685]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.05.05-13.41.48:309][685]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2025.05.05-13.41.48:309][685]LogShaderCompilers: Display: ================================================
+[2025.05.05-13.44.03:486][404]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.05.05-13.44.03:498][404]LogContentBrowser: Creating deferred item: NewFolder
+[2025.05.05-13.44.03:520][405]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.05.05-13.44.11:099][564]LogContentBrowser: Attempting asset rename: NewFolder -> MyStuff
+[2025.05.05-13.44.11:158][564]LogContentBrowser: End creating deferred item NewFolder
+[2025.05.05-13.44.30:702][959]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.05.05-13.44.30:702][959]LogStreaming: Display: FlushAsyncLoading(691): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.05-13.44.30:706][959]LogStreaming: Display: ImportPackages: SkipPackage: /Game/FPWeapon/Mesh/SK_FPGun (0x53A9EB3E795170B7) /Game/FPWeapon/Mesh/SK_FPGun (0x53A9EB3E795170B7) - Skipping non mounted imported package /Game/FPWeapon/Materials/M_FPGun (0x59E6EF070BF5E217)
+[2025.05.05-13.44.30:707][959]LogStreaming: Display: ImportPackages: SkipPackage: /Game/FPWeapon/Mesh/SK_FPGun (0x53A9EB3E795170B7) /Game/FPWeapon/Mesh/SK_FPGun (0x53A9EB3E795170B7) - Skipping non mounted imported package /Game/FPWeapon/Mesh/SK_FPGun_Physics (0xBCA7B8DAC7E03B63)
+[2025.05.05-13.44.30:707][959]LogStreaming: Display: ImportPackages: SkipPackage: /Game/FPWeapon/Mesh/SK_FPGun (0x53A9EB3E795170B7) /Game/FPWeapon/Mesh/SK_FPGun (0x53A9EB3E795170B7) - Skipping non mounted imported package /Game/FPWeapon/Mesh/SK_FPGun_Skeleton (0xDAF012A3DF146E2B)
+[2025.05.05-13.44.30:744][959]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SK_FPGun) ...
+[2025.05.05-13.44.30:843][959]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2025.05.05-13.44.33:949][959]LogSlate: Window 'Delete Assets' being destroyed
+[2025.05.05-13.44.34:248][959]LogUObjectGlobals: Force Deleting 14 Package(s):
+	Asset Name: /Game/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.ML_Plastic_Shiny_Beige
+	Asset Type: MaterialFunction
+	Asset Name: /Game/FPWeapon/Materials/MaterialLayers/ML_Screen.ML_Screen
+	Asset Type: MaterialFunction
+	Asset Name: /Game/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.T_ML_Aluminum01
+	Asset Type: Texture2D
+	Asset Name: /Game/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.T_ML_Aluminum01_N
+	Asset Type: Texture2D
+	Asset Name: /Game/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.ML_SoftMetal_UE4
+	Asset Type: MaterialFunction
+	Asset Name: /Game/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.T_ML_Rubber_Blue_01_D
+	Asset Type: Texture2D
+	Asset Name: /Game/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.T_ML_Rubber_Blue_01_N
+	Asset Type: Texture2D
+	Asset Name: /Game/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.ML_GlossyBlack_Latex_UE4
+	Asset Type: MaterialFunction
+	Asset Name: /Game/FPWeapon/Materials/BaseMaterial.BaseMaterial
+	Asset Type: Material
+	Asset Name: /Game/FPWeapon/Materials/FirstPersonProjectileMaterial.FirstPersonProjectileMaterial
+	Asset Type: MaterialInstanceConstant
+[2025.05.05-13.44.34:803][959]LogMaterial: Warning: [AssetLog] C:\Users\Cheska\Documents\Pookie's College Stuff\Game Programming 3\UE5\GP3_HorrorArea\Content\FPWeapon\Materials\MaterialLayers\ML_GlossyBlack_Latex_UE4.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node MakeMaterialAttributes) Error on property Normal
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node MakeMaterialAttributes) Error on property BaseColor
+	(Node MakeMaterialAttributes) Error on property Roughness
+
+[2025.05.05-13.44.34:804][959]LogMaterial: Warning: [AssetLog] C:\Users\Cheska\Documents\Pookie's College Stuff\Game Programming 3\UE5\GP3_HorrorArea\Content\FPWeapon\Materials\MaterialLayers\ML_GlossyBlack_Latex_UE4.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node MakeMaterialAttributes) Error on property Normal
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node MakeMaterialAttributes) Error on property BaseColor
+	(Node MakeMaterialAttributes) Error on property Roughness
+
+[2025.05.05-13.44.34:816][959]LogMaterial: Warning: [AssetLog] C:\Users\Cheska\Documents\Pookie's College Stuff\Game Programming 3\UE5\GP3_HorrorArea\Content\FPWeapon\Materials\MaterialLayers\ML_SoftMetal_UE4.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node MakeMaterialAttributes) Error on property Normal
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node MakeMaterialAttributes) Error on property BaseColor
+	(Node MakeMaterialAttributes) Error on property Roughness
+
+[2025.05.05-13.44.34:817][959]LogMaterial: Warning: [AssetLog] C:\Users\Cheska\Documents\Pookie's College Stuff\Game Programming 3\UE5\GP3_HorrorArea\Content\FPWeapon\Materials\MaterialLayers\ML_SoftMetal_UE4.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node MakeMaterialAttributes) Error on property Normal
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node MakeMaterialAttributes) Error on property BaseColor
+	(Node MakeMaterialAttributes) Error on property Roughness
+
+[2025.05.05-13.44.35:340][959]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2025.05.05-13.44.35:369][959]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2025.05.05-13.44.35:396][959]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.05.05-13.44.35:467][959]LogPackageName: Warning: GetLocalFullPath called on FPackagePath C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Content/FPWeapon/Materials/M_FPGun which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.05.05-13.44.35:467][959]LoadErrors: Warning: While trying to load package /Game/FPWeapon/Mesh/SK_FPGun, a dependent package /Game/FPWeapon/Materials/M_FPGun was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/FPWeapon/Materials/M_FPGun has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Content/FPWeapon/Materials/M_FPGun.uasset'. Perhaps it has been deleted or was not synced?
+
+[2025.05.05-13.44.35:467][959]LogPackageName: Warning: GetLocalFullPath called on FPackagePath C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Content/FPWeapon/Mesh/SK_FPGun_Physics which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.05.05-13.44.35:467][959]LoadErrors: Warning: While trying to load package /Game/FPWeapon/Mesh/SK_FPGun, a dependent package /Game/FPWeapon/Mesh/SK_FPGun_Physics was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/FPWeapon/Mesh/SK_FPGun_Physics has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Content/FPWeapon/Mesh/SK_FPGun_Physics.uasset'. Perhaps it has been deleted or was not synced?
+
+[2025.05.05-13.44.35:467][959]LogPackageName: Warning: GetLocalFullPath called on FPackagePath C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Content/FPWeapon/Mesh/SK_FPGun_Skeleton which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.05.05-13.44.35:467][959]LoadErrors: Warning: While trying to load package /Game/FPWeapon/Mesh/SK_FPGun, a dependent package /Game/FPWeapon/Mesh/SK_FPGun_Skeleton was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/FPWeapon/Mesh/SK_FPGun_Skeleton has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Content/FPWeapon/Mesh/SK_FPGun_Skeleton.uasset'. Perhaps it has been deleted or was not synced?
+
+[2025.05.05-13.44.49:717][171]LogStreaming: Display: FlushAsyncLoading(693): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.05-13.44.49:965][171]LogInterchangeEngine: [Pending] Importing
+[2025.05.05-13.44.49:965][171]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Cheska/Downloads/dirty wall.jpg]
+[2025.05.05-13.44.50:687][174]LogStreaming: Display: FlushAsyncLoading(698): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.05-13.44.50:706][175]LogInterchangeImport: JPEG file [C:/Users/Cheska/Downloads/dirty wall.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2025.05.05-13.44.51:242][176]LogTexture: Display: Building textures: /Game/MyStuff/dirty_wall.dirty_wall (TFO_AutoDXT, 680x460 x1x1x1) (Required Memory Estimate: 30.930242 MB), EncodeSpeed: Fast
+[2025.05.05-13.44.51:380][176]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Cheska/Downloads/dirty wall.jpg]
+[2025.05.05-13.44.51:443][176]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.05.05-13.44.51:443][176]LogInterchangeEngine: [Success] Import Done
+[2025.05.05-13.45.07:726][241]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5443.126465
+[2025.05.05-13.45.08:724][244]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.05-13.45.08:724][244]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5443.792969, Update Interval: 314.407166
+[2025.05.05-13.45.38:488][448]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2025.05.05-13.47.48:503][  2]LogShaderCompilers: Display: ================================================
+[2025.05.05-13.47.48:503][  2]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.05.05-13.47.48:503][  2]LogShaderCompilers: Display: Total job queries 1,820, among them cache hits 275 (15.11%), DDC hits 1,370 (75.27%), Duplicates 4 (0.22%)
+[2025.05.05-13.47.48:503][  2]LogShaderCompilers: Display: Tracking 1,541 distinct input hashes that result in 1,090 distinct outputs (70.73%)
+[2025.05.05-13.47.48:503][  2]LogShaderCompilers: Display: RAM used: 686.81 KiB of 819.20 MiB budget. Usage: 0.08%
+[2025.05.05-13.47.48:503][  2]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.05.05-13.47.48:503][  2]LogShaderCompilers: Display: Shaders Compiled: 171
+[2025.05.05-13.47.48:504][  2]LogShaderCompilers: Display: Jobs assigned 171, completed 171 (100%)
+[2025.05.05-13.47.48:504][  2]LogShaderCompilers: Display: Average time worker was idle: 88.03 s
+[2025.05.05-13.47.48:504][  2]LogShaderCompilers: Display: Time job spent in pending queue: average 0.53 s, longest 4.80 s
+[2025.05.05-13.47.48:504][  2]LogShaderCompilers: Display: Job execution time: average 0.89 s, max 3.91 s
+[2025.05.05-13.47.48:504][  2]LogShaderCompilers: Display: Job life time (pending + execution): average 1.42 s, max 5.52
+[2025.05.05-13.47.48:504][  2]LogShaderCompilers: Display: Shader code size: average 6.951 KiB, min 2.691 KiB, max 12.812 KiB
+[2025.05.05-13.47.48:504][  2]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 69.04 s
+[2025.05.05-13.47.48:504][  2]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.05.05-13.47.48:504][  2]LogShaderCompilers: Display: Jobs were issued in 171 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.05.05-13.47.48:504][  2]LogShaderCompilers: Display: Average processing rate: 2.48 jobs/sec
+[2025.05.05-13.47.48:504][  2]LogShaderCompilers: Display: Total thread time: 115.621 s
+[2025.05.05-13.47.48:504][  2]LogShaderCompilers: Display: Total thread preprocess time: 28.581 s
+[2025.05.05-13.47.48:504][  2]LogShaderCompilers: Display: Percentage time preprocessing: 24.72%
+[2025.05.05-13.47.48:504][  2]LogShaderCompilers: Display: Effective parallelization: 1.67 (times faster than compiling all shaders on one thread). Compare with number of workers: 3
+[2025.05.05-13.47.48:504][  2]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.05.05-13.47.48:504][  2]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   38 times, average 0.81 sec, max 1.00 sec, min 0.72 sec)
+[2025.05.05-13.47.48:504][  2]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    5 times, average 0.62 sec, max 0.72 sec, min 0.55 sec)
+[2025.05.05-13.47.48:504][  2]LogShaderCompilers: Display:                                                  FVelocityVS (compiled   11 times, average 0.61 sec, max 0.82 sec, min 0.55 sec)
+[2025.05.05-13.47.48:504][  2]LogShaderCompilers: Display:                                                  FHitProxyPS (compiled    2 times, average 0.61 sec, max 0.70 sec, min 0.52 sec)
+[2025.05.05-13.47.48:504][  2]LogShaderCompilers: Display:                                                  FVelocityPS (compiled   11 times, average 0.61 sec, max 0.73 sec, min 0.56 sec)
+[2025.05.05-13.47.48:504][  2]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.05.05-13.47.48:504][  2]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 26.78% of total time (compiled   38 times, average 0.81 sec, max 1.00 sec, min 0.72 sec)
+[2025.05.05-13.47.48:504][  2]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 19.06% of total time (compiled   38 times, average 0.58 sec, max 0.71 sec, min 0.52 sec)
+[2025.05.05-13.47.48:504][  2]LogShaderCompilers: Display:                                                 FLumenCardPS - 15.68% of total time (compiled   32 times, average 0.57 sec, max 0.81 sec, min 0.47 sec)
+[2025.05.05-13.47.48:504][  2]LogShaderCompilers: Display:                                                 FLumenCardVS - 14.37% of total time (compiled   31 times, average 0.54 sec, max 0.66 sec, min 0.46 sec)
+[2025.05.05-13.47.48:504][  2]LogShaderCompilers: Display:                                                  FVelocityVS - 5.83% of total time (compiled   11 times, average 0.61 sec, max 0.82 sec, min 0.55 sec)
+[2025.05.05-13.47.48:504][  2]LogShaderCompilers: Display: === Material stats ===
+[2025.05.05-13.47.48:504][  2]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.05.05-13.47.48:504][  2]LogShaderCompilers: Display: Materials Translated:    202
+[2025.05.05-13.47.48:504][  2]LogShaderCompilers: Display: Material Total Translate Time: 1.70 s
+[2025.05.05-13.47.48:504][  2]LogShaderCompilers: Display: Material Translation Only: 0.18 s (10%)
+[2025.05.05-13.47.48:504][  2]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.05.05-13.47.48:504][  2]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2025.05.05-13.47.48:504][  2]LogShaderCompilers: Display: ================================================
+[2025.05.05-13.48.07:908][389]LogStreaming: Display: FlushAsyncLoading(699): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.05-13.49.55:833][ 47]LogStreaming: Display: FlushAsyncLoading(700): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.05-13.49.55:876][ 47]LogInterchangeEngine: [Pending] Importing
+[2025.05.05-13.49.55:876][ 47]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Cheska/Downloads/dirty wall2.jpg]
+[2025.05.05-13.49.56:547][ 49]LogStreaming: Display: FlushAsyncLoading(701): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.05-13.49.56:548][ 50]LogInterchangeImport: JPEG file [C:/Users/Cheska/Downloads/dirty wall2.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2025.05.05-13.49.56:870][ 51]LogTexture: Display: Building textures: /Game/MyStuff/dirty_wall2.dirty_wall2 (TFO_AutoDXT, 1500x844 x1x1x1) (Required Memory Estimate: 85.514618 MB), EncodeSpeed: Fast
+[2025.05.05-13.49.57:192][ 51]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Cheska/Downloads/dirty wall2.jpg]
+[2025.05.05-13.49.57:208][ 51]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.05.05-13.49.57:208][ 51]LogInterchangeEngine: [Success] Import Done
+[2025.05.05-13.50.58:027][153]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5793.402832
+[2025.05.05-13.50.58:700][161]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.05-13.50.58:700][161]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5794.026367, Update Interval: 349.179962
+[2025.05.05-13.51.20:186][223]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2025.05.05-13.51.20:194][223]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/AJ/2XZ3RUK0LFB63FVNQE7P5R_Auto7
+[2025.05.05-13.51.20:194][223]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/2XZ3RUK0LFB63FVNQE7P5R_Auto7B6960418436C1A428ADF0AAC3387DAE7.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/AJ/2XZ3RUK0LFB63FVNQE7P5R_Auto7.uasset'
+[2025.05.05-13.51.20:199][223]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/L5/1ZJ54FMA0DAL3I2Q8RFAIB_Auto7
+[2025.05.05-13.51.20:199][223]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/1ZJ54FMA0DAL3I2Q8RFAIB_Auto7CAA80AE54D6F6542859DBBAE2E308730.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/L5/1ZJ54FMA0DAL3I2Q8RFAIB_Auto7.uasset'
+[2025.05.05-13.51.20:201][223]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/XJ/HL558UUAGCS9HVVOI0S7PX_Auto7
+[2025.05.05-13.51.20:201][223]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/HL558UUAGCS9HVVOI0S7PX_Auto7B0A3FC3E4B16EFB5275D9AAAAA3E672B.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/XJ/HL558UUAGCS9HVVOI0S7PX_Auto7.uasset'
+[2025.05.05-13.51.20:207][223]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/AI/0XWE3RNM2XQC0ST1KXG02O_Auto7
+[2025.05.05-13.51.20:207][223]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/0XWE3RNM2XQC0ST1KXG02O_Auto72BF2E24F44E36BA246E85FA5E0B12CCE.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/AI/0XWE3RNM2XQC0ST1KXG02O_Auto7.uasset'
+[2025.05.05-13.51.20:207][223]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/UE/YUZ9741T50O1SYRX90OB0S_Auto7
+[2025.05.05-13.51.20:207][223]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/YUZ9741T50O1SYRX90OB0S_Auto7B44F37F248686491A80DC1863914A181.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/UE/YUZ9741T50O1SYRX90OB0S_Auto7.uasset'
+[2025.05.05-13.51.20:208][223]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/MS/UB6SL4DM4510O1E9DFQ6D0_Auto7
+[2025.05.05-13.51.20:208][223]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/UB6SL4DM4510O1E9DFQ6D0_Auto76AF0219C40C4651A2B05DD84B0A64003.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/MS/UB6SL4DM4510O1E9DFQ6D0_Auto7.uasset'
+[2025.05.05-13.51.20:211][223]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/FY/PSDST6633SFUI8406COGOM_Auto7
+[2025.05.05-13.51.20:211][223]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/PSDST6633SFUI8406COGOM_Auto7681419544DA6557F6EBA07B1353DC5AD.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/FY/PSDST6633SFUI8406COGOM_Auto7.uasset'
+[2025.05.05-13.51.20:216][223]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/DC/20BAP8B797VXIFI1QRY9AO_Auto7
+[2025.05.05-13.51.20:216][223]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/20BAP8B797VXIFI1QRY9AO_Auto7E8FB4719455E91B58ED04991DCE0BF73.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/DC/20BAP8B797VXIFI1QRY9AO_Auto7.uasset'
+[2025.05.05-13.51.20:217][223]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/JD/S84ZT29GB4TG1Z8GLEEZAL_Auto7
+[2025.05.05-13.51.20:217][223]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/S84ZT29GB4TG1Z8GLEEZAL_Auto78B0ECB5C4207A33AA7F070903671D0E6.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/JD/S84ZT29GB4TG1Z8GLEEZAL_Auto7.uasset'
+[2025.05.05-13.51.20:220][223]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/QS/U2I7OPLSED4HSV44AD7WRI_Auto7
+[2025.05.05-13.51.20:220][223]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/U2I7OPLSED4HSV44AD7WRI_Auto7562C2C2846315CBFEAF47DB32333A92D.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/QS/U2I7OPLSED4HSV44AD7WRI_Auto7.uasset'
+[2025.05.05-13.51.20:224][223]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/IL/3BAAQUC8RK2SGZU21H8VP0_Auto7
+[2025.05.05-13.51.20:224][223]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/3BAAQUC8RK2SGZU21H8VP0_Auto7AC79A1154E934E2CDB71829D6292DD04.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/IL/3BAAQUC8RK2SGZU21H8VP0_Auto7.uasset'
+[2025.05.05-13.51.20:232][223]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/Z6/NQUC4ZL65LJKHK874C6KKK_Auto7
+[2025.05.05-13.51.20:232][223]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/NQUC4ZL65LJKHK874C6KKK_Auto7D3CF454E40A9B14AE61F84BCB4C03B09.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/Z6/NQUC4ZL65LJKHK874C6KKK_Auto7.uasset'
+[2025.05.05-13.51.20:232][223]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/LJ/RTDXPUA54BPECASV4QX0K8_Auto7
+[2025.05.05-13.51.20:232][223]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/RTDXPUA54BPECASV4QX0K8_Auto720FFEB43428ADC49A5B0A58D32AEDEB7.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/LJ/RTDXPUA54BPECASV4QX0K8_Auto7.uasset'
+[2025.05.05-13.51.20:232][223]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/PK/3DUHFKCE19T2ANH6QKWU3L_Auto7
+[2025.05.05-13.51.20:233][223]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/3DUHFKCE19T2ANH6QKWU3L_Auto71B7E87F44F2FC4ECFA0A9E80420D441B.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/PK/3DUHFKCE19T2ANH6QKWU3L_Auto7.uasset'
+[2025.05.05-13.51.20:236][223]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/BT/RLHTOCEZDI9K2ZFQY1OY4L_Auto7
+[2025.05.05-13.51.20:236][223]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/RLHTOCEZDI9K2ZFQY1OY4L_Auto79901F2B5406883E2C72838AFC3197422.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/BT/RLHTOCEZDI9K2ZFQY1OY4L_Auto7.uasset'
+[2025.05.05-13.51.20:239][223]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/33/18N6LFW33C0OIUDV1G318O_Auto7
+[2025.05.05-13.51.20:239][223]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/18N6LFW33C0OIUDV1G318O_Auto74AE51DF541E651132D8EBD91F79ED752.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/33/18N6LFW33C0OIUDV1G318O_Auto7.uasset'
+[2025.05.05-13.51.20:243][223]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/CC/M3BGSJ2W9DHX9AJ2KMIB36_Auto7
+[2025.05.05-13.51.20:243][223]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/M3BGSJ2W9DHX9AJ2KMIB36_Auto7BEE5F24D4627C350185171A70E17177A.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/CC/M3BGSJ2W9DHX9AJ2KMIB36_Auto7.uasset'
+[2025.05.05-13.51.20:244][223]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/R1/3T4KVSFQH4VH0MOMUQ58UJ_Auto7
+[2025.05.05-13.51.20:244][223]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/3T4KVSFQH4VH0MOMUQ58UJ_Auto7CCF4B63348475A76E16184B498ACD645.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/R1/3T4KVSFQH4VH0MOMUQ58UJ_Auto7.uasset'
+[2025.05.05-13.51.20:246][223]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/89/24MPN7N4MORFU3S2Z43QKB_Auto7
+[2025.05.05-13.51.20:246][223]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/24MPN7N4MORFU3S2Z43QKB_Auto7F3BAB20C438B35D74BD3B89570A61D95.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/89/24MPN7N4MORFU3S2Z43QKB_Auto7.uasset'
+[2025.05.05-13.51.20:249][223]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/X2/WPRB9EM4KO1ILAM73LXSVX_Auto7
+[2025.05.05-13.51.20:249][223]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/WPRB9EM4KO1ILAM73LXSVX_Auto76B76A925412520C55AA45C8BFF6F7696.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/X2/WPRB9EM4KO1ILAM73LXSVX_Auto7.uasset'
+[2025.05.05-13.51.20:250][223]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/F/46/QZE7HEESZB1NUYF82GZGYN_Auto7
+[2025.05.05-13.51.20:251][223]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/QZE7HEESZB1NUYF82GZGYN_Auto73CBF3AD64A8744CC24D7038DC4D2EF1C.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/F/46/QZE7HEESZB1NUYF82GZGYN_Auto7.uasset'
+[2025.05.05-13.51.20:252][223]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.493
+[2025.05.05-13.51.20:252][223]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.493
+[2025.05.05-13.51.20:254][223]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonProjectile] ([2] browsable assets)...
+[2025.05.05-13.51.20:256][223]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonProjectile]
+[2025.05.05-13.51.20:273][223]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonProjectile_Auto7
+[2025.05.05-13.51.20:273][223]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/BP_FirstPersonProjectile_Auto7F86F925641B1E3AAE0A1C8A617281B71.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonProjectile_Auto7.uasset'
+[2025.05.05-13.51.20:278][223]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MyStuff/dirty_wall] ([1] browsable assets)...
+[2025.05.05-13.51.20:304][223]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MyStuff/dirty_wall.dirty_wall]
+[2025.05.05-13.51.20:304][223]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyStuff/dirty_wall]
+[2025.05.05-13.51.20:308][223]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MyStuff/dirty_wall_Auto7
+[2025.05.05-13.51.20:308][223]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/dirty_wall_Auto7FC2AEB3C4A2C928B627576BCF49D69AC.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/MyStuff/dirty_wall_Auto7.uasset'
+[2025.05.05-13.51.20:309][223]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MyStuff/dirty_wall_Mat] ([1] browsable assets)...
+[2025.05.05-13.51.20:548][223]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MyStuff/dirty_wall_Mat.dirty_wall_Mat]
+[2025.05.05-13.51.20:548][223]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyStuff/dirty_wall_Mat]
+[2025.05.05-13.51.20:552][223]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MyStuff/dirty_wall_Mat_Auto7
+[2025.05.05-13.51.20:552][223]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/dirty_wall_Mat_Auto79FBA049D4A7E47FB6A88CA87958E3938.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/MyStuff/dirty_wall_Mat_Auto7.uasset'
+[2025.05.05-13.51.20:553][223]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MyStuff/dirty_wall2] ([1] browsable assets)...
+[2025.05.05-13.51.20:556][223]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MyStuff/dirty_wall2.dirty_wall2]
+[2025.05.05-13.51.20:556][223]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyStuff/dirty_wall2]
+[2025.05.05-13.51.20:560][223]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MyStuff/dirty_wall2_Auto7
+[2025.05.05-13.51.20:560][223]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/dirty_wall2_Auto7EBB94A4346FE3BF1E4A3D0A9D9D05566.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/MyStuff/dirty_wall2_Auto7.uasset'
+[2025.05.05-13.51.20:563][223]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MyStuff/dirty_wall2_Mat] ([1] browsable assets)...
+[2025.05.05-13.51.20:583][223]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MyStuff/dirty_wall2_Mat.dirty_wall2_Mat]
+[2025.05.05-13.51.20:583][223]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyStuff/dirty_wall2_Mat]
+[2025.05.05-13.51.20:586][223]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MyStuff/dirty_wall2_Mat_Auto7
+[2025.05.05-13.51.20:586][223]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/dirty_wall2_Mat_Auto79F0A9E3B4D5CCB353A367C92437A4B23.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/MyStuff/dirty_wall2_Mat_Auto7.uasset'
+[2025.05.05-13.51.20:587][223]LogFileHelpers: Auto-saving content packages took 0.335
+[2025.05.05-13.54.36:693][916]LogStreaming: Display: FlushAsyncLoading(702): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.05-13.54.36:726][916]LogInterchangeEngine: [Pending] Importing
+[2025.05.05-13.54.36:726][916]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Cheska/Downloads/YellowBrick.jpg]
+[2025.05.05-13.54.36:727][916]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.05.05-13.54.37:421][918]LogStreaming: Display: FlushAsyncLoading(704): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.05-13.54.37:421][919]LogInterchangeImport: JPEG file [C:/Users/Cheska/Downloads/YellowBrick.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2025.05.05-13.54.37:713][920]LogTexture: Display: Building textures: /Game/MyStuff/YellowBrick.YellowBrick (BGRA8, 474x316 x1x1x1) (Required Memory Estimate: 6.142426 MB), EncodeSpeed: Fast
+[2025.05.05-13.54.38:050][920]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Cheska/Downloads/YellowBrick.jpg]
+[2025.05.05-13.54.38:050][920]LogInterchangeEngine: [Pending] Importing -  (1)
+[2025.05.05-13.54.38:050][920]LogInterchangeEngine: [Pending] Importing -  (1)
+[2025.05.05-13.54.38:050][920]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Cheska/Downloads/RedCarpet.jpg]
+[2025.05.05-13.54.39:032][923]LogStreaming: Display: FlushAsyncLoading(705): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.05-13.54.39:032][924]LogInterchangeImport: JPEG file [C:/Users/Cheska/Downloads/RedCarpet.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2025.05.05-13.54.39:438][929]LogTexture: Display: Building textures: /Game/MyStuff/RedCarpet.RedCarpet (TFO_AutoDXT, 3500x3500 x1x1x1) (Required Memory Estimate: 818.775709 MB), EncodeSpeed: Fast
+[2025.05.05-13.54.40:525][950]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Cheska/Downloads/RedCarpet.jpg]
+[2025.05.05-13.54.40:543][950]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.05.05-13.54.40:543][950]LogInterchangeEngine: [Success] Import Done
+[2025.05.05-13.57.15:412][460]LogStreaming: Display: FlushAsyncLoading(706): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.05-13.57.15:436][460]LogInterchangeEngine: [Pending] Importing
+[2025.05.05-13.57.15:436][460]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Cheska/Downloads/StripeWall.jpg]
+[2025.05.05-13.57.16:134][462]LogStreaming: Display: FlushAsyncLoading(707): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.05-13.57.16:135][463]LogInterchangeImport: JPEG file [C:/Users/Cheska/Downloads/StripeWall.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2025.05.05-13.57.16:847][464]LogTexture: Display: Building textures: /Game/MyStuff/StripeWall.StripeWall (BGRA8, 650x722 x1x1x1) (Required Memory Estimate: 17.112129 MB), EncodeSpeed: Fast
+[2025.05.05-13.57.17:184][465]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Cheska/Downloads/StripeWall.jpg]
+[2025.05.05-13.57.17:198][465]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.05.05-13.57.17:198][465]LogInterchangeEngine: [Success] Import Done
+[2025.05.05-13.57.18:763][474]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6174.133789
+[2025.05.05-13.57.19:156][482]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.05-13.57.19:156][482]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6174.472656, Update Interval: 339.319427
+[2025.05.05-14.00.07:716][829]LogStreaming: Display: FlushAsyncLoading(708): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.05-14.00.07:740][829]LogInterchangeEngine: [Pending] Importing
+[2025.05.05-14.00.07:740][829]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Cheska/Downloads/RedCarpetFloor.jpg]
+[2025.05.05-14.00.08:437][831]LogStreaming: Display: FlushAsyncLoading(709): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.05-14.00.08:438][832]LogInterchangeImport: JPEG file [C:/Users/Cheska/Downloads/RedCarpetFloor.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2025.05.05-14.00.08:731][833]LogTexture: Display: Building textures: /Game/MyStuff/RedCarpetFloor.RedCarpetFloor (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 30.83325 MB), EncodeSpeed: Fast
+[2025.05.05-14.00.09:391][834]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Cheska/Downloads/RedCarpetFloor.jpg]
+[2025.05.05-14.00.09:400][834]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.05.05-14.00.09:400][834]LogInterchangeEngine: [Success] Import Done
+[2025.05.05-14.01.21:002][370]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2025.05.05-14.01.21:008][370]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/AJ/2XZ3RUK0LFB63FVNQE7P5R_Auto8
+[2025.05.05-14.01.21:008][370]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/2XZ3RUK0LFB63FVNQE7P5R_Auto8740F7F55422DF9679FD37C914624D7B9.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/AJ/2XZ3RUK0LFB63FVNQE7P5R_Auto8.uasset'
+[2025.05.05-14.01.21:011][370]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/L5/1ZJ54FMA0DAL3I2Q8RFAIB_Auto8
+[2025.05.05-14.01.21:011][370]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/1ZJ54FMA0DAL3I2Q8RFAIB_Auto88A5CC4E74AECD9A087D973BB06BC45D8.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/L5/1ZJ54FMA0DAL3I2Q8RFAIB_Auto8.uasset'
+[2025.05.05-14.01.21:014][370]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/XJ/HL558UUAGCS9HVVOI0S7PX_Auto8
+[2025.05.05-14.01.21:019][370]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/HL558UUAGCS9HVVOI0S7PX_Auto8438D443340D0EBA1C39F5A9C993FF33C.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/XJ/HL558UUAGCS9HVVOI0S7PX_Auto8.uasset'
+[2025.05.05-14.01.21:019][370]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/AI/0XWE3RNM2XQC0ST1KXG02O_Auto8
+[2025.05.05-14.01.21:019][370]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/0XWE3RNM2XQC0ST1KXG02O_Auto8F671A5904A4768CCE53C04BB1DC3B509.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/AI/0XWE3RNM2XQC0ST1KXG02O_Auto8.uasset'
+[2025.05.05-14.01.21:019][370]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/UE/YUZ9741T50O1SYRX90OB0S_Auto8
+[2025.05.05-14.01.21:019][370]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/YUZ9741T50O1SYRX90OB0S_Auto8268AC281490448B76887AA9364E5A46C.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/UE/YUZ9741T50O1SYRX90OB0S_Auto8.uasset'
+[2025.05.05-14.01.21:022][370]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/MS/UB6SL4DM4510O1E9DFQ6D0_Auto8
+[2025.05.05-14.01.21:022][370]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/UB6SL4DM4510O1E9DFQ6D0_Auto8CDF86C0D4A6AC3C769C5D8810EF800AB.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/MS/UB6SL4DM4510O1E9DFQ6D0_Auto8.uasset'
+[2025.05.05-14.01.21:024][370]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/FY/PSDST6633SFUI8406COGOM_Auto8
+[2025.05.05-14.01.21:024][370]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/PSDST6633SFUI8406COGOM_Auto83EFD97414ED3A42D83CD4EBEE1B70A0C.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/FY/PSDST6633SFUI8406COGOM_Auto8.uasset'
+[2025.05.05-14.01.21:027][370]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/DC/20BAP8B797VXIFI1QRY9AO_Auto8
+[2025.05.05-14.01.21:027][370]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/20BAP8B797VXIFI1QRY9AO_Auto8ECBB1CC54F0706C77BD550B528D1F5B5.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/DC/20BAP8B797VXIFI1QRY9AO_Auto8.uasset'
+[2025.05.05-14.01.21:030][370]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/JD/S84ZT29GB4TG1Z8GLEEZAL_Auto8
+[2025.05.05-14.01.21:030][370]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/S84ZT29GB4TG1Z8GLEEZAL_Auto838810F82408BF60552E3EF87235F7ED4.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/JD/S84ZT29GB4TG1Z8GLEEZAL_Auto8.uasset'
+[2025.05.05-14.01.21:035][370]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/QS/U2I7OPLSED4HSV44AD7WRI_Auto8
+[2025.05.05-14.01.21:035][370]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/U2I7OPLSED4HSV44AD7WRI_Auto8CD3387E2426913F5F65006A6230C7B06.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/QS/U2I7OPLSED4HSV44AD7WRI_Auto8.uasset'
+[2025.05.05-14.01.21:041][370]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/IL/3BAAQUC8RK2SGZU21H8VP0_Auto8
+[2025.05.05-14.01.21:041][370]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/3BAAQUC8RK2SGZU21H8VP0_Auto840F9A77A4EEE73DE2A07038199DC0E07.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/IL/3BAAQUC8RK2SGZU21H8VP0_Auto8.uasset'
+[2025.05.05-14.01.21:041][370]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/Z6/NQUC4ZL65LJKHK874C6KKK_Auto8
+[2025.05.05-14.01.21:041][370]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/NQUC4ZL65LJKHK874C6KKK_Auto8D2F589B847A5F39D72A121A105F3A20B.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/Z6/NQUC4ZL65LJKHK874C6KKK_Auto8.uasset'
+[2025.05.05-14.01.21:041][370]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/LJ/RTDXPUA54BPECASV4QX0K8_Auto8
+[2025.05.05-14.01.21:041][370]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/RTDXPUA54BPECASV4QX0K8_Auto833B98A4A4929537FC049FBAAEF8972B4.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/LJ/RTDXPUA54BPECASV4QX0K8_Auto8.uasset'
+[2025.05.05-14.01.21:044][370]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/PK/3DUHFKCE19T2ANH6QKWU3L_Auto8
+[2025.05.05-14.01.21:044][370]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/3DUHFKCE19T2ANH6QKWU3L_Auto8C6AA2E8043E987EA3BA64EB938827C10.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/PK/3DUHFKCE19T2ANH6QKWU3L_Auto8.uasset'
+[2025.05.05-14.01.21:050][370]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/BT/RLHTOCEZDI9K2ZFQY1OY4L_Auto8
+[2025.05.05-14.01.21:051][370]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/RLHTOCEZDI9K2ZFQY1OY4L_Auto861CFF0F04069C83C766A1B80CC827784.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/BT/RLHTOCEZDI9K2ZFQY1OY4L_Auto8.uasset'
+[2025.05.05-14.01.21:051][370]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/33/18N6LFW33C0OIUDV1G318O_Auto8
+[2025.05.05-14.01.21:051][370]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/18N6LFW33C0OIUDV1G318O_Auto86A261C6D49DF1CDAD9BB758DE8407BB4.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/33/18N6LFW33C0OIUDV1G318O_Auto8.uasset'
+[2025.05.05-14.01.21:053][370]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/CC/M3BGSJ2W9DHX9AJ2KMIB36_Auto8
+[2025.05.05-14.01.21:053][370]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/M3BGSJ2W9DHX9AJ2KMIB36_Auto8700636F74E7E13247D767AA89B7447C0.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/CC/M3BGSJ2W9DHX9AJ2KMIB36_Auto8.uasset'
+[2025.05.05-14.01.21:056][370]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/R1/3T4KVSFQH4VH0MOMUQ58UJ_Auto8
+[2025.05.05-14.01.21:056][370]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/3T4KVSFQH4VH0MOMUQ58UJ_Auto84F1CF2634FA25ECBC8009783079FCFEB.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/R1/3T4KVSFQH4VH0MOMUQ58UJ_Auto8.uasset'
+[2025.05.05-14.01.21:058][370]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/89/24MPN7N4MORFU3S2Z43QKB_Auto8
+[2025.05.05-14.01.21:058][370]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/24MPN7N4MORFU3S2Z43QKB_Auto8F14209C14A37E8983BB0C587782CBC68.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/89/24MPN7N4MORFU3S2Z43QKB_Auto8.uasset'
+[2025.05.05-14.01.21:064][370]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/X2/WPRB9EM4KO1ILAM73LXSVX_Auto8
+[2025.05.05-14.01.21:064][370]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/WPRB9EM4KO1ILAM73LXSVX_Auto857F1EF9347ADDF5CB8A26C8B337F02EE.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/X2/WPRB9EM4KO1ILAM73LXSVX_Auto8.uasset'
+[2025.05.05-14.01.21:064][370]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/F/46/QZE7HEESZB1NUYF82GZGYN_Auto8
+[2025.05.05-14.01.21:064][370]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/QZE7HEESZB1NUYF82GZGYN_Auto8D9F9034C4563F188FD8B8F85EFB68F80.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/F/46/QZE7HEESZB1NUYF82GZGYN_Auto8.uasset'
+[2025.05.05-14.01.21:064][370]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.095
+[2025.05.05-14.01.21:064][370]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.095
+[2025.05.05-14.01.21:065][370]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MyStuff/YellowBrick] ([1] browsable assets)...
+[2025.05.05-14.01.21:069][370]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MyStuff/YellowBrick.YellowBrick]
+[2025.05.05-14.01.21:069][370]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyStuff/YellowBrick]
+[2025.05.05-14.01.21:071][370]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MyStuff/YellowBrick_Auto8
+[2025.05.05-14.01.21:071][370]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/YellowBrick_Auto8138036594266D94DE6F6A6B1D9191093.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/MyStuff/YellowBrick_Auto8.uasset'
+[2025.05.05-14.01.21:071][370]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MyStuff/RedCarpet] ([1] browsable assets)...
+[2025.05.05-14.01.21:075][370]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MyStuff/RedCarpet.RedCarpet]
+[2025.05.05-14.01.21:075][370]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyStuff/RedCarpet]
+[2025.05.05-14.01.21:087][370]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MyStuff/RedCarpet_Auto8
+[2025.05.05-14.01.21:087][370]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/RedCarpet_Auto851B1BCD84DF176BC427CD19A94A19708.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/MyStuff/RedCarpet_Auto8.uasset'
+[2025.05.05-14.01.21:088][370]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MyStuff/RedCarpet_Mat] ([1] browsable assets)...
+[2025.05.05-14.01.21:340][370]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MyStuff/RedCarpet_Mat.RedCarpet_Mat]
+[2025.05.05-14.01.21:340][370]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyStuff/RedCarpet_Mat]
+[2025.05.05-14.01.21:344][370]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MyStuff/RedCarpet_Mat_Auto8
+[2025.05.05-14.01.21:345][370]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/RedCarpet_Mat_Auto80CA147C54B3E6BDDD72CEDA6343EFCAD.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/MyStuff/RedCarpet_Mat_Auto8.uasset'
+[2025.05.05-14.01.21:346][370]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MyStuff/YellowBrick_Mat] ([1] browsable assets)...
+[2025.05.05-14.01.21:362][370]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MyStuff/YellowBrick_Mat.YellowBrick_Mat]
+[2025.05.05-14.01.21:362][370]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyStuff/YellowBrick_Mat]
+[2025.05.05-14.01.21:364][370]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MyStuff/YellowBrick_Mat_Auto8
+[2025.05.05-14.01.21:364][370]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/YellowBrick_Mat_Auto8F843C64A4202CC0275FAB1A556D6B66A.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/MyStuff/YellowBrick_Mat_Auto8.uasset'
+[2025.05.05-14.01.21:365][370]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MyStuff/StripeWall] ([1] browsable assets)...
+[2025.05.05-14.01.21:368][370]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MyStuff/StripeWall.StripeWall]
+[2025.05.05-14.01.21:368][370]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyStuff/StripeWall]
+[2025.05.05-14.01.21:371][370]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MyStuff/StripeWall_Auto8
+[2025.05.05-14.01.21:371][370]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/StripeWall_Auto8A6D29E0E4DBEA8C29F463399114045D2.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/MyStuff/StripeWall_Auto8.uasset'
+[2025.05.05-14.01.21:372][370]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MyStuff/StripeWall_Mat] ([1] browsable assets)...
+[2025.05.05-14.01.21:387][370]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MyStuff/StripeWall_Mat.StripeWall_Mat]
+[2025.05.05-14.01.21:387][370]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyStuff/StripeWall_Mat]
+[2025.05.05-14.01.21:390][370]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MyStuff/StripeWall_Mat_Auto8
+[2025.05.05-14.01.21:390][370]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/StripeWall_Mat_Auto8EF264C6D48C7DBFAD7D041AA8B44EFF0.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/MyStuff/StripeWall_Mat_Auto8.uasset'
+[2025.05.05-14.01.21:391][370]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MyStuff/RedCarpetFloor] ([1] browsable assets)...
+[2025.05.05-14.01.21:729][370]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MyStuff/RedCarpetFloor.RedCarpetFloor]
+[2025.05.05-14.01.21:729][370]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyStuff/RedCarpetFloor]
+[2025.05.05-14.01.21:734][370]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MyStuff/RedCarpetFloor_Auto8
+[2025.05.05-14.01.21:735][370]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/RedCarpetFloor_Auto85D7B1045458E2BFB30970DB456FE9DE0.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/MyStuff/RedCarpetFloor_Auto8.uasset'
+[2025.05.05-14.01.21:736][370]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MyStuff/RedCarpetFloor_Mat] ([1] browsable assets)...
+[2025.05.05-14.01.21:801][370]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MyStuff/RedCarpetFloor_Mat.RedCarpetFloor_Mat]
+[2025.05.05-14.01.21:802][370]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyStuff/RedCarpetFloor_Mat]
+[2025.05.05-14.01.21:804][370]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MyStuff/RedCarpetFloor_Mat_Auto8
+[2025.05.05-14.01.21:804][370]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/RedCarpetFloor_Mat_Auto891343627492DACA267C003B55F502887.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/MyStuff/RedCarpetFloor_Mat_Auto8.uasset'
+[2025.05.05-14.01.21:805][370]LogFileHelpers: Auto-saving content packages took 0.740
+[2025.05.05-14.01.23:160][430]LogStreaming: Display: FlushAsyncLoading(710): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.05-14.01.23:193][430]LogInterchangeEngine: [Pending] Importing
+[2025.05.05-14.01.23:193][430]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Cheska/Downloads/RedFloorCarpet.jpg]
+[2025.05.05-14.01.23:886][432]LogStreaming: Display: FlushAsyncLoading(711): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.05-14.01.23:887][433]LogInterchangeImport: JPEG file [C:/Users/Cheska/Downloads/RedFloorCarpet.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2025.05.05-14.01.24:207][434]LogTexture: Display: Building textures: /Game/MyStuff/RedFloorCarpet.RedFloorCarpet (BGRA8, 894x894 x1x1x1) (Required Memory Estimate: 28.43959 MB), EncodeSpeed: Fast
+[2025.05.05-14.01.24:522][434]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Cheska/Downloads/RedFloorCarpet.jpg]
+[2025.05.05-14.01.24:532][434]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.05.05-14.01.24:532][434]LogInterchangeEngine: [Success] Import Done
+[2025.05.05-14.02.10:815][313]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2025.05.05-14.02.12:060][313]LogSlate: Window 'Delete Assets' being destroyed
+[2025.05.05-14.02.12:104][313]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.TextRenderActor_1 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/RN/55P1SMQLAF7OK6300D5I8N.PackageMetaData in its package
+[2025.05.05-14.02.12:105][313]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_2CFDA1419EE2846502_1762684391 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/S2/9UNA0DT68Y1HWZ1T9XSUM5.PackageMetaData in its package
+[2025.05.05-14.02.12:105][313]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_2CFDA1419EE2856502_1120040573 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/FD/UWRL9JBLS2KY23GK0B7VFQ.PackageMetaData in its package
+[2025.05.05-14.02.12:105][313]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_2CFDA1419EE2846502_2054480394 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/JQ/B1FTD92NDPJ2I171AFU2OD.PackageMetaData in its package
+[2025.05.05-14.02.12:105][313]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_2CFDA1419EE2846502_1669312390 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/MV/JEI02V2HJBQQQOTDTTXSBU.PackageMetaData in its package
+[2025.05.05-14.02.12:105][313]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_2CFDA1419EE2846502_1143203387 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/MI/APQNC6ZDZ8JXIW1FN8RKAC.PackageMetaData in its package
+[2025.05.05-14.02.12:105][313]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_2CFDA1419EE2836502_1748158208 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/BX/RA6NRY28VRUSR54N0JRTV2.PackageMetaData in its package
+[2025.05.05-14.02.12:477][313]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2025.05.05-14.02.12:505][313]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.05.05-14.02.12:532][313]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.05.05-14.02.12:564][313]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.05.05-14.02.21:261][469]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2025.05.05-14.02.22:714][469]LogSlate: Window 'Delete Assets' being destroyed
+[2025.05.05-14.02.22:754][469]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2025.05.05-14.02.22:784][469]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2025.05.05-14.02.22:812][469]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.05.05-14.02.26:256][539]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.05-14.02.26:447][539]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/AJ/2XZ3RUK0LFB63FVNQE7P5R
+[2025.05.05-14.02.26:448][539]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/2XZ3RUK0LFB63FVNQE7P5RF7FFE36844C719C15FBE1A98F9072CCF.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/AJ/2XZ3RUK0LFB63FVNQE7P5R.uasset'
+[2025.05.05-14.02.26:451][539]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/L5/1ZJ54FMA0DAL3I2Q8RFAIB
+[2025.05.05-14.02.26:452][539]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/1ZJ54FMA0DAL3I2Q8RFAIB294E233D44627ED6656033910AA8BE53.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/L5/1ZJ54FMA0DAL3I2Q8RFAIB.uasset'
+[2025.05.05-14.02.26:458][539]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/XJ/HL558UUAGCS9HVVOI0S7PX
+[2025.05.05-14.02.26:458][539]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/HL558UUAGCS9HVVOI0S7PXE59F2F4B402D81898A6C568F3845D446.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/XJ/HL558UUAGCS9HVVOI0S7PX.uasset'
+[2025.05.05-14.02.26:459][539]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/PK/3DUHFKCE19T2ANH6QKWU3L
+[2025.05.05-14.02.26:460][539]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/3DUHFKCE19T2ANH6QKWU3L0A2A476A4B9E06E01C2838B521BC1CFA.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/PK/3DUHFKCE19T2ANH6QKWU3L.uasset'
+[2025.05.05-14.02.26:463][539]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/AI/0XWE3RNM2XQC0ST1KXG02O
+[2025.05.05-14.02.26:464][539]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/0XWE3RNM2XQC0ST1KXG02OC2F0C1D14878A6462C3A6AB472BF4ACF.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/AI/0XWE3RNM2XQC0ST1KXG02O.uasset'
+[2025.05.05-14.02.26:467][539]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/UE/YUZ9741T50O1SYRX90OB0S
+[2025.05.05-14.02.26:467][539]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/YUZ9741T50O1SYRX90OB0S6E6FA1464B63A859C907B184914574CA.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/UE/YUZ9741T50O1SYRX90OB0S.uasset'
+[2025.05.05-14.02.26:473][539]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/BT/RLHTOCEZDI9K2ZFQY1OY4L
+[2025.05.05-14.02.26:473][539]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/RLHTOCEZDI9K2ZFQY1OY4L93A7CAAD41F9473156B43C8F4B094189.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/BT/RLHTOCEZDI9K2ZFQY1OY4L.uasset'
+[2025.05.05-14.02.26:474][539]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/F/46/QZE7HEESZB1NUYF82GZGYN
+[2025.05.05-14.02.26:474][539]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/QZE7HEESZB1NUYF82GZGYN1650011D453EAF8053E1D8AFF4794C8A.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/F/46/QZE7HEESZB1NUYF82GZGYN.uasset'
+[2025.05.05-14.02.26:477][539]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/MS/UB6SL4DM4510O1E9DFQ6D0
+[2025.05.05-14.02.26:478][539]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/UB6SL4DM4510O1E9DFQ6D099B674E247A64A10E876A9AB4E6468CE.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/MS/UB6SL4DM4510O1E9DFQ6D0.uasset'
+[2025.05.05-14.02.26:481][539]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/X2/WPRB9EM4KO1ILAM73LXSVX
+[2025.05.05-14.02.26:482][539]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/WPRB9EM4KO1ILAM73LXSVX5A3D20214755A6499A7E1BADF641EE17.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/X2/WPRB9EM4KO1ILAM73LXSVX.uasset'
+[2025.05.05-14.02.26:484][539]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/FY/PSDST6633SFUI8406COGOM
+[2025.05.05-14.02.26:485][539]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/PSDST6633SFUI8406COGOMAC15B4594EB91452C5992A9E47F74096.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/FY/PSDST6633SFUI8406COGOM.uasset'
+[2025.05.05-14.02.26:488][539]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/DC/20BAP8B797VXIFI1QRY9AO
+[2025.05.05-14.02.26:488][539]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/20BAP8B797VXIFI1QRY9AOF2AA40DB4B87A5189FA85D8B325FAF5A.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/DC/20BAP8B797VXIFI1QRY9AO.uasset'
+[2025.05.05-14.02.26:491][539]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/89/24MPN7N4MORFU3S2Z43QKB
+[2025.05.05-14.02.26:492][539]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/24MPN7N4MORFU3S2Z43QKBF73F74E148935475785D169A30D1D610.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/89/24MPN7N4MORFU3S2Z43QKB.uasset'
+[2025.05.05-14.02.26:494][539]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/33/18N6LFW33C0OIUDV1G318O
+[2025.05.05-14.02.26:495][539]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/18N6LFW33C0OIUDV1G318O3A8355F143E4B658BE9D8983DB858870.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/33/18N6LFW33C0OIUDV1G318O.uasset'
+[2025.05.05-14.02.26:498][539]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/JD/S84ZT29GB4TG1Z8GLEEZAL
+[2025.05.05-14.02.26:498][539]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/S84ZT29GB4TG1Z8GLEEZALEC08123D45ACC50C6B1D53AE0F91B3AC.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/JD/S84ZT29GB4TG1Z8GLEEZAL.uasset'
+[2025.05.05-14.02.26:501][539]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/QS/U2I7OPLSED4HSV44AD7WRI
+[2025.05.05-14.02.26:502][539]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/U2I7OPLSED4HSV44AD7WRIEF6754854444EAC876099FAFFFB5B27A.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/QS/U2I7OPLSED4HSV44AD7WRI.uasset'
+[2025.05.05-14.02.26:505][539]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/R1/3T4KVSFQH4VH0MOMUQ58UJ
+[2025.05.05-14.02.26:505][539]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/3T4KVSFQH4VH0MOMUQ58UJF042B897495F3A39C0D86CB508DEE78D.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/R1/3T4KVSFQH4VH0MOMUQ58UJ.uasset'
+[2025.05.05-14.02.26:508][539]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/IL/3BAAQUC8RK2SGZU21H8VP0
+[2025.05.05-14.02.26:508][539]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/3BAAQUC8RK2SGZU21H8VP0DBAF85FC4EC64F2AAC3306AC093DE96C.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/IL/3BAAQUC8RK2SGZU21H8VP0.uasset'
+[2025.05.05-14.02.26:512][539]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/Z6/NQUC4ZL65LJKHK874C6KKK
+[2025.05.05-14.02.26:512][539]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/NQUC4ZL65LJKHK874C6KKKFAE1D343425D82B02BC13581E55D36F4.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/Z6/NQUC4ZL65LJKHK874C6KKK.uasset'
+[2025.05.05-14.02.26:515][539]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/CC/M3BGSJ2W9DHX9AJ2KMIB36
+[2025.05.05-14.02.26:517][539]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/M3BGSJ2W9DHX9AJ2KMIB367BB454534803DC2921160AA4FE318574.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/CC/M3BGSJ2W9DHX9AJ2KMIB36.uasset'
+[2025.05.05-14.02.26:526][539]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/LJ/RTDXPUA54BPECASV4QX0K8
+[2025.05.05-14.02.26:527][539]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/RTDXPUA54BPECASV4QX0K84379912741DFFCB9784AF5BFCD451939.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/LJ/RTDXPUA54BPECASV4QX0K8.uasset'
+[2025.05.05-14.02.26:543][539]LogFileHelpers: InternalPromptForCheckoutAndSave took 287.763 ms (total: 2.19 sec)
+[2025.05.05-14.02.26:665][539]LogContentValidation: Display: Starting to validate 21 assets
+[2025.05.05-14.02.26:665][539]LogContentValidation: Enabled validators:
+[2025.05.05-14.02.26:665][539]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.05-14.02.26:665][539]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.05-14.02.26:665][539]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.05-14.02.26:665][539]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.05-14.02.26:665][539]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.05-14.02.26:665][539]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.05-14.02.26:665][539]AssetCheck: /Game/FirstPerson/Maps/FirstPersonMap Validating asset
