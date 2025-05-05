@@ -2302,3 +2302,158 @@ FPackageName: Skipped package /Game/StarterContent/Audio/Steam01_Cue has a valid
 [2025.05.05-12.27.51:341][622]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
 [2025.05.05-12.27.51:355][622]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
 [2025.05.05-12.27.51:368][622]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.05.05-12.28.43:423][891]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2025.05.05-12.28.43:424][891]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.017
+[2025.05.05-12.28.43:431][891]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPersonArms/Animations/FirstPerson_AnimBP] ([2] browsable assets)...
+[2025.05.05-12.28.43:696][891]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/FirstPersonArms/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP]
+[2025.05.05-12.28.43:696][891]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonArms/Animations/FirstPerson_AnimBP]
+[2025.05.05-12.28.44:076][891]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPersonArms/Animations/FirstPerson_AnimBP_Auto1
+[2025.05.05-12.28.44:077][891]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/FirstPerson_AnimBP_Auto1F05E89954FA16B1EF667F4B227D43C00.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/FirstPersonArms/Animations/FirstPerson_AnimBP_Auto1.uasset'
+[2025.05.05-12.28.44:078][891]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FPWeapon/Mesh/SK_FPGun] ([1] browsable assets)...
+[2025.05.05-12.28.44:078][891]OBJ SavePackage: Finished generating thumbnails for package [/Game/FPWeapon/Mesh/SK_FPGun]
+[2025.05.05-12.28.44:079][891]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FPWeapon/Mesh/SK_FPGun_Auto1
+[2025.05.05-12.28.44:079][891]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/SK_FPGun_Auto1F133AA3A40802962E815C1A5BABAF6E3.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/FPWeapon/Mesh/SK_FPGun_Auto1.uasset'
+[2025.05.05-12.28.44:080][891]LogFileHelpers: Auto-saving content packages took 0.650
+[2025.05.05-12.31.39:557][418]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1034.961060
+[2025.05.05-12.31.40:558][421]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.05-12.31.40:559][421]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1035.629150, Update Interval: 316.163208
+[2025.05.05-12.32.45:914][ 52]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.05.05-12.32.54:718][252]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.05.05-12.33.28:461][ 27]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.05.05-12.33.38:539][234]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.05.05-12.34.12:160][ 48]LogStreaming: Display: FlushAsyncLoading(486): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.05-12.34.12:865][ 48]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_400x400.Wall_400x400
+[2025.05.05-12.34.12:885][ 48]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_400x400.Wall_400x400
+[2025.05.05-12.34.12:895][ 48]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Architecture/Wall_400x400.Wall_400x400 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_2
+[2025.05.05-12.34.14:964][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.05.05-12.34.14:966][ 80]LogEditorActor: Deleted 0 Actors (0.018 secs)
+[2025.05.05-12.34.14:975][ 80]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_400x400.Wall_400x400
+[2025.05.05-12.34.14:975][ 80]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_400x400.Wall_400x400
+[2025.05.05-12.34.14:979][ 80]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Architecture/Wall_400x400.Wall_400x400 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_2CFDA1419EE2826502_1785324031
+[2025.05.05-12.34.42:729][746]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.05-12.34.43:061][746]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.05.05-12.34.43:061][746]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2025.05.05-12.34.43:068][746]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 7.739 ms (total: 44.096 ms)
+[2025.05.05-12.34.43:112][746]LogPlayLevel: [PlayLevel] Compiling FirstPerson_AnimBP before play...
+[2025.05.05-12.34.43:127][746]LogBlueprint: Error: [AssetLog] C:\Users\Cheska\Documents\Pookie's College Stuff\Game Programming 3\UE5\GP3_HorrorArea\Content\FirstPersonArms\Animations\FirstPerson_AnimBP.uasset: [Compiler] Sequence Player  references an unknown Anim Sequence Base
+[2025.05.05-12.34.43:127][746]LogBlueprint: Error: [AssetLog] C:\Users\Cheska\Documents\Pookie's College Stuff\Game Programming 3\UE5\GP3_HorrorArea\Content\FirstPersonArms\Animations\FirstPerson_AnimBP.uasset: [Compiler] Sequence Player  references an unknown Anim Sequence Base
+[2025.05.05-12.34.43:128][746]LogBlueprint: Error: [AssetLog] C:\Users\Cheska\Documents\Pookie's College Stuff\Game Programming 3\UE5\GP3_HorrorArea\Content\FirstPersonArms\Animations\FirstPerson_AnimBP.uasset: [Compiler] Sequence Player  references an unknown Anim Sequence Base
+[2025.05.05-12.34.43:128][746]LogBlueprint: Error: [AssetLog] C:\Users\Cheska\Documents\Pookie's College Stuff\Game Programming 3\UE5\GP3_HorrorArea\Content\FirstPersonArms\Animations\FirstPerson_AnimBP.uasset: [Compiler] Sequence Player  references an unknown Anim Sequence Base
+[2025.05.05-12.34.43:129][746]LogBlueprint: Error: [AssetLog] C:\Users\Cheska\Documents\Pookie's College Stuff\Game Programming 3\UE5\GP3_HorrorArea\Content\FirstPersonArms\Animations\FirstPerson_AnimBP.uasset: [Compiler] Sequence Player  references an unknown Anim Sequence Base
+[2025.05.05-12.34.43:153][746]LogBlueprint: Error: [AssetLog] C:\Users\Cheska\Documents\Pookie's College Stuff\Game Programming 3\UE5\GP3_HorrorArea\Content\FirstPersonArms\Animations\FirstPerson_AnimBP.uasset: [Compiler] ICE: Player node  Sequence Player  was not processed prior to handling a transition getter  Animation Asset  that used it
+[2025.05.05-12.34.43:154][746]LogBlueprint: Error: [AssetLog] C:\Users\Cheska\Documents\Pookie's College Stuff\Game Programming 3\UE5\GP3_HorrorArea\Content\FirstPersonArms\Animations\FirstPerson_AnimBP.uasset: [Compiler] ICE: Player node  Sequence Player  was not processed prior to handling a transition getter  Animation Asset  that used it
+[2025.05.05-12.34.43:156][746]LogBlueprint: Error: [AssetLog] C:\Users\Cheska\Documents\Pookie's College Stuff\Game Programming 3\UE5\GP3_HorrorArea\Content\FirstPersonArms\Animations\FirstPerson_AnimBP.uasset: [Compiler] Missing allocated node for AnimGraphNode_SequencePlayer_340 while searching for node links - likely due to the node having outstanding errors.
+[2025.05.05-12.34.43:156][746]LogBlueprint: Error: [AssetLog] C:\Users\Cheska\Documents\Pookie's College Stuff\Game Programming 3\UE5\GP3_HorrorArea\Content\FirstPersonArms\Animations\FirstPerson_AnimBP.uasset: [Compiler] Missing allocated node for AnimGraphNode_SequencePlayer_391 while searching for node links - likely due to the node having outstanding errors.
+[2025.05.05-12.34.43:156][746]LogBlueprint: Error: [AssetLog] C:\Users\Cheska\Documents\Pookie's College Stuff\Game Programming 3\UE5\GP3_HorrorArea\Content\FirstPersonArms\Animations\FirstPerson_AnimBP.uasset: [Compiler] Missing allocated node for AnimGraphNode_SequencePlayer_418 while searching for node links - likely due to the node having outstanding errors.
+[2025.05.05-12.34.43:156][746]LogBlueprint: Error: [AssetLog] C:\Users\Cheska\Documents\Pookie's College Stuff\Game Programming 3\UE5\GP3_HorrorArea\Content\FirstPersonArms\Animations\FirstPerson_AnimBP.uasset: [Compiler] Missing allocated node for AnimGraphNode_SequencePlayer_445 while searching for node links - likely due to the node having outstanding errors.
+[2025.05.05-12.34.43:156][746]LogBlueprint: Error: [AssetLog] C:\Users\Cheska\Documents\Pookie's College Stuff\Game Programming 3\UE5\GP3_HorrorArea\Content\FirstPersonArms\Animations\FirstPerson_AnimBP.uasset: [Compiler] Missing allocated node for AnimGraphNode_SequencePlayer_113 while searching for node links - likely due to the node having outstanding errors.
+[2025.05.05-12.34.43:176][746]LogBlueprint: Error: [AssetLog] C:\Users\Cheska\Documents\Pookie's College Stuff\Game Programming 3\UE5\GP3_HorrorArea\Content\FirstPersonArms\Animations\FirstPerson_AnimBP.uasset: [Compiler] Unexpected node type K2Node_TransitionRuleGetter encountered at  Animation Asset
+[2025.05.05-12.34.43:176][746]LogBlueprint: Error: [AssetLog] C:\Users\Cheska\Documents\Pookie's College Stuff\Game Programming 3\UE5\GP3_HorrorArea\Content\FirstPersonArms\Animations\FirstPerson_AnimBP.uasset: [Compiler] Unexpected node type K2Node_TransitionRuleGetter encountered at  Animation Asset
+[2025.05.05-12.34.43:177][746]LogBlueprint: Error: [AssetLog] C:\Users\Cheska\Documents\Pookie's College Stuff\Game Programming 3\UE5\GP3_HorrorArea\Content\FirstPersonArms\Animations\FirstPerson_AnimBP.uasset: [Compiler] Unexpected node type K2Node_TransitionRuleGetter encountered at  Animation Asset
+[2025.05.05-12.34.43:177][746]LogBlueprint: Error: [AssetLog] C:\Users\Cheska\Documents\Pookie's College Stuff\Game Programming 3\UE5\GP3_HorrorArea\Content\FirstPersonArms\Animations\FirstPerson_AnimBP.uasset: [Compiler] Unexpected node type K2Node_TransitionRuleGetter encountered at  Animation Asset
+[2025.05.05-12.34.43:300][746]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.05.05-12.34.43:307][746]LogPlayLevel: PlayLevel: Blueprint regeneration took 237 ms (1 blueprints)
+[2025.05.05-12.34.43:307][746]BlueprintLog: Warning: Blueprint failed to compile:  FirstPerson_AnimBP
+[2025.05.05-12.34.51:132][746]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/FirstPersonArms/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP
+[2025.05.05-12.34.51:179][746]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2025.05.05-12.34.51:660][746]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2025.05.05-12.34.51:702][746]LogStreaming: Display: FlushAsyncLoading(487): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.05-12.34.52:099][746]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.05.05-12.34.57:584][746]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2025.05.05-12.34.58:456][746]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2025.05.05-12.34.58:885][746]LogSlate: Took 0.036616 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.05.05-12.34.58:956][746]LogSlate: Took 0.008945 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.05.05-12.35.57:190][771]LogSlate: Took 0.022891 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2025.05.05-12.37.08:705][276]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1364.107422
+[2025.05.05-12.37.09:705][279]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.05-12.37.09:705][279]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1364.774658, Update Interval: 316.849884
+[2025.05.05-12.38.28:324][ 59]LogSlate: Window 'Delete Variable' being destroyed
+[2025.05.05-12.38.35:180][173]LogBlueprint: Error: [AssetLog] C:\Users\Cheska\Documents\Pookie's College Stuff\Game Programming 3\UE5\GP3_HorrorArea\Content\FirstPersonArms\Animations\FirstPerson_AnimBP.uasset: [Compiler] Sequence Player  references an unknown Anim Sequence Base
+[2025.05.05-12.38.35:181][173]LogBlueprint: Error: [AssetLog] C:\Users\Cheska\Documents\Pookie's College Stuff\Game Programming 3\UE5\GP3_HorrorArea\Content\FirstPersonArms\Animations\FirstPerson_AnimBP.uasset: [Compiler] Sequence Player  references an unknown Anim Sequence Base
+[2025.05.05-12.38.35:181][173]LogBlueprint: Error: [AssetLog] C:\Users\Cheska\Documents\Pookie's College Stuff\Game Programming 3\UE5\GP3_HorrorArea\Content\FirstPersonArms\Animations\FirstPerson_AnimBP.uasset: [Compiler] Sequence Player  references an unknown Anim Sequence Base
+[2025.05.05-12.38.35:182][173]LogBlueprint: Error: [AssetLog] C:\Users\Cheska\Documents\Pookie's College Stuff\Game Programming 3\UE5\GP3_HorrorArea\Content\FirstPersonArms\Animations\FirstPerson_AnimBP.uasset: [Compiler] Sequence Player  references an unknown Anim Sequence Base
+[2025.05.05-12.38.35:182][173]LogBlueprint: Error: [AssetLog] C:\Users\Cheska\Documents\Pookie's College Stuff\Game Programming 3\UE5\GP3_HorrorArea\Content\FirstPersonArms\Animations\FirstPerson_AnimBP.uasset: [Compiler] Sequence Player  references an unknown Anim Sequence Base
+[2025.05.05-12.38.35:183][173]LogBlueprint: Error: [AssetLog] C:\Users\Cheska\Documents\Pookie's College Stuff\Game Programming 3\UE5\GP3_HorrorArea\Content\FirstPersonArms\Animations\FirstPerson_AnimBP.uasset: [Compiler] ICE: Player node  Sequence Player  was not processed prior to handling a transition getter  Animation Asset  that used it
+[2025.05.05-12.38.35:184][173]LogBlueprint: Error: [AssetLog] C:\Users\Cheska\Documents\Pookie's College Stuff\Game Programming 3\UE5\GP3_HorrorArea\Content\FirstPersonArms\Animations\FirstPerson_AnimBP.uasset: [Compiler] ICE: Player node  Sequence Player  was not processed prior to handling a transition getter  Animation Asset  that used it
+[2025.05.05-12.38.35:186][173]LogBlueprint: Error: [AssetLog] C:\Users\Cheska\Documents\Pookie's College Stuff\Game Programming 3\UE5\GP3_HorrorArea\Content\FirstPersonArms\Animations\FirstPerson_AnimBP.uasset: [Compiler] Missing allocated node for AnimGraphNode_SequencePlayer_340 while searching for node links - likely due to the node having outstanding errors.
+[2025.05.05-12.38.35:186][173]LogBlueprint: Error: [AssetLog] C:\Users\Cheska\Documents\Pookie's College Stuff\Game Programming 3\UE5\GP3_HorrorArea\Content\FirstPersonArms\Animations\FirstPerson_AnimBP.uasset: [Compiler] Missing allocated node for AnimGraphNode_SequencePlayer_391 while searching for node links - likely due to the node having outstanding errors.
+[2025.05.05-12.38.35:186][173]LogBlueprint: Error: [AssetLog] C:\Users\Cheska\Documents\Pookie's College Stuff\Game Programming 3\UE5\GP3_HorrorArea\Content\FirstPersonArms\Animations\FirstPerson_AnimBP.uasset: [Compiler] Missing allocated node for AnimGraphNode_SequencePlayer_418 while searching for node links - likely due to the node having outstanding errors.
+[2025.05.05-12.38.35:186][173]LogBlueprint: Error: [AssetLog] C:\Users\Cheska\Documents\Pookie's College Stuff\Game Programming 3\UE5\GP3_HorrorArea\Content\FirstPersonArms\Animations\FirstPerson_AnimBP.uasset: [Compiler] Missing allocated node for AnimGraphNode_SequencePlayer_445 while searching for node links - likely due to the node having outstanding errors.
+[2025.05.05-12.38.35:186][173]LogBlueprint: Error: [AssetLog] C:\Users\Cheska\Documents\Pookie's College Stuff\Game Programming 3\UE5\GP3_HorrorArea\Content\FirstPersonArms\Animations\FirstPerson_AnimBP.uasset: [Compiler] Missing allocated node for AnimGraphNode_SequencePlayer_113 while searching for node links - likely due to the node having outstanding errors.
+[2025.05.05-12.38.35:190][173]LogBlueprint: Error: [AssetLog] C:\Users\Cheska\Documents\Pookie's College Stuff\Game Programming 3\UE5\GP3_HorrorArea\Content\FirstPersonArms\Animations\FirstPerson_AnimBP.uasset: [Compiler] Unexpected node type K2Node_TransitionRuleGetter encountered at  Animation Asset
+[2025.05.05-12.38.35:190][173]LogBlueprint: Error: [AssetLog] C:\Users\Cheska\Documents\Pookie's College Stuff\Game Programming 3\UE5\GP3_HorrorArea\Content\FirstPersonArms\Animations\FirstPerson_AnimBP.uasset: [Compiler] Unexpected node type K2Node_TransitionRuleGetter encountered at  Animation Asset
+[2025.05.05-12.38.35:191][173]LogBlueprint: Error: [AssetLog] C:\Users\Cheska\Documents\Pookie's College Stuff\Game Programming 3\UE5\GP3_HorrorArea\Content\FirstPersonArms\Animations\FirstPerson_AnimBP.uasset: [Compiler] Unexpected node type K2Node_TransitionRuleGetter encountered at  Animation Asset
+[2025.05.05-12.38.35:191][173]LogBlueprint: Error: [AssetLog] C:\Users\Cheska\Documents\Pookie's College Stuff\Game Programming 3\UE5\GP3_HorrorArea\Content\FirstPersonArms\Animations\FirstPerson_AnimBP.uasset: [Compiler] Unexpected node type K2Node_TransitionRuleGetter encountered at  Animation Asset
+[2025.05.05-12.38.35:404][173]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2025.05.05-12.39.03:365][673]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.05-12.39.03:376][673]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.05.05-12.39.03:376][673]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2025.05.05-12.39.03:380][673]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 4.429 ms (total: 48.525 ms)
+[2025.05.05-12.39.03:382][673]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.05-12.39.03:382][673]BlueprintLog: Warning: Blueprint failed to compile:  FirstPerson_AnimBP
+[2025.05.05-12.39.08:971][673]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2025.05.05-12.40.46:329][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2025.05.05-12.40.46:674][ 39]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Z7/W1SXRCM1KAKBJOIZDLHZ47_Auto2
+[2025.05.05-12.40.46:674][ 39]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/W1SXRCM1KAKBJOIZDLHZ47_Auto251A0B1D64708101E73FF4B8E0DB34A28.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Z7/W1SXRCM1KAKBJOIZDLHZ47_Auto2.uasset'
+[2025.05.05-12.40.46:678][ 39]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/MS/3FT95FNSZM5DL36VJ6U1BG_Auto2
+[2025.05.05-12.40.46:679][ 39]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/3FT95FNSZM5DL36VJ6U1BG_Auto2E5A8F0554856258BB5FDCE8E96AB0AD0.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/MS/3FT95FNSZM5DL36VJ6U1BG_Auto2.uasset'
+[2025.05.05-12.40.46:682][ 39]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.380
+[2025.05.05-12.40.46:682][ 39]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.380
+[2025.05.05-12.40.46:682][ 39]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPersonArms/Animations/FirstPerson_AnimBP] ([2] browsable assets)...
+[2025.05.05-12.40.46:909][ 39]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/FirstPersonArms/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP]
+[2025.05.05-12.40.46:909][ 39]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonArms/Animations/FirstPerson_AnimBP]
+[2025.05.05-12.40.46:986][ 39]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPersonArms/Animations/FirstPerson_AnimBP_Auto2
+[2025.05.05-12.40.46:986][ 39]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/FirstPerson_AnimBP_Auto2B131216048F64439D262328DD8F99C1F.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/FirstPersonArms/Animations/FirstPerson_AnimBP_Auto2.uasset'
+[2025.05.05-12.40.46:987][ 39]LogFileHelpers: Auto-saving content packages took 0.305
+[2025.05.05-12.42.55:595][975]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1711.002075
+[2025.05.05-12.42.55:965][982]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.05-12.42.55:965][982]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1711.320068, Update Interval: 300.809357
+[2025.05.05-12.43.08:505][214]LogBlueprint: Warning: [AssetLog] C:\Users\Cheska\Documents\Pookie's College Stuff\Game Programming 3\UE5\GP3_HorrorArea\Content\FirstPersonArms\Animations\FirstPerson_AnimBP.uasset: [Compiler] Entry node  LocomotioRifleStateMachine  is not connected to state
+[2025.05.05-12.43.08:505][214]LogBlueprint: Warning: [AssetLog] C:\Users\Cheska\Documents\Pookie's College Stuff\Game Programming 3\UE5\GP3_HorrorArea\Content\FirstPersonArms\Animations\FirstPerson_AnimBP.uasset: [Compiler] There was no entry state connection in  LocomotioRifleStateMachine
+[2025.05.05-12.43.08:932][214]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2025.05.05-12.43.20:238][405]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.05-12.43.20:252][405]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.05.05-12.43.20:252][405]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2025.05.05-12.43.20:257][405]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 5.350 ms (total: 53.876 ms)
+[2025.05.05-12.43.20:258][405]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.05-12.43.20:258][405]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.05.05-12.43.20:263][405]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004383s)
+[2025.05.05-12.43.20:263][405]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.004502s)
+[2025.05.05-12.43.20:295][405]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2025.05.05-12.43.20:315][405]LogChaosDD: Creating Chaos Debug Draw Scene for world FirstPersonMap
+[2025.05.05-12.43.20:317][405]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.05.05-12.43.20:317][405]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.05.05-12.43.20:318][405]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.05.05-12.43.20:318][405]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.05.05-12.43.20:319][405]LogWorldPartition: Display: WorldPartition initialize took 1.372 ms (total: 702.725 ms)
+[2025.05.05-12.43.20:319][405]LogPlayLevel: PIE: World Init took: (0.004374s)
+[2025.05.05-12.43.20:320][405]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.05.05-12.43.20:321][405]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.05-12.43.20:321][405]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.05-12.43.20:321][405]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.05-12.43.20:321][405]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.05-12.43.20:321][405]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.05.05-12.43.20:321][405]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.05-12.43.20:321][405]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.05.05-12.43.20:321][405]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.05-12.43.20:321][405]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.05-12.43.20:321][405]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.05-12.43.20:321][405]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.05-12.43.20:324][405]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.05-12.43.20:348][405]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- High Definition Audio Device)
+[2025.05.05-12.43.20:348][405]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.05-12.43.20:348][405]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.05-12.43.20:348][405]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.05-12.43.20:349][405]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.05.05-12.43.20:349][405]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.05.05-12.43.20:354][405]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.05.05-12.43.20:354][405]LogInit: FAudioDevice initialized with ID 3.
+[2025.05.05-12.43.20:354][405]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.05.05-12.43.20:354][405]LogAudio: Display: Audio Device (ID: 3) registered with world 'FirstPersonMap'.
+[2025.05.05-12.43.20:354][405]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.05.05-12.43.20:365][405]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.05.05-12.43.20:367][405]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2025.05.05-20.43.20
+[2025.05.05-12.43.20:368][405]LogWorld: Bringing up level for play took: 0.002117
+[2025.05.05-12.43.20:371][405]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2025.05.05-12.43.20:398][405]PIE: Server logged in
+[2025.05.05-12.43.20:400][405]PIE: Play in editor total start time 0.148 seconds.
