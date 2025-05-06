@@ -2275,3 +2275,755 @@ LogConfig: Set CVar [[r.VRS.EnableSoftware:1]]
 [2025.05.06-02.00.51:446][746]AssetCheck: /Game/FirstPerson/Maps/FirstPersonMap Validating asset
 [2025.05.06-02.01.15:404][851]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
 [2025.05.06-02.01.15:406][851]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.034
+[2025.05.06-02.01.31:611][900]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6560.704102
+[2025.05.06-02.01.32:616][904]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.06-02.01.32:616][904]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6561.370605, Update Interval: 328.955353
+[2025.05.06-02.02.41:776][667]Cmd: TRANSACTION UNDO
+[2025.05.06-02.02.41:776][667]LogEditorTransaction: Undo Move Elements
+[2025.05.06-02.04.06:672][441]Cmd: DELETE
+[2025.05.06-02.04.06:672][441]Cmd: ACTOR DELETE
+[2025.05.06-02.04.06:674][441]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.06-02.04.06:711][441]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.05.06-02.04.06:716][441]LogEditorActor: Deleted 1 Actors (0.044 secs)
+[2025.05.06-02.04.08:594][494]Cmd: DELETE
+[2025.05.06-02.04.08:594][494]Cmd: ACTOR DELETE
+[2025.05.06-02.04.08:595][494]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.06-02.04.08:628][494]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.05.06-02.04.08:630][494]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2025.05.06-02.07.44:576][ 63]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6933.667969
+[2025.05.06-02.07.45:576][ 66]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.06-02.07.45:576][ 66]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6934.335449, Update Interval: 356.848663
+[2025.05.06-02.08.07:629][629]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.05.06-02.08.07:636][629]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.06-02.08.07:776][629]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.05.06-02.08.07:804][629]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.05.06-02.08.07:833][629]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.05.06-02.08.07:837][629]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/VO/FP978BUI81BH73TZ2QK7UC
+[2025.05.06-02.08.07:838][629]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/FP978BUI81BH73TZ2QK7UCFD673F6E4DB812B4CA23A0BB920078A1.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/VO/FP978BUI81BH73TZ2QK7UC.uasset'
+[2025.05.06-02.08.07:841][629]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/A0/OMJ6RWTQPPXGJP52AHY9ZF
+[2025.05.06-02.08.07:842][629]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/OMJ6RWTQPPXGJP52AHY9ZFF03EEE0D40DF9B01888493B5284B04B9.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/A0/OMJ6RWTQPPXGJP52AHY9ZF.uasset'
+[2025.05.06-02.08.07:845][629]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/BI/LHW45ALWTZYEST6CY2ZJUY
+[2025.05.06-02.08.07:846][629]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/LHW45ALWTZYEST6CY2ZJUYD4C746F845C7D32EEEB346963CAC0730.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/BI/LHW45ALWTZYEST6CY2ZJUY.uasset'
+[2025.05.06-02.08.07:860][629]LogFileHelpers: InternalPromptForCheckoutAndSave took 224.549 ms (total: 2.29 sec)
+[2025.05.06-02.08.07:979][629]LogContentValidation: Display: Starting to validate 3 assets
+[2025.05.06-02.08.07:979][629]LogContentValidation: Enabled validators:
+[2025.05.06-02.08.07:979][629]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.06-02.08.07:979][629]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.06-02.08.07:979][629]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.06-02.08.07:979][629]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.06-02.08.07:979][629]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.06-02.08.07:979][629]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.06-02.08.07:979][629]AssetCheck: /Game/FirstPerson/Maps/FirstPersonMap Validating asset
+[2025.05.06-02.08.11:229][711]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2025.05.06-02.13.36:122][176]LogDerivedDataCache: C:/Users/Cheska/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.05.06-02.14.28:948][914]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7338.070801
+[2025.05.06-02.14.29:409][926]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.06-02.14.29:409][926]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7338.502441, Update Interval: 347.317719
+[2025.05.06-02.21.05:192][442]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.05.06-02.21.05:194][442]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.034
+[2025.05.06-02.21.05:195][442]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/MyStuff/BP_WeepingAngel] ([2] browsable assets)...
+[2025.05.06-02.21.05:499][442]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/MyStuff/BP_WeepingAngel.BP_WeepingAngel]
+[2025.05.06-02.21.05:500][442]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyStuff/BP_WeepingAngel]
+[2025.05.06-02.21.05:510][442]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MyStuff/BP_WeepingAngel_Auto8
+[2025.05.06-02.21.05:510][442]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/BP_WeepingAngel_Auto87D9432D143A7FF955D426FA31B584551.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/MyStuff/BP_WeepingAngel_Auto8.uasset'
+[2025.05.06-02.21.05:512][442]LogFileHelpers: Auto-saving content packages took 0.317
+[2025.05.06-02.21.12:221][463]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7741.352539
+[2025.05.06-02.21.13:222][466]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.06-02.21.13:222][466]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7742.020996, Update Interval: 327.984863
+[2025.05.06-02.24.02:461][735]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2025.05.06-02.24.06:493][735]LogSlate: Window 'Delete Assets' being destroyed
+[2025.05.06-02.24.06:781][735]LogSlate: Window 'BP_WeepingAngel' being destroyed
+[2025.05.06-02.24.06:861][735]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.05.06-02.24.06:861][735]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.06-02.24.06:945][735]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/MyStuff/BP_WeepingAngel.BP_WeepingAngel
+	Asset Type: Blueprint
+[2025.05.06-02.24.07:466][735]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_2CFDA1419EE2876502_1964702939 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/D5/1S2VIY9OT31DFN9KKPLG3S.PackageMetaData in its package
+[2025.05.06-02.24.07:466][735]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_2CFDA1419EE2876502_2067277943 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/JS/4FGUUPN6E2B5VEQ29461H6.PackageMetaData in its package
+[2025.05.06-02.24.07:466][735]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_2CFDA1419EE2856502_1213242574 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/LJ/RTDXPUA54BPECASV4QX0K8.PackageMetaData in its package
+[2025.05.06-02.24.07:466][735]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_2CFDA1419EE2886502_1579198124 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/LY/ACGMAQDXHC1J196R2P1O7H.PackageMetaData in its package
+[2025.05.06-02.24.07:466][735]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_2CFDA1419EE2836502_1890217209 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/MS/UB6SL4DM4510O1E9DFQ6D0.PackageMetaData in its package
+[2025.05.06-02.24.07:466][735]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_2CFDA1419EE2856502_1379228575 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/PK/3DUHFKCE19T2ANH6QKWU3L.PackageMetaData in its package
+[2025.05.06-02.24.07:466][735]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_2CFDA1419EE2846502_1939277393 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/QS/U2I7OPLSED4HSV44AD7WRI.PackageMetaData in its package
+[2025.05.06-02.24.07:466][735]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_2CFDA1419EE2856502_1578626579 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/R1/3T4KVSFQH4VH0MOMUQ58UJ.PackageMetaData in its package
+[2025.05.06-02.24.07:466][735]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_2CFDA1419EE2876502_2006215941 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/RY/RJAMLW4GELRXGGMUOTAK84.PackageMetaData in its package
+[2025.05.06-02.24.07:466][735]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_2CFDA1419EE2856502_1680299581 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/X2/WPRB9EM4KO1ILAM73LXSVX.PackageMetaData in its package
+[2025.05.06-02.24.07:466][735]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_2CFDA1419EE2886502_1429605121 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/U6/XUZJDQCR9Z9URVDA7FS13T.PackageMetaData in its package
+[2025.05.06-02.24.07:466][735]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_2CFDA1419EE2886502_1715745127 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/YO/VOONK9DECC8PFEIMUHUU54.PackageMetaData in its package
+[2025.05.06-02.24.07:466][735]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_2CFDA1419EE2856502_1541314576 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/BT/RLHTOCEZDI9K2ZFQY1OY4L.PackageMetaData in its package
+[2025.05.06-02.24.07:466][735]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_2CFDA1419EE2886502_1783515130 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/HO/4XO78LMB7HPPR3VW0YPAY2.PackageMetaData in its package
+[2025.05.06-02.24.07:467][735]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_2CFDA1419EE2846502_2105910395 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/IL/3BAAQUC8RK2SGZU21H8VP0.PackageMetaData in its package
+[2025.05.06-02.24.07:467][735]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_2CFDA1419EE2886502_2032196131 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/C9/BC8DMYH0TUI9YCYIGPUJJ9.PackageMetaData in its package
+[2025.05.06-02.24.07:467][735]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_2CFDA1419EE2886502_1618580125 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/HK/QPWHK9UBKSW4F74C7B7LOC.PackageMetaData in its package
+[2025.05.06-02.24.07:467][735]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_2CFDA1419EE2846502_1865479392 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/JD/S84ZT29GB4TG1Z8GLEEZAL.PackageMetaData in its package
+[2025.05.06-02.24.07:467][735]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_2CFDA1419EE2886502_1512297122 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/NV/WMUZMEXNYP3YKUCAEY2DXX.PackageMetaData in its package
+[2025.05.06-02.24.07:467][735]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_2CFDA1419EE2876502_1784330935 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/RL/O5LL9A3KRV5Y8Z3UAZNJ3H.PackageMetaData in its package
+[2025.05.06-02.24.07:467][735]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_2CFDA1419EE2886502_1541489123 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/TM/YOE0WMC3YJ749N0DWIDH45.PackageMetaData in its package
+[2025.05.06-02.24.07:467][735]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_2CFDA1419EE2876502_1955410938 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/SP/LNNJI57T01TT6GCUC22KKY.PackageMetaData in its package
+[2025.05.06-02.24.07:467][735]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_2CFDA1419EE2856502_1567177578 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/CC/M3BGSJ2W9DHX9AJ2KMIB36.PackageMetaData in its package
+[2025.05.06-02.24.07:467][735]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_2CFDA1419EE2876502_1925065936 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/GH/1RZ29K7Y58OQ7VDM08VC53.PackageMetaData in its package
+[2025.05.06-02.24.07:467][735]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_2CFDA1419EE2876502_1933453937 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/HJ/7EV4NBP94730UUPSQN3HUM.PackageMetaData in its package
+[2025.05.06-02.24.07:467][735]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_2CFDA1419EE2886502_1659104126 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/XG/I75CSU1ALVZC27T63MLRB1.PackageMetaData in its package
+[2025.05.06-02.24.07:467][735]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_2CFDA1419EE2876502_2037475942 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/4A/KMT3R6USJ5B63SR3VYO5IA.PackageMetaData in its package
+[2025.05.06-02.24.07:467][735]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_2CFDA1419EE2856502_1631918580 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/89/24MPN7N4MORFU3S2Z43QKB.PackageMetaData in its package
+[2025.05.06-02.24.07:467][735]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_2CFDA1419EE2856502_1552182577 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/33/18N6LFW33C0OIUDV1G318O.PackageMetaData in its package
+[2025.05.06-02.24.07:467][735]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_2CFDA1419EE2846502_1380178389 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/DC/20BAP8B797VXIFI1QRY9AO.PackageMetaData in its package
+[2025.05.06-02.24.07:467][735]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_2CFDA1419EE2876502_1987758940 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/UY/9DY90TI8ZWA16I4IQPN24R.PackageMetaData in its package
+[2025.05.06-02.24.07:467][735]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_2CFDA1419EE2886502_1736450128 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/2S/9WYE0GIISUEQJNSC1WQ7UG.PackageMetaData in its package
+[2025.05.06-02.24.07:467][735]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_2CFDA1419EE2876502_2135511944 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/JX/HUJLIQG726Y4PB0LST7PUN.PackageMetaData in its package
+[2025.05.06-02.24.07:534][735]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2025.05.06-02.24.07:655][735]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2025.05.06-02.24.07:685][735]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2025.05.06-02.24.07:715][735]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.05.06-02.24.07:758][735]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.05.06-02.24.54:336][551]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.05.06-02.24.54:345][551]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.05.06-02.24.54:355][551]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.05.06-02.24.54:376][552]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.05.06-02.25.02:492][843]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_WeepingAngel
+[2025.05.06-02.25.02:505][843]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.05.06-02.25.18:307][944]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MyStuff/BP_WeepingAngel.BP_WeepingAngel
+[2025.05.06-02.25.18:308][944]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2025.05.06-02.25.29:317][ 37]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SkeletalMesh_64.svg'. File could not be found
+[2025.05.06-02.25.29:328][ 38]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2025.05.06-02.26.21:392][211]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2025.05.06-02.26.22:916][211]LogSlate: Window 'Delete Assets' being destroyed
+[2025.05.06-02.26.22:978][211]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2025.05.06-02.26.23:011][211]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2025.05.06-02.26.23:046][211]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.05.06-02.26.33:199][402]LogStreaming: Display: FlushAsyncLoading(616): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.06-02.26.33:282][402]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Cheska/Documents/Pookie's College Stuff/3D FBX/angel-silver-version/source/Angel_LP.fbx]
+[2025.05.06-02.26.44:501][402]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2025.05.06-02.27.02:743][402]LogSlate: Window 'Import Content' being destroyed
+[2025.05.06-02.27.02:803][402]LogInterchangeEngine: [Pending] Importing
+[2025.05.06-02.27.03:306][405]LogStreaming: Display: FlushAsyncLoading(617): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.06-02.27.03:310][406]LogRHI: Error: GpuProfiler's scratch buffer is out of space for this frame (current size : 32 kB). Dropping this frame. The size can be increased dynamically with the console variable r.GpuProfilerMaxEventBufferSizeKB
+[2025.05.06-02.27.03:351][407]LogStaticMesh: Display: Building static mesh Angel_LP (Required Memory Estimate: 15.118917 MB)...
+[2025.05.06-02.27.03:459][413]LogStaticMesh: Adjacency [0.00s], tris: 9880, UVs 1
+[2025.05.06-02.27.03:481][414]LogStaticMesh: Clustering [0.02s]. Ratio: 1.038462
+[2025.05.06-02.27.03:483][414]LogStaticMesh: Leaves [0.00s]
+[2025.05.06-02.27.04:178][442]LogStaticMesh: Reduce [0.70s]
+[2025.05.06-02.27.04:359][450]LogStaticMesh: Fallback [0.18s], num tris: 4150
+[2025.05.06-02.27.04:372][450]LogStaticMesh: ConstrainClusters:
+[2025.05.06-02.27.04:372][450]LogStaticMesh:   Input: 165 Clusters, 20464 Triangles and 15916 Vertices
+[2025.05.06-02.27.04:372][450]LogStaticMesh:   Output without splits: 165 Clusters, 20464 Triangles and 16075 Vertices
+[2025.05.06-02.27.04:373][450]LogStaticMesh:   Output with splits: 165 Clusters, 20464 Triangles and 16075 Vertices
+[2025.05.06-02.27.04:374][450]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 165, Slow Path Clusters: 0, 1 Material: 165, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.05.06-02.27.04:381][451]LogStaticMesh: WritePages:
+[2025.05.06-02.27.04:381][451]LogStaticMesh:   Root: GPU size: 32104 bytes. 1 Pages. 32104.000 bytes per page (97.974% utilization).
+[2025.05.06-02.27.04:381][451]LogStaticMesh:   Streaming: GPU size: 191340 bytes. 2 Pages (2 with relative encoding). 95670.000 bytes per page (72.990% utilization).
+[2025.05.06-02.27.04:381][451]LogStaticMesh:   Page data disk size: 183424 bytes. Fixup data size: 776 bytes.
+[2025.05.06-02.27.04:381][451]LogStaticMesh:   Total GPU size: 223444 bytes, Total disk size: 184200 bytes.
+[2025.05.06-02.27.04:381][451]LogStaticMesh: Encode [0.02s]
+[2025.05.06-02.27.04:381][451]LogStaticMesh: Nanite build [0.93s]
+
+[2025.05.06-02.27.04:402][451]LogStaticMesh: Built static mesh [1.05s] /Game/MyStuff/Angel_LP.Angel_LP
+[2025.05.06-02.27.07:831][456]LogMeshUtilities: Finished distance field build in 3.3s - 126x70x126 sparse distance field, 0.8Mb total, 0.0Mb always loaded, 40% occupied, 3293 triangles, Angel_LP
+[2025.05.06-02.27.07:845][457]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Cheska/Docu...ilver-version/source/Angel_LP.fbx]
+[2025.05.06-02.27.07:846][457]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.05.06-02.27.07:846][457]LogInterchangeEngine: [Success] Import Done
+[2025.05.06-02.27.13:463][602]LogMeshUtilities: Finished distance field build in 5.4s - 126x70x126 sparse distance field, 0.8Mb total, 0.0Mb always loaded, 40% occupied, 3293 triangles, Angel_LP
+[2025.05.06-02.27.34:442][ 68]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8123.568848
+[2025.05.06-02.27.34:778][ 75]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.06-02.27.34:779][ 75]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8123.865234, Update Interval: 315.326385
+[2025.05.06-02.27.52:757][480]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2025.05.06-02.27.54:316][480]LogSlate: Window 'Delete Assets' being destroyed
+[2025.05.06-02.27.54:354][480]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2025.05.06-02.27.54:385][480]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2025.05.06-02.27.54:417][480]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.05.06-02.28.00:799][551]LogStreaming: Display: FlushAsyncLoading(618): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.06-02.28.00:921][551]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Cheska/Documents/Pookie's College Stuff/3D FBX/angel-silver-version/source/Angel_LP.fbx]
+[2025.05.06-02.28.21:770][551]LogSlate: Window 'Import Content' being destroyed
+[2025.05.06-02.28.21:826][551]LogInterchangeEngine: [Pending] Importing
+[2025.05.06-02.28.22:341][554]LogStreaming: Display: FlushAsyncLoading(621): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.06-02.28.22:395][556]LogStaticMesh: Display: Building static mesh Angel_LP (Required Memory Estimate: 15.118917 MB)...
+[2025.05.06-02.28.22:531][561]LogStaticMesh: Adjacency [0.01s], tris: 9880, UVs 1
+[2025.05.06-02.28.22:546][561]LogStaticMesh: Clustering [0.01s]. Ratio: 1.038462
+[2025.05.06-02.28.22:548][561]LogStaticMesh: Leaves [0.00s]
+[2025.05.06-02.28.23:347][584]LogStaticMesh: Reduce [0.80s]
+[2025.05.06-02.28.23:574][590]LogStaticMesh: Fallback [0.23s], num tris: 4150
+[2025.05.06-02.28.23:590][591]LogStaticMesh: ConstrainClusters:
+[2025.05.06-02.28.23:590][591]LogStaticMesh:   Input: 165 Clusters, 20464 Triangles and 15916 Vertices
+[2025.05.06-02.28.23:590][591]LogStaticMesh:   Output without splits: 165 Clusters, 20464 Triangles and 16075 Vertices
+[2025.05.06-02.28.23:590][591]LogStaticMesh:   Output with splits: 165 Clusters, 20464 Triangles and 16075 Vertices
+[2025.05.06-02.28.23:593][591]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 165, Slow Path Clusters: 0, 1 Material: 165, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.05.06-02.28.23:599][591]LogStaticMesh: WritePages:
+[2025.05.06-02.28.23:599][591]LogStaticMesh:   Root: GPU size: 32104 bytes. 1 Pages. 32104.000 bytes per page (97.974% utilization).
+[2025.05.06-02.28.23:599][591]LogStaticMesh:   Streaming: GPU size: 191340 bytes. 2 Pages (2 with relative encoding). 95670.000 bytes per page (72.990% utilization).
+[2025.05.06-02.28.23:599][591]LogStaticMesh:   Page data disk size: 183424 bytes. Fixup data size: 776 bytes.
+[2025.05.06-02.28.23:599][591]LogStaticMesh:   Total GPU size: 223444 bytes, Total disk size: 184200 bytes.
+[2025.05.06-02.28.23:599][591]LogStaticMesh: Encode [0.02s]
+[2025.05.06-02.28.23:599][591]LogStaticMesh: Nanite build [1.08s]
+
+[2025.05.06-02.28.23:619][592]LogStaticMesh: Built static mesh [1.22s] /Game/MyStuff/Angel_LP.Angel_LP
+[2025.05.06-02.28.28:602][595]LogMeshUtilities: Finished distance field build in 4.9s - 126x70x126 sparse distance field, 0.8Mb total, 0.0Mb always loaded, 40% occupied, 3293 triangles, Angel_LP
+[2025.05.06-02.28.28:625][596]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Cheska/Docu...ilver-version/source/Angel_LP.fbx]
+[2025.05.06-02.28.28:625][596]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.05.06-02.28.28:625][596]LogInterchangeEngine: [Success] Import Done
+[2025.05.06-02.28.34:242][721]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2025.05.06-02.28.35:708][742]LogMeshUtilities: Finished distance field build in 6.9s - 126x70x126 sparse distance field, 0.8Mb total, 0.0Mb always loaded, 40% occupied, 3293 triangles, Angel_LP
+[2025.05.06-02.28.40:182][840]Cmd: TRANSACTION UNDO
+[2025.05.06-02.28.40:182][840]LogEditorTransaction: Undo Edit Skeletal Mesh Asset
+[2025.05.06-02.31.45:201][933]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2025.05.06-02.31.45:205][933]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.039
+[2025.05.06-02.31.45:205][933]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/MyStuff/BP_WeepingAngel] ([2] browsable assets)...
+[2025.05.06-02.31.45:229][933]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/MyStuff/BP_WeepingAngel.BP_WeepingAngel]
+[2025.05.06-02.31.45:229][933]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyStuff/BP_WeepingAngel]
+[2025.05.06-02.31.45:234][933]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MyStuff/BP_WeepingAngel_Auto9
+[2025.05.06-02.31.45:234][933]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/BP_WeepingAngel_Auto9D4EE6B1C4102CFE2CFAC9BA244E9DA02.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/MyStuff/BP_WeepingAngel_Auto9.uasset'
+[2025.05.06-02.31.45:236][933]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MyStuff/Angel_LP] ([1] browsable assets)...
+[2025.05.06-02.31.45:254][933]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/MyStuff/Angel_LP.Angel_LP]
+[2025.05.06-02.31.45:254][933]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyStuff/Angel_LP]
+[2025.05.06-02.31.45:269][933]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MyStuff/Angel_LP_Auto9
+[2025.05.06-02.31.45:269][933]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Angel_LP_Auto9ECC6EF314B216FC11207DA81B1F0927E.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/MyStuff/Angel_LP_Auto9.uasset'
+[2025.05.06-02.31.45:271][933]LogFileHelpers: Auto-saving content packages took 0.066
+[2025.05.06-02.33.31:976][ 40]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8481.090820
+[2025.05.06-02.33.32:323][ 48]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.06-02.33.32:324][ 48]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8481.395508, Update Interval: 303.612793
+[2025.05.06-02.34.30:204][ 92]LogShaderCompilers: Display: ================================================
+[2025.05.06-02.34.30:204][ 92]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.05.06-02.34.30:205][ 92]LogShaderCompilers: Display: Total job queries 324, among them cache hits 55 (16.98%), DDC hits 249 (76.85%), Duplicates 2 (0.62%)
+[2025.05.06-02.34.30:205][ 92]LogShaderCompilers: Display: Tracking 267 distinct input hashes that result in 213 distinct outputs (79.78%)
+[2025.05.06-02.34.30:205][ 92]LogShaderCompilers: Display: RAM used: 142.50 KiB of 819.20 MiB budget. Usage: 0.02%
+[2025.05.06-02.34.30:205][ 92]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.05.06-02.34.30:205][ 92]LogShaderCompilers: Display: Shaders Compiled: 18
+[2025.05.06-02.34.30:205][ 92]LogShaderCompilers: Display: Jobs assigned 18, completed 18 (100%)
+[2025.05.06-02.34.30:205][ 92]LogShaderCompilers: Display: Average time worker was idle: 1407.60 s
+[2025.05.06-02.34.30:205][ 92]LogShaderCompilers: Display: Time job spent in pending queue: average 0.68 s, longest 5.14 s
+[2025.05.06-02.34.30:205][ 92]LogShaderCompilers: Display: Job execution time: average 1.94 s, max 5.34 s
+[2025.05.06-02.34.30:205][ 92]LogShaderCompilers: Display: Job life time (pending + execution): average 2.62 s, max 5.75
+[2025.05.06-02.34.30:205][ 92]LogShaderCompilers: Display: Shader code size: average 6.515 KiB, min 4.086 KiB, max 10.859 KiB
+[2025.05.06-02.34.30:205][ 92]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 13.69 s
+[2025.05.06-02.34.30:205][ 92]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.05.06-02.34.30:205][ 92]LogShaderCompilers: Display: Jobs were issued in 18 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.05.06-02.34.30:205][ 92]LogShaderCompilers: Display: Average processing rate: 1.32 jobs/sec
+[2025.05.06-02.34.30:205][ 92]LogShaderCompilers: Display: Total thread time: 13.882 s
+[2025.05.06-02.34.30:205][ 92]LogShaderCompilers: Display: Total thread preprocess time: 8.203 s
+[2025.05.06-02.34.30:205][ 92]LogShaderCompilers: Display: Percentage time preprocessing: 59.09%
+[2025.05.06-02.34.30:205][ 92]LogShaderCompilers: Display: Effective parallelization: 1.01 (times faster than compiling all shaders on one thread). Compare with number of workers: 3
+[2025.05.06-02.34.30:205][ 92]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.05.06-02.34.30:205][ 92]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    4 times, average 0.97 sec, max 1.12 sec, min 0.86 sec)
+[2025.05.06-02.34.30:205][ 92]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    4 times, average 0.66 sec, max 0.78 sec, min 0.59 sec)
+[2025.05.06-02.34.30:205][ 92]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    2 times, average 0.63 sec, max 0.63 sec, min 0.63 sec)
+[2025.05.06-02.34.30:205][ 92]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    4 times, average 0.62 sec, max 0.74 sec, min 0.53 sec)
+[2025.05.06-02.34.30:205][ 92]LogShaderCompilers: Display:                                                  FVelocityVS (compiled    2 times, average 0.61 sec, max 0.61 sec, min 0.61 sec)
+[2025.05.06-02.34.30:205][ 92]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.05.06-02.34.30:205][ 92]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 27.94% of total time (compiled    4 times, average 0.97 sec, max 1.12 sec, min 0.86 sec)
+[2025.05.06-02.34.30:205][ 92]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 18.88% of total time (compiled    4 times, average 0.66 sec, max 0.78 sec, min 0.59 sec)
+[2025.05.06-02.34.30:205][ 92]LogShaderCompilers: Display:                                                 FLumenCardVS - 17.93% of total time (compiled    4 times, average 0.62 sec, max 0.74 sec, min 0.53 sec)
+[2025.05.06-02.34.30:205][ 92]LogShaderCompilers: Display:                                                 FLumenCardPS - 17.45% of total time (compiled    4 times, average 0.61 sec, max 0.71 sec, min 0.49 sec)
+[2025.05.06-02.34.30:205][ 92]LogShaderCompilers: Display:                                                  FVelocityPS - 9.05% of total time (compiled    2 times, average 0.63 sec, max 0.63 sec, min 0.63 sec)
+[2025.05.06-02.34.30:205][ 92]LogShaderCompilers: Display: === Material stats ===
+[2025.05.06-02.34.30:205][ 92]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.05.06-02.34.30:205][ 92]LogShaderCompilers: Display: Materials Translated:    152
+[2025.05.06-02.34.30:205][ 92]LogShaderCompilers: Display: Material Total Translate Time: 0.40 s
+[2025.05.06-02.34.30:205][ 92]LogShaderCompilers: Display: Material Translation Only: 0.21 s (53%)
+[2025.05.06-02.34.30:205][ 92]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.05.06-02.34.30:205][ 92]LogShaderCompilers: Display: Material Cache Hits: 21 (14%)
+[2025.05.06-02.34.30:205][ 92]LogShaderCompilers: Display: ================================================
+[2025.05.06-02.39.30:271][736]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8839.364258
+[2025.05.06-02.39.31:271][739]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.06-02.39.31:271][739]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8840.031250, Update Interval: 310.243225
+[2025.05.06-02.43.13:845][687]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2025.05.06-02.43.13:849][687]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.046
+[2025.05.06-02.43.13:849][687]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/MyStuff/BP_WeepingAngel] ([2] browsable assets)...
+[2025.05.06-02.43.14:066][687]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/MyStuff/BP_WeepingAngel.BP_WeepingAngel]
+[2025.05.06-02.43.14:067][687]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyStuff/BP_WeepingAngel]
+[2025.05.06-02.43.14:077][687]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MyStuff/BP_WeepingAngel_Auto0
+[2025.05.06-02.43.14:077][687]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/BP_WeepingAngel_Auto0093F1D914609C1632135E38F1B637FB9.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/MyStuff/BP_WeepingAngel_Auto0.uasset'
+[2025.05.06-02.43.14:079][687]LogFileHelpers: Auto-saving content packages took 0.230
+[2025.05.06-02.43.31:876][947]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/MyStuff/Angel_LP.Angel_LP
+[2025.05.06-02.43.31:889][947]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2025.05.06-02.44.17:881][863]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2025.05.06-02.44.17:887][863]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.06-02.44.17:989][863]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/MyStuff/BP_WeepingAngel] ([2] browsable assets)...
+[2025.05.06-02.44.18:102][863]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/MyStuff/BP_WeepingAngel.BP_WeepingAngel]
+[2025.05.06-02.44.18:102][863]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyStuff/BP_WeepingAngel]
+[2025.05.06-02.44.18:114][863]LogSavePackage: Moving output files for package: /Game/MyStuff/BP_WeepingAngel
+[2025.05.06-02.44.18:114][863]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/BP_WeepingAngelBF81A1084C87B53D330155A7C8E7B322.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Content/MyStuff/BP_WeepingAngel.uasset'
+[2025.05.06-02.44.18:120][863]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MyStuff/Angel_LP] ([1] browsable assets)...
+[2025.05.06-02.44.18:141][863]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/MyStuff/Angel_LP.Angel_LP]
+[2025.05.06-02.44.18:141][863]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyStuff/Angel_LP]
+[2025.05.06-02.44.18:141][863]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyStuff/Angel_LP" FILE="C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Content/MyStuff/Angel_LP.uasset" SILENT=true
+[2025.05.06-02.44.18:191][863]LogSavePackage: Moving output files for package: /Game/MyStuff/Angel_LP
+[2025.05.06-02.44.18:191][863]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Angel_LPA21F233F489B4FB053CA28BE6DF34619.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Content/MyStuff/Angel_LP.uasset'
+[2025.05.06-02.44.18:205][863]LogFileHelpers: InternalPromptForCheckoutAndSave took 318.376 ms (total: 2.60 sec)
+[2025.05.06-02.44.18:309][863]LogContentValidation: Display: Starting to validate 2 assets
+[2025.05.06-02.44.18:309][863]LogContentValidation: Enabled validators:
+[2025.05.06-02.44.18:309][863]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.06-02.44.18:309][863]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.06-02.44.18:309][863]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.06-02.44.18:309][863]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.06-02.44.18:309][863]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.06-02.44.18:309][863]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.06-02.44.18:309][863]AssetCheck: /Game/MyStuff/BP_WeepingAngel Validating asset
+[2025.05.06-02.44.18:309][863]AssetCheck: /Game/MyStuff/Angel_LP Validating asset
+[2025.05.06-02.45.15:511][979]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9184.569336
+[2025.05.06-02.45.15:813][989]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.06-02.45.15:813][989]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9184.843750, Update Interval: 347.264618
+[2025.05.06-02.51.41:610][884]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9570.592773
+[2025.05.06-02.51.42:610][887]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.06-02.51.42:610][887]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9571.260742, Update Interval: 317.479797
+[2025.05.06-02.52.07:463][425]LogEditorTransaction: Undo Move Node
+[2025.05.06-02.52.18:784][776]LogEditorTransaction: Undo Move Node
+[2025.05.06-02.52.19:732][777]LogEditorTransaction: Undo Move Node
+[2025.05.06-02.53.11:153][282]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2025.05.06-02.53.11:160][282]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.06-02.53.11:254][282]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/MyStuff/BP_WeepingAngel] ([2] browsable assets)...
+[2025.05.06-02.53.11:496][282]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/MyStuff/BP_WeepingAngel.BP_WeepingAngel]
+[2025.05.06-02.53.11:496][282]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyStuff/BP_WeepingAngel]
+[2025.05.06-02.53.11:512][282]LogSavePackage: Moving output files for package: /Game/MyStuff/BP_WeepingAngel
+[2025.05.06-02.53.11:513][282]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/BP_WeepingAngel8755B61940EB86B4642572BC9EF9F22C.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Content/MyStuff/BP_WeepingAngel.uasset'
+[2025.05.06-02.53.11:527][282]LogFileHelpers: InternalPromptForCheckoutAndSave took 367.687 ms (total: 2.97 sec)
+[2025.05.06-02.53.11:635][282]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.06-02.53.11:635][282]LogContentValidation: Enabled validators:
+[2025.05.06-02.53.11:635][282]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.06-02.53.11:635][282]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.06-02.53.11:636][282]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.06-02.53.11:636][282]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.06-02.53.11:636][282]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.06-02.53.11:636][282]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.06-02.53.11:636][282]AssetCheck: /Game/MyStuff/BP_WeepingAngel Validating asset
+[2025.05.06-02.53.32:406][683]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyStuff/BP_WeepingAngel.BP_WeepingAngel_C
+[2025.05.06-02.53.32:406][683]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyStuff/BP_WeepingAngel.BP_WeepingAngel_C
+[2025.05.06-02.53.32:409][683]LogActorFactory: Actor Factory spawned Blueprint /Game/MyStuff/BP_WeepingAngel.BP_WeepingAngel as actor: BP_WeepingAngel_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_WeepingAngel_C_0
+[2025.05.06-02.53.32:411][683]LogActorFactory: Actor Factory spawned Blueprint /Game/MyStuff/BP_WeepingAngel.BP_WeepingAngel as actor: BP_WeepingAngel_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_WeepingAngel_C_0
+[2025.05.06-02.53.33:443][698]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2025.05.06-02.53.33:485][698]LogEditorActor: Deleted 0 Actors (0.072 secs)
+[2025.05.06-02.53.33:513][698]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyStuff/BP_WeepingAngel.BP_WeepingAngel_C
+[2025.05.06-02.53.33:513][698]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyStuff/BP_WeepingAngel.BP_WeepingAngel_C
+[2025.05.06-02.53.33:520][698]LogActorFactory: Actor Factory spawned Blueprint /Game/MyStuff/BP_WeepingAngel.BP_WeepingAngel as actor: BP_WeepingAngel_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_WeepingAngel_C_UAID_2CFDA1419EE2B26502_1804253512
+[2025.05.06-02.53.33:523][698]LogActorFactory: Actor Factory spawned Blueprint /Game/MyStuff/BP_WeepingAngel.BP_WeepingAngel as actor: BP_WeepingAngel_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_WeepingAngel_C_UAID_2CFDA1419EE2B26502_1804253512
+[2025.05.06-02.55.02:491][332]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2025.05.06-02.55.02:498][332]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/IT/HOJNHASCTB59B7T7UY9TDV_Auto1
+[2025.05.06-02.55.02:498][332]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/HOJNHASCTB59B7T7UY9TDV_Auto1789D7E904B47CBB0F35C86A597973051.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/IT/HOJNHASCTB59B7T7UY9TDV_Auto1.uasset'
+[2025.05.06-02.55.02:500][332]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.041
+[2025.05.06-02.55.02:500][332]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.041
+[2025.05.06-02.57.13:892][911]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.06-02.57.13:899][911]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.05.06-02.57.13:899][911]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2025.05.06-02.57.13:903][911]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 3.417 ms (total: 45.153 ms)
+[2025.05.06-02.57.13:904][911]LogPlayLevel: [PlayLevel] Compiling BP_WeepingAngel before play...
+[2025.05.06-02.57.14:517][911]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2025.05.06-02.57.14:519][911]LogPlayLevel: PlayLevel: Blueprint regeneration took 615 ms (1 blueprints)
+[2025.05.06-02.57.14:519][911]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.05.06-02.57.14:526][911]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007006s)
+[2025.05.06-02.57.14:527][911]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.007069s)
+[2025.05.06-02.57.14:553][911]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2025.05.06-02.57.14:555][911]LogChaosDD: Creating Chaos Debug Draw Scene for world FirstPersonMap
+[2025.05.06-02.57.14:558][911]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.05.06-02.57.14:558][911]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.05.06-02.57.14:558][911]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.05.06-02.57.14:558][911]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.05.06-02.57.14:560][911]LogWorldPartition: Display: WorldPartition initialize took 2.286 ms (total: 512.511 ms)
+[2025.05.06-02.57.14:560][911]LogPlayLevel: PIE: World Init took: (0.005643s)
+[2025.05.06-02.57.14:562][911]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.05.06-02.57.14:562][911]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.06-02.57.14:562][911]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.06-02.57.14:562][911]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.06-02.57.14:562][911]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.06-02.57.14:562][911]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.05.06-02.57.14:562][911]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.06-02.57.14:562][911]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.05.06-02.57.14:562][911]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.06-02.57.14:562][911]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.06-02.57.14:562][911]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.06-02.57.14:562][911]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.06-02.57.14:567][911]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.06-02.57.14:590][911]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- High Definition Audio Device)
+[2025.05.06-02.57.14:590][911]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.06-02.57.14:590][911]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.06-02.57.14:590][911]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.06-02.57.14:592][911]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.05.06-02.57.14:592][911]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2025.05.06-02.57.14:595][911]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.05.06-02.57.14:595][911]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2025.05.06-02.57.14:595][911]LogInit: FAudioDevice initialized with ID 4.
+[2025.05.06-02.57.14:595][911]LogAudio: Display: Audio Device (ID: 4) registered with world 'FirstPersonMap'.
+[2025.05.06-02.57.14:595][911]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2025.05.06-02.57.14:607][911]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.05.06-02.57.14:631][911]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 60) at 2025.05.06-10.57.14
+[2025.05.06-02.57.14:679][911]LogWorld: Bringing up level for play took: 0.071656
+[2025.05.06-02.57.14:696][911]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2025.05.06-02.57.14:731][911]PIE: Server logged in
+[2025.05.06-02.57.14:732][911]PIE: Play in editor total start time 0.834 seconds.
+[2025.05.06-02.57.21:908][981]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.06-02.57.21:908][981]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.05.06-02.57.21:937][981]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.05.06-02.57.21:938][981]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.06-02.57.21:938][981]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap
+[2025.05.06-02.57.22:017][981]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.06-02.57.22:023][981]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.06-02.57.22:055][981]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.06-02.57.22:055][981]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2025.05.06-02.57.22:056][981]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.05.06-02.57.22:059][981]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.05.06-02.57.22:104][981]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2025.05.06-02.57.22:208][982]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2025.05.06-02.57.58:503][639]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9947.472656
+[2025.05.06-02.57.58:939][643]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.06-02.57.58:939][643]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9947.839844, Update Interval: 355.718872
+[2025.05.06-02.58.45:653][621]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.06-02.58.45:661][621]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.05.06-02.58.45:661][621]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2025.05.06-02.58.45:665][621]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 3.423 ms (total: 48.576 ms)
+[2025.05.06-02.58.45:668][621]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.06-02.58.45:668][621]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.05.06-02.58.45:675][621]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006807s)
+[2025.05.06-02.58.45:675][621]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.006854s)
+[2025.05.06-02.58.45:709][621]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2025.05.06-02.58.45:711][621]LogChaosDD: Creating Chaos Debug Draw Scene for world FirstPersonMap
+[2025.05.06-02.58.45:713][621]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.05.06-02.58.45:713][621]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.05.06-02.58.45:713][621]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.05.06-02.58.45:713][621]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.05.06-02.58.45:715][621]LogWorldPartition: Display: WorldPartition initialize took 2.163 ms (total: 514.675 ms)
+[2025.05.06-02.58.45:715][621]LogPlayLevel: PIE: World Init took: (0.004102s)
+[2025.05.06-02.58.45:717][621]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2025.05.06-02.58.45:717][621]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.06-02.58.45:717][621]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.06-02.58.45:717][621]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.06-02.58.45:717][621]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.06-02.58.45:717][621]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.05.06-02.58.45:717][621]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.06-02.58.45:717][621]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.05.06-02.58.45:717][621]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.06-02.58.45:717][621]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.06-02.58.45:717][621]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.06-02.58.45:717][621]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.06-02.58.45:719][621]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.06-02.58.45:739][621]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- High Definition Audio Device)
+[2025.05.06-02.58.45:739][621]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.06-02.58.45:739][621]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.06-02.58.45:739][621]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.06-02.58.45:740][621]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2025.05.06-02.58.45:741][621]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2025.05.06-02.58.45:743][621]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2025.05.06-02.58.45:743][621]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2025.05.06-02.58.45:743][621]LogInit: FAudioDevice initialized with ID 5.
+[2025.05.06-02.58.45:743][621]LogAudio: Display: Audio Device (ID: 5) registered with world 'FirstPersonMap'.
+[2025.05.06-02.58.45:744][621]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2025.05.06-02.58.45:747][621]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.05.06-02.58.45:750][621]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 60) at 2025.05.06-10.58.45
+[2025.05.06-02.58.45:751][621]LogWorld: Bringing up level for play took: 0.003173
+[2025.05.06-02.58.45:754][621]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2025.05.06-02.58.45:758][621]PIE: Server logged in
+[2025.05.06-02.58.45:760][621]PIE: Play in editor total start time 0.098 seconds.
+[2025.05.06-02.59.28:749][421]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.06-02.59.28:749][421]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.05.06-02.59.28:749][421]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.05.06-02.59.28:750][421]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.06-02.59.28:750][421]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap
+[2025.05.06-02.59.28:811][421]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.06-02.59.28:818][421]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.06-02.59.28:850][421]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.06-02.59.28:851][421]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2025.05.06-02.59.28:851][421]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.05.06-02.59.28:853][421]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.05.06-02.59.28:863][421]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2025.05.06-02.59.29:122][422]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2025.05.06-03.01.28:426][729]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.06-03.01.28:435][729]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.05.06-03.01.28:435][729]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2025.05.06-03.01.28:438][729]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 3.383 ms (total: 51.960 ms)
+[2025.05.06-03.01.28:439][729]LogPlayLevel: [PlayLevel] Compiling BP_WeepingAngel before play...
+[2025.05.06-03.01.28:688][729]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2025.05.06-03.01.28:690][729]LogPlayLevel: PlayLevel: Blueprint regeneration took 251 ms (1 blueprints)
+[2025.05.06-03.01.28:691][729]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.05.06-03.01.28:697][729]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006053s)
+[2025.05.06-03.01.28:697][729]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.006108s)
+[2025.05.06-03.01.28:723][729]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2025.05.06-03.01.28:724][729]LogChaosDD: Creating Chaos Debug Draw Scene for world FirstPersonMap
+[2025.05.06-03.01.28:727][729]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.05.06-03.01.28:727][729]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.05.06-03.01.28:727][729]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.05.06-03.01.28:727][729]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.05.06-03.01.28:729][729]LogWorldPartition: Display: WorldPartition initialize took 2.018 ms (total: 516.693 ms)
+[2025.05.06-03.01.28:729][729]LogPlayLevel: PIE: World Init took: (0.004290s)
+[2025.05.06-03.01.28:730][729]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2025.05.06-03.01.28:730][729]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.06-03.01.28:730][729]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.06-03.01.28:730][729]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.06-03.01.28:730][729]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.06-03.01.28:730][729]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.05.06-03.01.28:730][729]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.06-03.01.28:730][729]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.05.06-03.01.28:730][729]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.06-03.01.28:730][729]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.06-03.01.28:730][729]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.06-03.01.28:730][729]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.06-03.01.28:733][729]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.06-03.01.28:753][729]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- High Definition Audio Device)
+[2025.05.06-03.01.28:753][729]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.06-03.01.28:753][729]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.06-03.01.28:753][729]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.06-03.01.28:754][729]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2025.05.06-03.01.28:754][729]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2025.05.06-03.01.28:757][729]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2025.05.06-03.01.28:758][729]LogInit: FAudioDevice initialized with ID 6.
+[2025.05.06-03.01.28:758][729]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2025.05.06-03.01.28:758][729]LogAudio: Display: Audio Device (ID: 6) registered with world 'FirstPersonMap'.
+[2025.05.06-03.01.28:758][729]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2025.05.06-03.01.28:761][729]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.05.06-03.01.28:765][729]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 60) at 2025.05.06-11.01.28
+[2025.05.06-03.01.28:766][729]LogWorld: Bringing up level for play took: 0.003588
+[2025.05.06-03.01.28:769][729]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2025.05.06-03.01.28:774][729]PIE: Server logged in
+[2025.05.06-03.01.28:775][729]PIE: Play in editor total start time 0.34 seconds.
+[2025.05.06-03.01.49:388][ 31]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.06-03.01.49:389][ 31]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.05.06-03.01.49:389][ 31]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.05.06-03.01.49:390][ 31]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.06-03.01.49:390][ 31]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap
+[2025.05.06-03.01.49:463][ 31]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.06-03.01.49:470][ 31]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.06-03.01.49:503][ 31]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.06-03.01.49:503][ 31]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2025.05.06-03.01.49:503][ 31]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2025.05.06-03.01.49:506][ 31]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2025.05.06-03.01.49:517][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2025.05.06-03.01.49:798][ 32]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2025.05.06-03.04.39:912][304]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10348.852539
+[2025.05.06-03.04.40:371][308]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.06-03.04.40:371][309]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10349.228516, Update Interval: 351.640991
+[2025.05.06-03.06.09:151][730]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2025.05.06-03.06.09:159][730]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.06-03.06.09:258][730]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/IT/HOJNHASCTB59B7T7UY9TDV
+[2025.05.06-03.06.09:258][730]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/HOJNHASCTB59B7T7UY9TDV1869F8A14C78EFD905A75C9E55940D99.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/IT/HOJNHASCTB59B7T7UY9TDV.uasset'
+[2025.05.06-03.06.09:260][730]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/MyStuff/BP_WeepingAngel] ([2] browsable assets)...
+[2025.05.06-03.06.09:434][730]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/MyStuff/BP_WeepingAngel.BP_WeepingAngel]
+[2025.05.06-03.06.09:434][730]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyStuff/BP_WeepingAngel]
+[2025.05.06-03.06.09:781][730]LogSavePackage: Moving output files for package: /Game/MyStuff/BP_WeepingAngel
+[2025.05.06-03.06.09:782][730]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/BP_WeepingAngelD7FB63B442F2D48EAC51748D486BED5F.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Content/MyStuff/BP_WeepingAngel.uasset'
+[2025.05.06-03.06.09:800][730]LogFileHelpers: InternalPromptForCheckoutAndSave took 640.743 ms (total: 3.61 sec)
+[2025.05.06-03.06.09:910][730]LogContentValidation: Display: Starting to validate 2 assets
+[2025.05.06-03.06.09:910][730]LogContentValidation: Enabled validators:
+[2025.05.06-03.06.09:910][730]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.06-03.06.09:910][730]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.06-03.06.09:910][730]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.06-03.06.09:910][730]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.06-03.06.09:910][730]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.06-03.06.09:910][730]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.06-03.06.09:911][730]AssetCheck: /Game/FirstPerson/Maps/FirstPersonMap Validating asset
+[2025.05.06-03.06.09:911][730]AssetCheck: /Game/MyStuff/BP_WeepingAngel Validating asset
+[2025.05.06-03.06.22:651][965]Cmd: DELETE
+[2025.05.06-03.06.22:651][965]Cmd: ACTOR DELETE
+[2025.05.06-03.06.22:982][965]LogEditorActor: Deleted Actor: BP_WeepingAngel_C
+[2025.05.06-03.06.23:017][965]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2025.05.06-03.06.23:021][965]LogEditorActor: Deleted 1 Actors (0.370 secs)
+[2025.05.06-03.06.26:169][ 14]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyStuff/BP_WeepingAngel.BP_WeepingAngel_C
+[2025.05.06-03.06.26:170][ 14]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyStuff/BP_WeepingAngel.BP_WeepingAngel_C
+[2025.05.06-03.06.26:172][ 14]LogActorFactory: Actor Factory spawned Blueprint /Game/MyStuff/BP_WeepingAngel.BP_WeepingAngel as actor: BP_WeepingAngel_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_WeepingAngel_C_1
+[2025.05.06-03.06.26:173][ 14]LogActorFactory: Actor Factory spawned Blueprint /Game/MyStuff/BP_WeepingAngel.BP_WeepingAngel as actor: BP_WeepingAngel_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_WeepingAngel_C_1
+[2025.05.06-03.06.27:510][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.05.06-03.06.27:513][ 39]LogEditorActor: Deleted 0 Actors (0.036 secs)
+[2025.05.06-03.06.27:524][ 39]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyStuff/BP_WeepingAngel.BP_WeepingAngel_C
+[2025.05.06-03.06.27:524][ 39]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyStuff/BP_WeepingAngel.BP_WeepingAngel_C
+[2025.05.06-03.06.27:529][ 39]LogActorFactory: Actor Factory spawned Blueprint /Game/MyStuff/BP_WeepingAngel.BP_WeepingAngel as actor: BP_WeepingAngel_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_WeepingAngel_C_UAID_2CFDA1419EE2B36502_1504522689
+[2025.05.06-03.06.27:531][ 39]LogActorFactory: Actor Factory spawned Blueprint /Game/MyStuff/BP_WeepingAngel.BP_WeepingAngel as actor: BP_WeepingAngel_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_WeepingAngel_C_UAID_2CFDA1419EE2B36502_1504522689
+[2025.05.06-03.06.53:824][254]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.06-03.06.53:832][254]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.05.06-03.06.53:832][254]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2025.05.06-03.06.53:836][254]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 3.580 ms (total: 55.540 ms)
+[2025.05.06-03.06.53:837][254]LogPlayLevel: [PlayLevel] Compiling BP_WeepingAngel before play...
+[2025.05.06-03.06.54:097][254]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2025.05.06-03.06.54:099][254]LogPlayLevel: PlayLevel: Blueprint regeneration took 263 ms (1 blueprints)
+[2025.05.06-03.06.54:099][254]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.05.06-03.06.54:106][254]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006088s)
+[2025.05.06-03.06.54:106][254]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.006148s)
+[2025.05.06-03.06.54:133][254]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2025.05.06-03.06.54:134][254]LogChaosDD: Creating Chaos Debug Draw Scene for world FirstPersonMap
+[2025.05.06-03.06.54:137][254]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.05.06-03.06.54:137][254]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.05.06-03.06.54:137][254]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.05.06-03.06.54:137][254]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.05.06-03.06.54:139][254]LogWorldPartition: Display: WorldPartition initialize took 1.965 ms (total: 518.658 ms)
+[2025.05.06-03.06.54:139][254]LogPlayLevel: PIE: World Init took: (0.004230s)
+[2025.05.06-03.06.54:140][254]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2025.05.06-03.06.54:140][254]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.06-03.06.54:140][254]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.06-03.06.54:140][254]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.06-03.06.54:140][254]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.06-03.06.54:140][254]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.05.06-03.06.54:140][254]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.06-03.06.54:140][254]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.05.06-03.06.54:140][254]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.06-03.06.54:140][254]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.06-03.06.54:140][254]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.06-03.06.54:140][254]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.06-03.06.54:143][254]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.06-03.06.54:163][254]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- High Definition Audio Device)
+[2025.05.06-03.06.54:164][254]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.06-03.06.54:164][254]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.06-03.06.54:164][254]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.06-03.06.54:166][254]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2025.05.06-03.06.54:166][254]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2025.05.06-03.06.54:169][254]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2025.05.06-03.06.54:169][254]LogInit: FAudioDevice initialized with ID 7.
+[2025.05.06-03.06.54:169][254]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2025.05.06-03.06.54:169][254]LogAudio: Display: Audio Device (ID: 7) registered with world 'FirstPersonMap'.
+[2025.05.06-03.06.54:169][254]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2025.05.06-03.06.54:172][254]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.05.06-03.06.54:175][254]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 60) at 2025.05.06-11.06.54
+[2025.05.06-03.06.54:176][254]LogWorld: Bringing up level for play took: 0.002853
+[2025.05.06-03.06.54:179][254]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2025.05.06-03.06.54:183][254]PIE: Server logged in
+[2025.05.06-03.06.54:184][254]PIE: Play in editor total start time 0.353 seconds.
+[2025.05.06-03.07.23:228][758]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.06-03.07.23:228][758]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.05.06-03.07.23:228][758]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.05.06-03.07.23:228][758]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.06-03.07.23:229][758]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap
+[2025.05.06-03.07.23:296][758]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.06-03.07.23:304][758]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.06-03.07.23:337][758]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.06-03.07.23:338][758]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2025.05.06-03.07.23:338][758]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2025.05.06-03.07.23:340][758]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2025.05.06-03.07.23:350][758]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2025.05.06-03.07.23:601][759]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2025.05.06-03.07.50:341][882]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2025.05.06-03.07.50:347][882]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/X2/95NIHTD4JS7UY4FGQA9MBP_Auto2
+[2025.05.06-03.07.50:347][882]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/95NIHTD4JS7UY4FGQA9MBP_Auto2B07BB8A14CD4B6A399A69DAE717AD686.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/X2/95NIHTD4JS7UY4FGQA9MBP_Auto2.uasset'
+[2025.05.06-03.07.50:348][882]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.040
+[2025.05.06-03.07.50:348][882]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.040
+[2025.05.06-03.11.20:078][293]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10748.992188
+[2025.05.06-03.11.20:430][300]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.06-03.11.20:430][300]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10749.292969, Update Interval: 344.232300
+[2025.05.06-03.12.34:277][759]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.05.06-03.12.34:284][759]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.06-03.12.34:391][759]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.05.06-03.12.34:418][759]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.05.06-03.12.34:446][759]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.05.06-03.12.34:451][759]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/X2/95NIHTD4JS7UY4FGQA9MBP
+[2025.05.06-03.12.34:451][759]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/95NIHTD4JS7UY4FGQA9MBPB6839F7E443AC9AB4165CEB7935B0D2C.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/X2/95NIHTD4JS7UY4FGQA9MBP.uasset'
+[2025.05.06-03.12.34:454][759]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/MyStuff/BP_WeepingAngel] ([2] browsable assets)...
+[2025.05.06-03.12.34:822][759]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/MyStuff/BP_WeepingAngel.BP_WeepingAngel]
+[2025.05.06-03.12.34:822][759]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyStuff/BP_WeepingAngel]
+[2025.05.06-03.12.34:838][759]LogSavePackage: Moving output files for package: /Game/MyStuff/BP_WeepingAngel
+[2025.05.06-03.12.34:839][759]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/BP_WeepingAngel35327E0C49C6C3F03E01B588F34F5E0C.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Content/MyStuff/BP_WeepingAngel.uasset'
+[2025.05.06-03.12.34:858][759]LogFileHelpers: InternalPromptForCheckoutAndSave took 574.710 ms (total: 4.19 sec)
+[2025.05.06-03.12.34:955][759]LogContentValidation: Display: Starting to validate 2 assets
+[2025.05.06-03.12.34:955][759]LogContentValidation: Enabled validators:
+[2025.05.06-03.12.34:955][759]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.06-03.12.34:955][759]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.06-03.12.34:955][759]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.06-03.12.34:955][759]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.06-03.12.34:955][759]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.06-03.12.34:955][759]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.06-03.12.34:955][759]AssetCheck: /Game/FirstPerson/Maps/FirstPersonMap Validating asset
+[2025.05.06-03.12.34:956][759]AssetCheck: /Game/MyStuff/BP_WeepingAngel Validating asset
+[2025.05.06-03.12.42:525][898]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2025.05.06-03.13.13:579][553]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.05.06-03.13.20:429][694]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.05.06-03.13.27:376][842]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.05.06-03.13.30:644][905]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2025.05.06-03.13.30:652][905]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.06-03.13.30:758][905]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Z7/W1SXRCM1KAKBJOIZDLHZ47
+[2025.05.06-03.13.30:759][905]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/W1SXRCM1KAKBJOIZDLHZ47DAD180C641B54696F9017FAC516840C3.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Z7/W1SXRCM1KAKBJOIZDLHZ47.uasset'
+[2025.05.06-03.13.30:787][905]LogFileHelpers: InternalPromptForCheckoutAndSave took 134.721 ms (total: 4.32 sec)
+[2025.05.06-03.13.30:901][905]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.06-03.13.30:901][905]LogContentValidation: Enabled validators:
+[2025.05.06-03.13.30:901][905]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.06-03.13.30:901][905]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.06-03.13.30:901][905]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.06-03.13.30:901][905]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.06-03.13.30:901][905]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.06-03.13.30:901][905]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.06-03.13.30:901][905]AssetCheck: /Game/FirstPerson/Maps/FirstPersonMap Validating asset
+[2025.05.06-03.13.33:821][965]Cmd: CLOSE_SLATE_MAINFRAME
+[2025.05.06-03.13.34:222][965]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2025.05.06-03.13.34:390][965]LogStall: Shutdown...
+[2025.05.06-03.13.34:390][965]LogStall: Shutdown complete.
+[2025.05.06-03.13.34:496][965]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.05.06-03.13.34:496][965]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.06-03.13.34:611][965]LogSlate: Window 'Angel_LP' being destroyed
+[2025.05.06-03.13.34:823][965]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.05.06-03.13.34:823][965]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.06-03.13.34:888][965]LogSlate: Window 'GP3_HorrorArea - Unreal Editor' being destroyed
+[2025.05.06-03.13.35:624][966]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2025.05.06-03.13.35:649][967]Cmd: QUIT_EDITOR
+[2025.05.06-03.13.35:649][967]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.05.06-03.13.35:721][967]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.05.06-03.13.35:742][967]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.05.06-03.13.35:742][967]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.05.06-03.13.35:787][967]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.05.06-03.13.35:787][967]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.06-03.13.35:787][967]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap
+[2025.05.06-03.13.35:970][967]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.05.06-03.13.36:061][967]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.05.06-03.13.36:123][967]LogDerivedDataCache: C:/Users/Cheska/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.05.06-03.13.36:233][967]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.05.06-03.13.36:233][967]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.06-03.13.36:237][967]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.05.06-03.13.36:237][967]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.06-03.13.36:241][967]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.05.06-03.13.36:241][967]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.06-03.13.36:245][967]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.05.06-03.13.36:245][967]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.06-03.13.36:267][967]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.05.06-03.13.36:267][967]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.06-03.13.36:271][967]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.05.06-03.13.36:271][967]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.06-03.13.36:402][967]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.05.06-03.13.36:477][967]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2025.05.06-03.13.36:479][967]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2025.05.06-03.13.36:479][967]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2025.05.06-03.13.37:242][967]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.05.06-03.13.37:242][967]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.05.06-03.13.37:242][967]LogAudio: Display: Audio Device unregistered from world 'FirstPersonMap'.
+[2025.05.06-03.13.37:267][967]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.05.06-03.13.37:268][967]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.05.06-03.13.37:279][967]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.05.06-03.13.37:302][967]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.05.06-03.13.37:302][967]LogAudio: Display: Audio Device Manager Shutdown
+[2025.05.06-03.13.37:306][967]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2025.05.06-03.13.37:356][967]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.05.06-03.13.37:366][967]LogExit: Preparing to exit.
+[2025.05.06-03.13.37:938][967]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2025.05.06-03.13.37:942][967]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.06-03.13.37:942][967]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.06-03.13.37:949][967]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.06-03.13.37:951][967]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.06-03.13.37:951][967]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.06-03.13.37:951][967]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.06-03.13.37:951][967]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.06-03.13.37:951][967]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.06-03.13.37:951][967]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.06-03.13.37:951][967]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.06-03.13.37:951][967]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.06-03.13.37:951][967]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.06-03.13.37:952][967]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.06-03.13.37:952][967]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.06-03.13.37:952][967]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.06-03.13.37:952][967]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.06-03.13.37:952][967]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.06-03.13.37:952][967]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.06-03.13.37:953][967]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.06-03.13.37:954][967]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.06-03.13.37:954][967]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.06-03.13.39:118][967]LogEditorDataStorage: Deinitializing
+[2025.05.06-03.13.40:727][967]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.05.06-03.13.41:433][967]LogExit: Editor shut down
+[2025.05.06-03.13.41:454][967]LogExit: Transaction tracking system shut down
+[2025.05.06-03.13.47:185][967]LogCore: Error: PropertyBag: Expecting RefCount to be zero on destructor, but it is 2.
+[2025.05.06-03.13.47:255][967]LogExit: Object subsystem successfully closed.
+[2025.05.06-03.13.47:319][967]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.05.06-03.13.48:730][967]LogMemoryProfiler: Shutdown
+[2025.05.06-03.13.48:732][967]LogNetworkingProfiler: Shutdown
+[2025.05.06-03.13.48:732][967]LoadingProfiler: Shutdown
+[2025.05.06-03.13.48:734][967]LogTimingProfiler: Shutdown
+[2025.05.06-03.13.52:131][967]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.05.06-03.13.52:206][967]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2025.05.06-03.13.52:206][967]LogNFORDenoise: NFORDenoise function shutting down
+[2025.05.06-03.13.52:255][967]RenderDocPlugin: plugin has been unloaded.
+[2025.05.06-03.13.52:354][967]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.05.06-03.13.52:354][967]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B971D038A-4345-5DB2-C968-D890C4458D6E%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.4-40574608%2B%2B%2BUE5%2BRelease-5.5&UserID=0454cea34d912ba70d72b18fe4248845%7Ce0abe0553a3b48199b1cf9477b8ea31b%7C118903f2-282f-4fd0-91e6-35b3cdc84f89&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.05.06-03.13.54:644][967]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.05.06-03.13.54:731][967]LogXGEController: Cleaning working directory: C:/Users/Cheska/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2025.05.06-03.13.55:013][967]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.05.06-03.13.55:013][967]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.05.06-03.13.55:035][967]LogPakFile: Destroying PakPlatformFile
+[2025.05.06-03.13.56:267][967]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.05.06-03.13.56:441][967]LogExit: Exiting.
+[2025.05.06-03.13.56:473][967]Log file closed, 05/06/25 11:13:56
