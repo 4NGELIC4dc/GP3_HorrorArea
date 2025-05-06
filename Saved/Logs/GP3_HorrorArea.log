@@ -1416,3 +1416,107 @@ LogConfig: CVar [[D3D12.Bindless.SamplerDescriptorHeapSize:2048]] deferred - dum
 [2025.05.06-08.05.23:536][527]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.05.06-08.05.23:536][527]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.05.06-08.05.23:537][527]AssetCheck: /Game/FirstPerson/Maps/FirstPersonMap Validating asset
+[2025.05.06-08.07.27:006][399]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.06-08.07.27:019][399]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.05.06-08.07.27:019][399]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2025.05.06-08.07.27:023][399]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 3.691 ms
+[2025.05.06-08.07.27:023][399]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.06-08.07.27:376][399]LogOnline: OSS: Created online subsystem instance for: NULL
+[2025.05.06-08.07.27:376][399]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2025.05.06-08.07.27:376][399]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.05.06-08.07.27:386][399]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010093s)
+[2025.05.06-08.07.27:386][399]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.010157s)
+[2025.05.06-08.07.27:400][399]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.05.06-08.07.27:402][399]LogChaosDD: Creating Chaos Debug Draw Scene for world FirstPersonMap
+[2025.05.06-08.07.27:416][399]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.05.06-08.07.27:416][399]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.05.06-08.07.27:416][399]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.05.06-08.07.27:416][399]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.05.06-08.07.27:439][399]LogWorldPartition: Display: WorldPartition initialize took 23.504 ms (total: 302.875 ms)
+[2025.05.06-08.07.27:439][399]LogPlayLevel: PIE: World Init took: (0.038027s)
+[2025.05.06-08.07.27:440][399]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.05.06-08.07.27:440][399]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.06-08.07.27:440][399]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.06-08.07.27:440][399]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.06-08.07.27:440][399]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.06-08.07.27:440][399]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.05.06-08.07.27:440][399]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.06-08.07.27:440][399]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.05.06-08.07.27:440][399]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.06-08.07.27:440][399]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.06-08.07.27:440][399]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.06-08.07.27:440][399]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.06-08.07.27:443][399]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.06-08.07.27:464][399]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- High Definition Audio Device)
+[2025.05.06-08.07.27:465][399]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.06-08.07.27:465][399]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.06-08.07.27:465][399]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.06-08.07.27:466][399]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.05.06-08.07.27:466][399]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2025.05.06-08.07.27:469][399]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.05.06-08.07.27:469][399]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2025.05.06-08.07.27:469][399]LogInit: FAudioDevice initialized with ID 2.
+[2025.05.06-08.07.27:469][399]LogAudio: Display: Audio Device (ID: 2) registered with world 'FirstPersonMap'.
+[2025.05.06-08.07.27:469][399]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2025.05.06-08.07.27:474][399]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.05.06-08.07.27:477][399]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 60) at 2025.05.06-16.07.27
+[2025.05.06-08.07.27:478][399]LogWorld: Bringing up level for play took: 0.004014
+[2025.05.06-08.07.27:481][399]LogOnline: OSS: Created online subsystem instance for: :Context_4
+[2025.05.06-08.07.27:509][399]PIE: Server logged in
+[2025.05.06-08.07.27:511][399]PIE: Play in editor total start time 0.492 seconds.
+[2025.05.06-08.07.50:872][866]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.06-08.07.50:872][866]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.05.06-08.07.50:873][866]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.05.06-08.07.50:874][866]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.06-08.07.50:874][866]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap
+[2025.05.06-08.07.50:929][866]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.06-08.07.50:932][866]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.06-08.07.50:946][866]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.06-08.07.50:946][866]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2025.05.06-08.07.50:947][866]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.05.06-08.07.50:949][866]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.05.06-08.07.50:961][866]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.05.06-08.07.51:005][867]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2025.05.06-08.08.35:624][684]Cmd: EDIT COPY
+[2025.05.06-08.08.35:799][688]Cmd: EDIT PASTE
+[2025.05.06-08.09.43:411][203]Cmd: DELETE
+[2025.05.06-08.09.43:411][203]Cmd: ACTOR DELETE
+[2025.05.06-08.09.43:832][203]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.06-08.09.43:848][203]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.05.06-08.09.43:851][203]LogEditorActor: Deleted 1 Actors (0.105 secs)
+[2025.05.06-08.09.47:938][277]Cmd: DELETE
+[2025.05.06-08.09.47:939][277]Cmd: ACTOR DELETE
+[2025.05.06-08.09.47:939][277]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.06-08.09.47:952][277]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.05.06-08.09.47:955][277]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2025.05.06-08.09.51:705][356]Cmd: DELETE
+[2025.05.06-08.09.51:705][356]Cmd: ACTOR DELETE
+[2025.05.06-08.09.51:706][356]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.06-08.09.51:719][356]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.05.06-08.09.51:721][356]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2025.05.06-08.10.49:808][728]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 701.038391
+[2025.05.06-08.10.50:230][738]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.06-08.10.50:230][738]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 701.412292, Update Interval: 319.316376
+[2025.05.06-08.11.16:342][329]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.05.06-08.11.16:350][329]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.06-08.11.16:790][329]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.05.06-08.11.16:803][329]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.05.06-08.11.16:817][329]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.05.06-08.11.16:820][329]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/PP/BSNQL21QPQEJWHGBY5ZIB9
+[2025.05.06-08.11.16:821][329]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/BSNQL21QPQEJWHGBY5ZIB9A35EC3CB4C9D12D99BE6E8B2423D2BEE.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/PP/BSNQL21QPQEJWHGBY5ZIB9.uasset'
+[2025.05.06-08.11.16:825][329]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/IA/HT5O0VN913A1W98AAC3ZHZ
+[2025.05.06-08.11.16:826][329]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/HT5O0VN913A1W98AAC3ZHZAA352987452F6AB2D4D4BDBA16F18687.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/IA/HT5O0VN913A1W98AAC3ZHZ.uasset'
+[2025.05.06-08.11.16:830][329]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/8S/I7J5XRSVWAQ4DOKLHG0N1Y
+[2025.05.06-08.11.16:830][329]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/I7J5XRSVWAQ4DOKLHG0N1YFC722EEE4968DC80D88CE886264576BC.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/8S/I7J5XRSVWAQ4DOKLHG0N1Y.uasset'
+[2025.05.06-08.11.16:833][329]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/VJ/JFX9L3AK5X7WRSL09DILX0
+[2025.05.06-08.11.16:833][329]LogSavePackage: Moving 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Saved/JFX9L3AK5X7WRSL09DILX0C17FBFC044C64B1848FC10B5F3E95C7F.tmp' to 'C:/Users/Cheska/Documents/Pookie's College Stuff/Game Programming 3/UE5/GP3_HorrorArea/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/VJ/JFX9L3AK5X7WRSL09DILX0.uasset'
+[2025.05.06-08.11.16:883][329]LogFileHelpers: InternalPromptForCheckoutAndSave took 532.982 ms (total: 700.847 ms)
+[2025.05.06-08.11.16:998][329]LogContentValidation: Display: Starting to validate 4 assets
+[2025.05.06-08.11.16:998][329]LogContentValidation: Enabled validators:
+[2025.05.06-08.11.16:998][329]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.06-08.11.16:998][329]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.06-08.11.16:998][329]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.06-08.11.16:998][329]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.06-08.11.16:998][329]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.06-08.11.16:998][329]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.06-08.11.16:998][329]AssetCheck: /Game/FirstPerson/Maps/FirstPersonMap Validating asset
